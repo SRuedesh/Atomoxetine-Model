@@ -4,7 +4,31 @@ createEvaluationReport <- function(qualificationRunnerFolder,
                                    maxSimulationsPerCore = NULL) {
   library(ospsuite.reportingengine)
 
-  workingDirectory <- file.path(getwd(), "Evaluation")
+  if (!is.character(qualificationRunnerFolder) ||
+      length(qualificationRunnerFolder) != 1 ||
+      is.na(qualificationRunnerFolder) ||
+      !nzchar(qualificationRunnerFolder) ||
+      !dir.exists(qualificationRunnerFolder)) {
+    stop("qualificationRunnerFolder must be a valid directory path")
+  }
+
+  findRepoRoot <- function(path) {
+    current <- normalizePath(path, winslash = "/", mustWork = TRUE)
+    repeat {
+      if (file.exists(file.path(current, "Atomoxetine-model.json")) &&
+          dir.exists(file.path(current, "Evaluation"))) {
+        return(current)
+      }
+      parent <- dirname(current)
+      if (identical(parent, current)) {
+        stop("Could not find repository root containing Atomoxetine-model.json and Evaluation")
+      }
+      current <- parent
+    }
+  }
+
+  repoRoot <- findRepoRoot(getwd())
+  workingDirectory <- file.path(repoRoot, "Evaluation")
   qualificationPlanFile <- file.path(workingDirectory, "Input", "evaluation_plan.json")
   reInputFolder <- file.path(workingDirectory, "re_input")
   reOutputFolder <- file.path(workingDirectory, "re_output")
@@ -37,4 +61,3 @@ createEvaluationReport <- function(qualificationRunnerFolder,
   workflow$runWorkflow()
   invisible(reportPath)
 }
-

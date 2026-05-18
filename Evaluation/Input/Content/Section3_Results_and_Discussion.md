@@ -10,9 +10,9 @@ The model quantifies CYP2D6-mediated metabolism, CYP2C19-mediated non-CYP2D6 met
 
 The next sections show:
 
-1. the final model input parameters for the building blocks: [Section 3.1](#31-atomoxetine-final-input-parameters).
-2. the overall goodness of fit: [Section 3.2](#32-atomoxetine-diagnostic-plots).
-3. simulated vs. observed concentration-time profiles for the clinical studies used for model building and for model verification: [Section 3.3](#33-concentration-time-profiles).
+1. the final model input parameters for the building blocks: [Section 3.1](Input_table.md).
+2. the overall goodness of fit: [Section 3.2](GOF_diagnostics.md).
+3. simulated vs. observed concentration-time profiles for the clinical studies used for model building and for model verification: [Section 3.3](Concentration_time_profiles.md).
 
 The source article reported good Atomoxetine base-model performance. Across Atomoxetine base-model evaluations, the reported mean GMFE was 1.20 for AUClast and 1.18 for Cmax. For plasma concentration values, 88.9% of Atomoxetine predictions were within two-fold of the corresponding observed values.
 

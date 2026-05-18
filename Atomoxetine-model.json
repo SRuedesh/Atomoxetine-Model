@@ -42255,7 +42255,7 @@
       "Name": "Byeon (2015) - atomoxetine, 40 mg (dose normalized), po, n=22 (AS=1.25)",
       "Model": "4Comp",
       "ObservedData": [
-        "Byeon (2015) - atomoxetine, 40 mg (dose normalized), po, n=18 (AS=0.5), atomoxetine"
+        "Byeon (2015) - atomoxetine, 40 mg (dose normalized), po, n=22 (AS=1.25), atomoxetine"
       ],
       "Solver": {},
       "OutputSchema": [
@@ -42404,9 +42404,9 @@
               }
             },
             {
-              "Name": "Byeon (2015) - atomoxetine, 40 mg (dose normalized), po, n=18 (AS=0.5), atomoxetine-Atomoxetine-Peripheral Venous Blood-Plasma-[ng/mL]",
-              "X": "Byeon (2015) - atomoxetine, 40 mg (dose normalized), po, n=18 (AS=0.5), atomoxetine|[h]",
-              "Y": "Byeon (2015) - atomoxetine, 40 mg (dose normalized), po, n=18 (AS=0.5), atomoxetine|ObservedData|Peripheral Venous Blood|Plasma|Atomoxetine|[ng/mL]",
+              "Name": "Byeon (2015) - atomoxetine, 40 mg (dose normalized), po, n=22 (AS=1.25), atomoxetine-Atomoxetine-Peripheral Venous Blood-Plasma-[ng/mL]",
+              "X": "Byeon (2015) - atomoxetine, 40 mg (dose normalized), po, n=22 (AS=1.25), atomoxetine|[h]",
+              "Y": "Byeon (2015) - atomoxetine, 40 mg (dose normalized), po, n=22 (AS=1.25), atomoxetine|ObservedData|Peripheral Venous Blood|Plasma|Atomoxetine|[ng/mL]",
               "CurveOptions": {
                 "Color": "#008000",
                 "LegendIndex": 3,
@@ -43199,10 +43199,10 @@
       ]
     },
     {
-      "Name": "Nakano (2016) - atomoxetine, 50 mg, po casules, n=42 (EM)",
+      "Name": "Nakano (2016) - atomoxetine, 50 mg, po capsules, n=42 (EM)",
       "Model": "4Comp",
       "ObservedData": [
-        "Nakano (2016) - atomoxetine, 50 mg, po casules, n=42 (EM), atomoxetine"
+        "Nakano (2016) - atomoxetine, 50 mg, po capsules, n=42 (EM), atomoxetine"
       ],
       "Solver": {},
       "OutputSchema": [
@@ -43347,18 +43347,18 @@
           ],
           "Curves": [
             {
-              "Name": "Nakano (2016) - atomoxetine, 50 mg, po casules, n=42 (EM)-Atomoxetine-Peripheral Venous Blood-Plasma-Concentration",
+              "Name": "Nakano (2016) - atomoxetine, 50 mg, po capsules, n=42 (EM)-Atomoxetine-Peripheral Venous Blood-Plasma-Concentration",
               "X": "Time",
-              "Y": "Nakano (2016) - atomoxetine, 50 mg, po casules, n=42 (EM)|Organism|PeripheralVenousBlood|Atomoxetine|Plasma (Peripheral Venous Blood)",
+              "Y": "Nakano (2016) - atomoxetine, 50 mg, po capsules, n=42 (EM)|Organism|PeripheralVenousBlood|Atomoxetine|Plasma (Peripheral Venous Blood)",
               "CurveOptions": {
                 "Color": "#FF0000",
                 "LegendIndex": 1
               }
             },
             {
-              "Name": "Nakano (2016) - atomoxetine, 50 mg, po casules, n=42 (EM), atomoxetine-Atomoxetine-Peripheral Venous Blood-Plasma-[ng/mL]",
-              "X": "Nakano (2016) - atomoxetine, 50 mg, po casules, n=42 (EM), atomoxetine|[h]",
-              "Y": "Nakano (2016) - atomoxetine, 50 mg, po casules, n=42 (EM), atomoxetine|ObservedData|Peripheral Venous Blood|Plasma|Atomoxetine|[ng/mL]",
+              "Name": "Nakano (2016) - atomoxetine, 50 mg, po capsules, n=42 (EM), atomoxetine-Atomoxetine-Peripheral Venous Blood-Plasma-[ng/mL]",
+              "X": "Nakano (2016) - atomoxetine, 50 mg, po capsules, n=42 (EM), atomoxetine|[h]",
+              "Y": "Nakano (2016) - atomoxetine, 50 mg, po capsules, n=42 (EM), atomoxetine|ObservedData|Peripheral Venous Blood|Plasma|Atomoxetine|[ng/mL]",
               "CurveOptions": {
                 "Color": "#0000FF",
                 "LegendIndex": 2,
@@ -43385,7 +43385,7 @@
             "BackColor": "#00FFFFFF",
             "DiagramBackColor": "#FFFFFF"
           },
-          "OriginText": "Atomoxetine-model\nNakano (2016) - atomoxetine, 50 mg, po casules, n=42 (EM)\n2026-05-18 10:15"
+          "OriginText": "Atomoxetine-model\nNakano (2016) - atomoxetine, 50 mg, po capsules, n=42 (EM)\n2026-05-18 10:15"
         }
       ]
     },
@@ -44962,7 +44962,7 @@
       }
     },
     {
-      "Name": "Byeon (2015) - atomoxetine, 40 mg (dose normalized), po, n=18 (AS=0.5), atomoxetine",
+      "Name": "Byeon (2015) - atomoxetine, 40 mg (dose normalized), po, n=22 (AS=1.25), atomoxetine",
       "ExtendedProperties": [
         {
           "Name": "Molecule",
@@ -44992,7 +44992,7 @@
             {
               "Name": "[ng/mL](1)",
               "QuantityInfo": {
-                "Path": "Byeon (2015) - atomoxetine, 40 mg (dose normalized), po, n=18 (AS=0.5), atomoxetine|ObservedData|Peripheral Venous Blood|Plasma|Atomoxetine|[ng/mL](1)"
+                "Path": "Byeon (2015) - atomoxetine, 40 mg (dose normalized), po, n=22 (AS=1.25), atomoxetine|ObservedData|Peripheral Venous Blood|Plasma|Atomoxetine|[ng/mL](1)"
               },
               "DataInfo": {
                 "Origin": "ObservationAuxiliary",
@@ -45017,7 +45017,7 @@
             }
           ],
           "QuantityInfo": {
-            "Path": "Byeon (2015) - atomoxetine, 40 mg (dose normalized), po, n=18 (AS=0.5), atomoxetine|ObservedData|Peripheral Venous Blood|Plasma|Atomoxetine|[ng/mL]"
+            "Path": "Byeon (2015) - atomoxetine, 40 mg (dose normalized), po, n=22 (AS=1.25), atomoxetine|ObservedData|Peripheral Venous Blood|Plasma|Atomoxetine|[ng/mL]"
           },
           "DataInfo": {
             "Origin": "Observation",
@@ -45044,7 +45044,7 @@
       "BaseGrid": {
         "Name": "[h]",
         "QuantityInfo": {
-          "Path": "Byeon (2015) - atomoxetine, 40 mg (dose normalized), po, n=18 (AS=0.5), atomoxetine|[h]",
+          "Path": "Byeon (2015) - atomoxetine, 40 mg (dose normalized), po, n=22 (AS=1.25), atomoxetine|[h]",
           "Type": "Time"
         },
         "DataInfo": {
@@ -45405,7 +45405,7 @@
       }
     },
     {
-      "Name": "Nakano (2016) - atomoxetine, 50 mg, po casules, n=42 (EM), atomoxetine",
+      "Name": "Nakano (2016) - atomoxetine, 50 mg, po capsules, n=42 (EM), atomoxetine",
       "ExtendedProperties": [
         {
           "Name": "Molecule",
@@ -45435,7 +45435,7 @@
             {
               "Name": "[ng/mL](1)",
               "QuantityInfo": {
-                "Path": "Nakano (2016) - atomoxetine, 50 mg, po casules, n=42 (EM), atomoxetine|ObservedData|Peripheral Venous Blood|Plasma|Atomoxetine|[ng/mL](1)"
+                "Path": "Nakano (2016) - atomoxetine, 50 mg, po capsules, n=42 (EM), atomoxetine|ObservedData|Peripheral Venous Blood|Plasma|Atomoxetine|[ng/mL](1)"
               },
               "DataInfo": {
                 "Origin": "ObservationAuxiliary",
@@ -45461,7 +45461,7 @@
             }
           ],
           "QuantityInfo": {
-            "Path": "Nakano (2016) - atomoxetine, 50 mg, po casules, n=42 (EM), atomoxetine|ObservedData|Peripheral Venous Blood|Plasma|Atomoxetine|[ng/mL]"
+            "Path": "Nakano (2016) - atomoxetine, 50 mg, po capsules, n=42 (EM), atomoxetine|ObservedData|Peripheral Venous Blood|Plasma|Atomoxetine|[ng/mL]"
           },
           "DataInfo": {
             "Origin": "Observation",
@@ -45489,7 +45489,7 @@
       "BaseGrid": {
         "Name": "[h]",
         "QuantityInfo": {
-          "Path": "Nakano (2016) - atomoxetine, 50 mg, po casules, n=42 (EM), atomoxetine|[h]",
+          "Path": "Nakano (2016) - atomoxetine, 50 mg, po capsules, n=42 (EM), atomoxetine|[h]",
           "Type": "Time"
         },
         "DataInfo": {
@@ -45840,11 +45840,11 @@
         "Kim (2018) - atomoxetine, 20 mg, po, n=11 (AS=2), atomoxetine",
         "Byeon (2015) - atomoxetine, 40 mg (dose normalized), n=22 (AS=2), atomoxetine",
         "Byeon 2015 - atomoxetine, 40 mg (normalized), po, n=18 (AS=0.5), atomoxetine",
-        "Byeon (2015) - atomoxetine, 40 mg (dose normalized), po, n=18 (AS=0.5), atomoxetine",
+        "Byeon (2015) - atomoxetine, 40 mg (dose normalized), po, n=22 (AS=1.25), atomoxetine",
         "Todor (2016) - atomoxetine, 25 mg, po, n=2 (PM), atomoxetine",
         "Todor (2016) - atomoxetine, 25 mg, po, n=18 (NM), atomoxetine",
         "Nakano (2016) - atomoxetine, 50 mg, po solution, n=42 (EM), atomoxetine",
-        "Nakano (2016) - atomoxetine, 50 mg, po casules, n=42 (EM), atomoxetine",
+        "Nakano (2016) - atomoxetine, 50 mg, po capsules, n=42 (EM), atomoxetine",
         "Belle (2002) - atomoxetine, 20 mg, po, n=22 (EM), atomoxetine",
         "Cui (2007) - atomoxetine, 40 mg, po, n=16, (AS=1), atomoxetine",
         "Cui (2007) - atomoxetine, 80 mg, po, n=16, (AS=1), atomoxetine"
@@ -45869,7 +45869,7 @@
         "Cui (2007) - atomoxetine, 40 mg, n=16 (AS=1)",
         "Byeon (2015) - atomoxetine, 40 mg (dose normalized), n=22 (AS=2)",
         "Kim (2018) - atomoxetine, 20 mg, po, n=11 (AS=2)",
-        "Nakano (2016) - atomoxetine, 50 mg, po casules, n=42 (EM)",
+        "Nakano (2016) - atomoxetine, 50 mg, po capsules, n=42 (EM)",
         "Nakano (2016) - atomoxetine, 50 mg, po solution, n=42 (EM)",
         "Sauer (2002) - atomoxetine, 20 mg, po, n=3 (PM)",
         "Sauer (2002) - atomoxetine, 20 mg, po, n=4 (EM)",
