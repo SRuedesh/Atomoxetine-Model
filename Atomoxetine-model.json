@@ -8,10 +8,6 @@
       "Category": "Sauer (2002), n=4 (EM)",
       "Parameters": [
         {
-          "Path": "CYP3A4|Ontogeny factor GI",
-          "Value": 0.9834228589
-        },
-        {
           "Path": "CYP3A4|Reference concentration",
           "Value": 4.32,
           "Unit": "µmol/l"
@@ -93,11 +89,11 @@
         },
         {
           "Path": "AADAC|Relative expression in blood cells",
-          "Value": 3.9102564103E-05
+          "Value": 0.000039102564103
         },
         {
           "Path": "AADAC|Relative expression in plasma",
-          "Value": 3.9102564103E-05
+          "Value": 0.000039102564103
         },
         {
           "Path": "AADAC|t1/2 (intestine)",
@@ -111,11 +107,11 @@
         },
         {
           "Path": "Organism|Bone|Intracellular|AADAC|Relative expression",
-          "Value": 4.8717948718E-05
+          "Value": 0.000048717948718
         },
         {
           "Path": "Organism|Brain|Intracellular|AADAC|Relative expression",
-          "Value": 3.9743589744E-05
+          "Value": 0.000039743589744
         },
         {
           "Path": "Organism|Gonads|Intracellular|AADAC|Relative expression",
@@ -127,7 +123,7 @@
         },
         {
           "Path": "Organism|Kidney|Intracellular|AADAC|Relative expression",
-          "Value": 5.7051282051E-05
+          "Value": 0.000057051282051
         },
         {
           "Path": "Organism|LargeIntestine|Intracellular|AADAC|Relative expression",
@@ -782,7 +778,7 @@
         },
         {
           "Path": "Organism|Lung|Intracellular|OATP1B1|Relative expression",
-          "Value": 4.0079365079E-05
+          "Value": 0.000040079365079
         },
         {
           "Path": "Organism|Muscle|Intracellular|OATP1B1|Relative expression",
@@ -3005,23 +3001,23 @@
         },
         {
           "Path": "Organism|LargeIntestine|Intracellular|SLC22A7|Relative expression",
-          "Value": 1.95599022E-05
+          "Value": 0.0000195599022
         },
         {
           "Path": "Organism|LargeIntestine|Mucosa|ColonAscendens|Intracellular|SLC22A7|Relative expression",
-          "Value": 1.95599022E-05
+          "Value": 0.0000195599022
         },
         {
           "Path": "Organism|LargeIntestine|Mucosa|ColonDescendens|Intracellular|SLC22A7|Relative expression",
-          "Value": 1.95599022E-05
+          "Value": 0.0000195599022
         },
         {
           "Path": "Organism|LargeIntestine|Mucosa|ColonSigmoid|Intracellular|SLC22A7|Relative expression",
-          "Value": 1.95599022E-05
+          "Value": 0.0000195599022
         },
         {
           "Path": "Organism|LargeIntestine|Mucosa|ColonTransversum|Intracellular|SLC22A7|Relative expression",
-          "Value": 1.95599022E-05
+          "Value": 0.0000195599022
         },
         {
           "Path": "Organism|Liver|Pericentral|Intracellular|SLC22A7|Relative expression",
@@ -3033,7 +3029,7 @@
         },
         {
           "Path": "Organism|Lung|Intracellular|SLC22A7|Relative expression",
-          "Value": 3.2273838631E-05
+          "Value": 0.000032273838631
         },
         {
           "Path": "Organism|Muscle|Intracellular|SLC22A7|Relative expression",
@@ -3073,7 +3069,7 @@
         },
         {
           "Path": "Organism|Stomach|Intracellular|SLC22A7|Relative expression",
-          "Value": 1.5770171149E-05
+          "Value": 0.000015770171149
         },
         {
           "Path": "SLC22A7|Reference concentration",
@@ -3647,10 +3643,6 @@
       "Category": "Sauer (2002), n=3 (PM)",
       "Parameters": [
         {
-          "Path": "CYP3A4|Ontogeny factor GI",
-          "Value": 0.978050705
-        },
-        {
           "Path": "CYP3A4|Reference concentration",
           "Value": 4.32,
           "Unit": "µmol/l"
@@ -3732,11 +3724,11 @@
         },
         {
           "Path": "AADAC|Relative expression in blood cells",
-          "Value": 3.9102564103E-05
+          "Value": 0.000039102564103
         },
         {
           "Path": "AADAC|Relative expression in plasma",
-          "Value": 3.9102564103E-05
+          "Value": 0.000039102564103
         },
         {
           "Path": "AADAC|t1/2 (intestine)",
@@ -3750,11 +3742,11 @@
         },
         {
           "Path": "Organism|Bone|Intracellular|AADAC|Relative expression",
-          "Value": 4.8717948718E-05
+          "Value": 0.000048717948718
         },
         {
           "Path": "Organism|Brain|Intracellular|AADAC|Relative expression",
-          "Value": 3.9743589744E-05
+          "Value": 0.000039743589744
         },
         {
           "Path": "Organism|Gonads|Intracellular|AADAC|Relative expression",
@@ -3766,7 +3758,7 @@
         },
         {
           "Path": "Organism|Kidney|Intracellular|AADAC|Relative expression",
-          "Value": 5.7051282051E-05
+          "Value": 0.000057051282051
         },
         {
           "Path": "Organism|LargeIntestine|Intracellular|AADAC|Relative expression",
@@ -4421,7 +4413,7 @@
         },
         {
           "Path": "Organism|Lung|Intracellular|OATP1B1|Relative expression",
-          "Value": 4.0079365079E-05
+          "Value": 0.000040079365079
         },
         {
           "Path": "Organism|Muscle|Intracellular|OATP1B1|Relative expression",
@@ -6644,23 +6636,23 @@
         },
         {
           "Path": "Organism|LargeIntestine|Intracellular|SLC22A7|Relative expression",
-          "Value": 1.95599022E-05
+          "Value": 0.0000195599022
         },
         {
           "Path": "Organism|LargeIntestine|Mucosa|ColonAscendens|Intracellular|SLC22A7|Relative expression",
-          "Value": 1.95599022E-05
+          "Value": 0.0000195599022
         },
         {
           "Path": "Organism|LargeIntestine|Mucosa|ColonDescendens|Intracellular|SLC22A7|Relative expression",
-          "Value": 1.95599022E-05
+          "Value": 0.0000195599022
         },
         {
           "Path": "Organism|LargeIntestine|Mucosa|ColonSigmoid|Intracellular|SLC22A7|Relative expression",
-          "Value": 1.95599022E-05
+          "Value": 0.0000195599022
         },
         {
           "Path": "Organism|LargeIntestine|Mucosa|ColonTransversum|Intracellular|SLC22A7|Relative expression",
-          "Value": 1.95599022E-05
+          "Value": 0.0000195599022
         },
         {
           "Path": "Organism|Liver|Pericentral|Intracellular|SLC22A7|Relative expression",
@@ -6672,7 +6664,7 @@
         },
         {
           "Path": "Organism|Lung|Intracellular|SLC22A7|Relative expression",
-          "Value": 3.2273838631E-05
+          "Value": 0.000032273838631
         },
         {
           "Path": "Organism|Muscle|Intracellular|SLC22A7|Relative expression",
@@ -6712,7 +6704,7 @@
         },
         {
           "Path": "Organism|Stomach|Intracellular|SLC22A7|Relative expression",
-          "Value": 1.5770171149E-05
+          "Value": 0.000015770171149
         },
         {
           "Path": "SLC22A7|Reference concentration",
@@ -7286,10 +7278,6 @@
       "Category": "Byeon (2015), n=22 (AS=2)",
       "Parameters": [
         {
-          "Path": "CYP3A4|Ontogeny factor GI",
-          "Value": 0.9678684802
-        },
-        {
           "Path": "CYP3A4|Reference concentration",
           "Value": 4.32,
           "Unit": "µmol/l"
@@ -7371,11 +7359,11 @@
         },
         {
           "Path": "AADAC|Relative expression in blood cells",
-          "Value": 3.9102564103E-05
+          "Value": 0.000039102564103
         },
         {
           "Path": "AADAC|Relative expression in plasma",
-          "Value": 3.9102564103E-05
+          "Value": 0.000039102564103
         },
         {
           "Path": "AADAC|t1/2 (intestine)",
@@ -7389,11 +7377,11 @@
         },
         {
           "Path": "Organism|Bone|Intracellular|AADAC|Relative expression",
-          "Value": 4.8717948718E-05
+          "Value": 0.000048717948718
         },
         {
           "Path": "Organism|Brain|Intracellular|AADAC|Relative expression",
-          "Value": 3.9743589744E-05
+          "Value": 0.000039743589744
         },
         {
           "Path": "Organism|Gonads|Intracellular|AADAC|Relative expression",
@@ -7405,7 +7393,7 @@
         },
         {
           "Path": "Organism|Kidney|Intracellular|AADAC|Relative expression",
-          "Value": 5.7051282051E-05
+          "Value": 0.000057051282051
         },
         {
           "Path": "Organism|LargeIntestine|Intracellular|AADAC|Relative expression",
@@ -8060,7 +8048,7 @@
         },
         {
           "Path": "Organism|Lung|Intracellular|OATP1B1|Relative expression",
-          "Value": 4.0079365079E-05
+          "Value": 0.000040079365079
         },
         {
           "Path": "Organism|Muscle|Intracellular|OATP1B1|Relative expression",
@@ -10283,23 +10271,23 @@
         },
         {
           "Path": "Organism|LargeIntestine|Intracellular|SLC22A7|Relative expression",
-          "Value": 1.95599022E-05
+          "Value": 0.0000195599022
         },
         {
           "Path": "Organism|LargeIntestine|Mucosa|ColonAscendens|Intracellular|SLC22A7|Relative expression",
-          "Value": 1.95599022E-05
+          "Value": 0.0000195599022
         },
         {
           "Path": "Organism|LargeIntestine|Mucosa|ColonDescendens|Intracellular|SLC22A7|Relative expression",
-          "Value": 1.95599022E-05
+          "Value": 0.0000195599022
         },
         {
           "Path": "Organism|LargeIntestine|Mucosa|ColonSigmoid|Intracellular|SLC22A7|Relative expression",
-          "Value": 1.95599022E-05
+          "Value": 0.0000195599022
         },
         {
           "Path": "Organism|LargeIntestine|Mucosa|ColonTransversum|Intracellular|SLC22A7|Relative expression",
-          "Value": 1.95599022E-05
+          "Value": 0.0000195599022
         },
         {
           "Path": "Organism|Liver|Pericentral|Intracellular|SLC22A7|Relative expression",
@@ -10311,7 +10299,7 @@
         },
         {
           "Path": "Organism|Lung|Intracellular|SLC22A7|Relative expression",
-          "Value": 3.2273838631E-05
+          "Value": 0.000032273838631
         },
         {
           "Path": "Organism|Muscle|Intracellular|SLC22A7|Relative expression",
@@ -10351,7 +10339,7 @@
         },
         {
           "Path": "Organism|Stomach|Intracellular|SLC22A7|Relative expression",
-          "Value": 1.5770171149E-05
+          "Value": 0.000015770171149
         },
         {
           "Path": "SLC22A7|Reference concentration",
@@ -10925,10 +10913,6 @@
       "Category": "Kim (2018), n=11 (AS=2)",
       "Parameters": [
         {
-          "Path": "CYP3A4|Ontogeny factor GI",
-          "Value": 0.9664417616
-        },
-        {
           "Path": "CYP3A4|Reference concentration",
           "Value": 4.32,
           "Unit": "µmol/l"
@@ -11010,11 +10994,11 @@
         },
         {
           "Path": "AADAC|Relative expression in blood cells",
-          "Value": 3.9102564103E-05
+          "Value": 0.000039102564103
         },
         {
           "Path": "AADAC|Relative expression in plasma",
-          "Value": 3.9102564103E-05
+          "Value": 0.000039102564103
         },
         {
           "Path": "AADAC|t1/2 (intestine)",
@@ -11028,11 +11012,11 @@
         },
         {
           "Path": "Organism|Bone|Intracellular|AADAC|Relative expression",
-          "Value": 4.8717948718E-05
+          "Value": 0.000048717948718
         },
         {
           "Path": "Organism|Brain|Intracellular|AADAC|Relative expression",
-          "Value": 3.9743589744E-05
+          "Value": 0.000039743589744
         },
         {
           "Path": "Organism|Gonads|Intracellular|AADAC|Relative expression",
@@ -11044,7 +11028,7 @@
         },
         {
           "Path": "Organism|Kidney|Intracellular|AADAC|Relative expression",
-          "Value": 5.7051282051E-05
+          "Value": 0.000057051282051
         },
         {
           "Path": "Organism|LargeIntestine|Intracellular|AADAC|Relative expression",
@@ -11699,7 +11683,7 @@
         },
         {
           "Path": "Organism|Lung|Intracellular|OATP1B1|Relative expression",
-          "Value": 4.0079365079E-05
+          "Value": 0.000040079365079
         },
         {
           "Path": "Organism|Muscle|Intracellular|OATP1B1|Relative expression",
@@ -13922,23 +13906,23 @@
         },
         {
           "Path": "Organism|LargeIntestine|Intracellular|SLC22A7|Relative expression",
-          "Value": 1.95599022E-05
+          "Value": 0.0000195599022
         },
         {
           "Path": "Organism|LargeIntestine|Mucosa|ColonAscendens|Intracellular|SLC22A7|Relative expression",
-          "Value": 1.95599022E-05
+          "Value": 0.0000195599022
         },
         {
           "Path": "Organism|LargeIntestine|Mucosa|ColonDescendens|Intracellular|SLC22A7|Relative expression",
-          "Value": 1.95599022E-05
+          "Value": 0.0000195599022
         },
         {
           "Path": "Organism|LargeIntestine|Mucosa|ColonSigmoid|Intracellular|SLC22A7|Relative expression",
-          "Value": 1.95599022E-05
+          "Value": 0.0000195599022
         },
         {
           "Path": "Organism|LargeIntestine|Mucosa|ColonTransversum|Intracellular|SLC22A7|Relative expression",
-          "Value": 1.95599022E-05
+          "Value": 0.0000195599022
         },
         {
           "Path": "Organism|Liver|Pericentral|Intracellular|SLC22A7|Relative expression",
@@ -13950,7 +13934,7 @@
         },
         {
           "Path": "Organism|Lung|Intracellular|SLC22A7|Relative expression",
-          "Value": 3.2273838631E-05
+          "Value": 0.000032273838631
         },
         {
           "Path": "Organism|Muscle|Intracellular|SLC22A7|Relative expression",
@@ -13990,7 +13974,7 @@
         },
         {
           "Path": "Organism|Stomach|Intracellular|SLC22A7|Relative expression",
-          "Value": 1.5770171149E-05
+          "Value": 0.000015770171149
         },
         {
           "Path": "SLC22A7|Reference concentration",
@@ -14564,10 +14548,6 @@
       "Category": "Kim (2018), n=8 (AS=0.5)",
       "Parameters": [
         {
-          "Path": "CYP3A4|Ontogeny factor GI",
-          "Value": 0.9664417616
-        },
-        {
           "Path": "CYP3A4|Reference concentration",
           "Value": 4.32,
           "Unit": "µmol/l"
@@ -14649,11 +14629,11 @@
         },
         {
           "Path": "AADAC|Relative expression in blood cells",
-          "Value": 3.9102564103E-05
+          "Value": 0.000039102564103
         },
         {
           "Path": "AADAC|Relative expression in plasma",
-          "Value": 3.9102564103E-05
+          "Value": 0.000039102564103
         },
         {
           "Path": "AADAC|t1/2 (intestine)",
@@ -14667,11 +14647,11 @@
         },
         {
           "Path": "Organism|Bone|Intracellular|AADAC|Relative expression",
-          "Value": 4.8717948718E-05
+          "Value": 0.000048717948718
         },
         {
           "Path": "Organism|Brain|Intracellular|AADAC|Relative expression",
-          "Value": 3.9743589744E-05
+          "Value": 0.000039743589744
         },
         {
           "Path": "Organism|Gonads|Intracellular|AADAC|Relative expression",
@@ -14683,7 +14663,7 @@
         },
         {
           "Path": "Organism|Kidney|Intracellular|AADAC|Relative expression",
-          "Value": 5.7051282051E-05
+          "Value": 0.000057051282051
         },
         {
           "Path": "Organism|LargeIntestine|Intracellular|AADAC|Relative expression",
@@ -15338,7 +15318,7 @@
         },
         {
           "Path": "Organism|Lung|Intracellular|OATP1B1|Relative expression",
-          "Value": 4.0079365079E-05
+          "Value": 0.000040079365079
         },
         {
           "Path": "Organism|Muscle|Intracellular|OATP1B1|Relative expression",
@@ -17561,23 +17541,23 @@
         },
         {
           "Path": "Organism|LargeIntestine|Intracellular|SLC22A7|Relative expression",
-          "Value": 1.95599022E-05
+          "Value": 0.0000195599022
         },
         {
           "Path": "Organism|LargeIntestine|Mucosa|ColonAscendens|Intracellular|SLC22A7|Relative expression",
-          "Value": 1.95599022E-05
+          "Value": 0.0000195599022
         },
         {
           "Path": "Organism|LargeIntestine|Mucosa|ColonDescendens|Intracellular|SLC22A7|Relative expression",
-          "Value": 1.95599022E-05
+          "Value": 0.0000195599022
         },
         {
           "Path": "Organism|LargeIntestine|Mucosa|ColonSigmoid|Intracellular|SLC22A7|Relative expression",
-          "Value": 1.95599022E-05
+          "Value": 0.0000195599022
         },
         {
           "Path": "Organism|LargeIntestine|Mucosa|ColonTransversum|Intracellular|SLC22A7|Relative expression",
-          "Value": 1.95599022E-05
+          "Value": 0.0000195599022
         },
         {
           "Path": "Organism|Liver|Pericentral|Intracellular|SLC22A7|Relative expression",
@@ -17589,7 +17569,7 @@
         },
         {
           "Path": "Organism|Lung|Intracellular|SLC22A7|Relative expression",
-          "Value": 3.2273838631E-05
+          "Value": 0.000032273838631
         },
         {
           "Path": "Organism|Muscle|Intracellular|SLC22A7|Relative expression",
@@ -17629,7 +17609,7 @@
         },
         {
           "Path": "Organism|Stomach|Intracellular|SLC22A7|Relative expression",
-          "Value": 1.5770171149E-05
+          "Value": 0.000015770171149
         },
         {
           "Path": "SLC22A7|Reference concentration",
@@ -18203,10 +18183,6 @@
       "Category": "Byeon (2015), n=22 (AS=1.25)",
       "Parameters": [
         {
-          "Path": "CYP3A4|Ontogeny factor GI",
-          "Value": 0.9679981819
-        },
-        {
           "Path": "CYP3A4|Reference concentration",
           "Value": 4.32,
           "Unit": "µmol/l"
@@ -18288,11 +18264,11 @@
         },
         {
           "Path": "AADAC|Relative expression in blood cells",
-          "Value": 3.9102564103E-05
+          "Value": 0.000039102564103
         },
         {
           "Path": "AADAC|Relative expression in plasma",
-          "Value": 3.9102564103E-05
+          "Value": 0.000039102564103
         },
         {
           "Path": "AADAC|t1/2 (intestine)",
@@ -18306,11 +18282,11 @@
         },
         {
           "Path": "Organism|Bone|Intracellular|AADAC|Relative expression",
-          "Value": 4.8717948718E-05
+          "Value": 0.000048717948718
         },
         {
           "Path": "Organism|Brain|Intracellular|AADAC|Relative expression",
-          "Value": 3.9743589744E-05
+          "Value": 0.000039743589744
         },
         {
           "Path": "Organism|Gonads|Intracellular|AADAC|Relative expression",
@@ -18322,7 +18298,7 @@
         },
         {
           "Path": "Organism|Kidney|Intracellular|AADAC|Relative expression",
-          "Value": 5.7051282051E-05
+          "Value": 0.000057051282051
         },
         {
           "Path": "Organism|LargeIntestine|Intracellular|AADAC|Relative expression",
@@ -18977,7 +18953,7 @@
         },
         {
           "Path": "Organism|Lung|Intracellular|OATP1B1|Relative expression",
-          "Value": 4.0079365079E-05
+          "Value": 0.000040079365079
         },
         {
           "Path": "Organism|Muscle|Intracellular|OATP1B1|Relative expression",
@@ -21200,23 +21176,23 @@
         },
         {
           "Path": "Organism|LargeIntestine|Intracellular|SLC22A7|Relative expression",
-          "Value": 1.95599022E-05
+          "Value": 0.0000195599022
         },
         {
           "Path": "Organism|LargeIntestine|Mucosa|ColonAscendens|Intracellular|SLC22A7|Relative expression",
-          "Value": 1.95599022E-05
+          "Value": 0.0000195599022
         },
         {
           "Path": "Organism|LargeIntestine|Mucosa|ColonDescendens|Intracellular|SLC22A7|Relative expression",
-          "Value": 1.95599022E-05
+          "Value": 0.0000195599022
         },
         {
           "Path": "Organism|LargeIntestine|Mucosa|ColonSigmoid|Intracellular|SLC22A7|Relative expression",
-          "Value": 1.95599022E-05
+          "Value": 0.0000195599022
         },
         {
           "Path": "Organism|LargeIntestine|Mucosa|ColonTransversum|Intracellular|SLC22A7|Relative expression",
-          "Value": 1.95599022E-05
+          "Value": 0.0000195599022
         },
         {
           "Path": "Organism|Liver|Pericentral|Intracellular|SLC22A7|Relative expression",
@@ -21228,7 +21204,7 @@
         },
         {
           "Path": "Organism|Lung|Intracellular|SLC22A7|Relative expression",
-          "Value": 3.2273838631E-05
+          "Value": 0.000032273838631
         },
         {
           "Path": "Organism|Muscle|Intracellular|SLC22A7|Relative expression",
@@ -21268,7 +21244,7 @@
         },
         {
           "Path": "Organism|Stomach|Intracellular|SLC22A7|Relative expression",
-          "Value": 1.5770171149E-05
+          "Value": 0.000015770171149
         },
         {
           "Path": "SLC22A7|Reference concentration",
@@ -21842,10 +21818,6 @@
       "Category": "Byeon (2015), n=18 (AS=0.5)",
       "Parameters": [
         {
-          "Path": "CYP3A4|Ontogeny factor GI",
-          "Value": 0.9681278836
-        },
-        {
           "Path": "CYP3A4|Reference concentration",
           "Value": 4.32,
           "Unit": "µmol/l"
@@ -21927,11 +21899,11 @@
         },
         {
           "Path": "AADAC|Relative expression in blood cells",
-          "Value": 3.9102564103E-05
+          "Value": 0.000039102564103
         },
         {
           "Path": "AADAC|Relative expression in plasma",
-          "Value": 3.9102564103E-05
+          "Value": 0.000039102564103
         },
         {
           "Path": "AADAC|t1/2 (intestine)",
@@ -21945,11 +21917,11 @@
         },
         {
           "Path": "Organism|Bone|Intracellular|AADAC|Relative expression",
-          "Value": 4.8717948718E-05
+          "Value": 0.000048717948718
         },
         {
           "Path": "Organism|Brain|Intracellular|AADAC|Relative expression",
-          "Value": 3.9743589744E-05
+          "Value": 0.000039743589744
         },
         {
           "Path": "Organism|Gonads|Intracellular|AADAC|Relative expression",
@@ -21961,7 +21933,7 @@
         },
         {
           "Path": "Organism|Kidney|Intracellular|AADAC|Relative expression",
-          "Value": 5.7051282051E-05
+          "Value": 0.000057051282051
         },
         {
           "Path": "Organism|LargeIntestine|Intracellular|AADAC|Relative expression",
@@ -22616,7 +22588,7 @@
         },
         {
           "Path": "Organism|Lung|Intracellular|OATP1B1|Relative expression",
-          "Value": 4.0079365079E-05
+          "Value": 0.000040079365079
         },
         {
           "Path": "Organism|Muscle|Intracellular|OATP1B1|Relative expression",
@@ -24839,23 +24811,23 @@
         },
         {
           "Path": "Organism|LargeIntestine|Intracellular|SLC22A7|Relative expression",
-          "Value": 1.95599022E-05
+          "Value": 0.0000195599022
         },
         {
           "Path": "Organism|LargeIntestine|Mucosa|ColonAscendens|Intracellular|SLC22A7|Relative expression",
-          "Value": 1.95599022E-05
+          "Value": 0.0000195599022
         },
         {
           "Path": "Organism|LargeIntestine|Mucosa|ColonDescendens|Intracellular|SLC22A7|Relative expression",
-          "Value": 1.95599022E-05
+          "Value": 0.0000195599022
         },
         {
           "Path": "Organism|LargeIntestine|Mucosa|ColonSigmoid|Intracellular|SLC22A7|Relative expression",
-          "Value": 1.95599022E-05
+          "Value": 0.0000195599022
         },
         {
           "Path": "Organism|LargeIntestine|Mucosa|ColonTransversum|Intracellular|SLC22A7|Relative expression",
-          "Value": 1.95599022E-05
+          "Value": 0.0000195599022
         },
         {
           "Path": "Organism|Liver|Pericentral|Intracellular|SLC22A7|Relative expression",
@@ -24867,7 +24839,7 @@
         },
         {
           "Path": "Organism|Lung|Intracellular|SLC22A7|Relative expression",
-          "Value": 3.2273838631E-05
+          "Value": 0.000032273838631
         },
         {
           "Path": "Organism|Muscle|Intracellular|SLC22A7|Relative expression",
@@ -24907,7 +24879,7 @@
         },
         {
           "Path": "Organism|Stomach|Intracellular|SLC22A7|Relative expression",
-          "Value": 1.5770171149E-05
+          "Value": 0.000015770171149
         },
         {
           "Path": "SLC22A7|Reference concentration",
@@ -25481,10 +25453,6 @@
       "Category": "Todor (2016), n=18 (NM)",
       "Parameters": [
         {
-          "Path": "CYP3A4|Ontogeny factor GI",
-          "Value": 0.9741260583
-        },
-        {
           "Path": "CYP3A4|Reference concentration",
           "Value": 4.32,
           "Unit": "µmol/l"
@@ -25566,11 +25534,11 @@
         },
         {
           "Path": "AADAC|Relative expression in blood cells",
-          "Value": 3.9102564103E-05
+          "Value": 0.000039102564103
         },
         {
           "Path": "AADAC|Relative expression in plasma",
-          "Value": 3.9102564103E-05
+          "Value": 0.000039102564103
         },
         {
           "Path": "AADAC|t1/2 (intestine)",
@@ -25584,11 +25552,11 @@
         },
         {
           "Path": "Organism|Bone|Intracellular|AADAC|Relative expression",
-          "Value": 4.8717948718E-05
+          "Value": 0.000048717948718
         },
         {
           "Path": "Organism|Brain|Intracellular|AADAC|Relative expression",
-          "Value": 3.9743589744E-05
+          "Value": 0.000039743589744
         },
         {
           "Path": "Organism|Gonads|Intracellular|AADAC|Relative expression",
@@ -25600,7 +25568,7 @@
         },
         {
           "Path": "Organism|Kidney|Intracellular|AADAC|Relative expression",
-          "Value": 5.7051282051E-05
+          "Value": 0.000057051282051
         },
         {
           "Path": "Organism|LargeIntestine|Intracellular|AADAC|Relative expression",
@@ -26255,7 +26223,7 @@
         },
         {
           "Path": "Organism|Lung|Intracellular|OATP1B1|Relative expression",
-          "Value": 4.0079365079E-05
+          "Value": 0.000040079365079
         },
         {
           "Path": "Organism|Muscle|Intracellular|OATP1B1|Relative expression",
@@ -28478,23 +28446,23 @@
         },
         {
           "Path": "Organism|LargeIntestine|Intracellular|SLC22A7|Relative expression",
-          "Value": 1.95599022E-05
+          "Value": 0.0000195599022
         },
         {
           "Path": "Organism|LargeIntestine|Mucosa|ColonAscendens|Intracellular|SLC22A7|Relative expression",
-          "Value": 1.95599022E-05
+          "Value": 0.0000195599022
         },
         {
           "Path": "Organism|LargeIntestine|Mucosa|ColonDescendens|Intracellular|SLC22A7|Relative expression",
-          "Value": 1.95599022E-05
+          "Value": 0.0000195599022
         },
         {
           "Path": "Organism|LargeIntestine|Mucosa|ColonSigmoid|Intracellular|SLC22A7|Relative expression",
-          "Value": 1.95599022E-05
+          "Value": 0.0000195599022
         },
         {
           "Path": "Organism|LargeIntestine|Mucosa|ColonTransversum|Intracellular|SLC22A7|Relative expression",
-          "Value": 1.95599022E-05
+          "Value": 0.0000195599022
         },
         {
           "Path": "Organism|Liver|Pericentral|Intracellular|SLC22A7|Relative expression",
@@ -28506,7 +28474,7 @@
         },
         {
           "Path": "Organism|Lung|Intracellular|SLC22A7|Relative expression",
-          "Value": 3.2273838631E-05
+          "Value": 0.000032273838631
         },
         {
           "Path": "Organism|Muscle|Intracellular|SLC22A7|Relative expression",
@@ -28546,7 +28514,7 @@
         },
         {
           "Path": "Organism|Stomach|Intracellular|SLC22A7|Relative expression",
-          "Value": 1.5770171149E-05
+          "Value": 0.000015770171149
         },
         {
           "Path": "SLC22A7|Reference concentration",
@@ -29120,10 +29088,6 @@
       "Category": "Todor (2016), n=2 (PM)",
       "Parameters": [
         {
-          "Path": "CYP3A4|Ontogeny factor GI",
-          "Value": 0.9741260583
-        },
-        {
           "Path": "CYP3A4|Reference concentration",
           "Value": 4.32,
           "Unit": "µmol/l"
@@ -29205,11 +29169,11 @@
         },
         {
           "Path": "AADAC|Relative expression in blood cells",
-          "Value": 3.9102564103E-05
+          "Value": 0.000039102564103
         },
         {
           "Path": "AADAC|Relative expression in plasma",
-          "Value": 3.9102564103E-05
+          "Value": 0.000039102564103
         },
         {
           "Path": "AADAC|t1/2 (intestine)",
@@ -29223,11 +29187,11 @@
         },
         {
           "Path": "Organism|Bone|Intracellular|AADAC|Relative expression",
-          "Value": 4.8717948718E-05
+          "Value": 0.000048717948718
         },
         {
           "Path": "Organism|Brain|Intracellular|AADAC|Relative expression",
-          "Value": 3.9743589744E-05
+          "Value": 0.000039743589744
         },
         {
           "Path": "Organism|Gonads|Intracellular|AADAC|Relative expression",
@@ -29239,7 +29203,7 @@
         },
         {
           "Path": "Organism|Kidney|Intracellular|AADAC|Relative expression",
-          "Value": 5.7051282051E-05
+          "Value": 0.000057051282051
         },
         {
           "Path": "Organism|LargeIntestine|Intracellular|AADAC|Relative expression",
@@ -29894,7 +29858,7 @@
         },
         {
           "Path": "Organism|Lung|Intracellular|OATP1B1|Relative expression",
-          "Value": 4.0079365079E-05
+          "Value": 0.000040079365079
         },
         {
           "Path": "Organism|Muscle|Intracellular|OATP1B1|Relative expression",
@@ -32117,23 +32081,23 @@
         },
         {
           "Path": "Organism|LargeIntestine|Intracellular|SLC22A7|Relative expression",
-          "Value": 1.95599022E-05
+          "Value": 0.0000195599022
         },
         {
           "Path": "Organism|LargeIntestine|Mucosa|ColonAscendens|Intracellular|SLC22A7|Relative expression",
-          "Value": 1.95599022E-05
+          "Value": 0.0000195599022
         },
         {
           "Path": "Organism|LargeIntestine|Mucosa|ColonDescendens|Intracellular|SLC22A7|Relative expression",
-          "Value": 1.95599022E-05
+          "Value": 0.0000195599022
         },
         {
           "Path": "Organism|LargeIntestine|Mucosa|ColonSigmoid|Intracellular|SLC22A7|Relative expression",
-          "Value": 1.95599022E-05
+          "Value": 0.0000195599022
         },
         {
           "Path": "Organism|LargeIntestine|Mucosa|ColonTransversum|Intracellular|SLC22A7|Relative expression",
-          "Value": 1.95599022E-05
+          "Value": 0.0000195599022
         },
         {
           "Path": "Organism|Liver|Pericentral|Intracellular|SLC22A7|Relative expression",
@@ -32145,7 +32109,7 @@
         },
         {
           "Path": "Organism|Lung|Intracellular|SLC22A7|Relative expression",
-          "Value": 3.2273838631E-05
+          "Value": 0.000032273838631
         },
         {
           "Path": "Organism|Muscle|Intracellular|SLC22A7|Relative expression",
@@ -32185,7 +32149,7 @@
         },
         {
           "Path": "Organism|Stomach|Intracellular|SLC22A7|Relative expression",
-          "Value": 1.5770171149E-05
+          "Value": 0.000015770171149
         },
         {
           "Path": "SLC22A7|Reference concentration",
@@ -32759,10 +32723,6 @@
       "Category": "Nakano (2016), n=42 (EM)",
       "Parameters": [
         {
-          "Path": "CYP3A4|Ontogeny factor GI",
-          "Value": 0.9679981819
-        },
-        {
           "Path": "CYP3A4|Reference concentration",
           "Value": 4.32,
           "Unit": "µmol/l"
@@ -32844,11 +32804,11 @@
         },
         {
           "Path": "AADAC|Relative expression in blood cells",
-          "Value": 3.9102564103E-05
+          "Value": 0.000039102564103
         },
         {
           "Path": "AADAC|Relative expression in plasma",
-          "Value": 3.9102564103E-05
+          "Value": 0.000039102564103
         },
         {
           "Path": "AADAC|t1/2 (intestine)",
@@ -32862,11 +32822,11 @@
         },
         {
           "Path": "Organism|Bone|Intracellular|AADAC|Relative expression",
-          "Value": 4.8717948718E-05
+          "Value": 0.000048717948718
         },
         {
           "Path": "Organism|Brain|Intracellular|AADAC|Relative expression",
-          "Value": 3.9743589744E-05
+          "Value": 0.000039743589744
         },
         {
           "Path": "Organism|Gonads|Intracellular|AADAC|Relative expression",
@@ -32878,7 +32838,7 @@
         },
         {
           "Path": "Organism|Kidney|Intracellular|AADAC|Relative expression",
-          "Value": 5.7051282051E-05
+          "Value": 0.000057051282051
         },
         {
           "Path": "Organism|LargeIntestine|Intracellular|AADAC|Relative expression",
@@ -33533,7 +33493,7 @@
         },
         {
           "Path": "Organism|Lung|Intracellular|OATP1B1|Relative expression",
-          "Value": 4.0079365079E-05
+          "Value": 0.000040079365079
         },
         {
           "Path": "Organism|Muscle|Intracellular|OATP1B1|Relative expression",
@@ -35756,23 +35716,23 @@
         },
         {
           "Path": "Organism|LargeIntestine|Intracellular|SLC22A7|Relative expression",
-          "Value": 1.95599022E-05
+          "Value": 0.0000195599022
         },
         {
           "Path": "Organism|LargeIntestine|Mucosa|ColonAscendens|Intracellular|SLC22A7|Relative expression",
-          "Value": 1.95599022E-05
+          "Value": 0.0000195599022
         },
         {
           "Path": "Organism|LargeIntestine|Mucosa|ColonDescendens|Intracellular|SLC22A7|Relative expression",
-          "Value": 1.95599022E-05
+          "Value": 0.0000195599022
         },
         {
           "Path": "Organism|LargeIntestine|Mucosa|ColonSigmoid|Intracellular|SLC22A7|Relative expression",
-          "Value": 1.95599022E-05
+          "Value": 0.0000195599022
         },
         {
           "Path": "Organism|LargeIntestine|Mucosa|ColonTransversum|Intracellular|SLC22A7|Relative expression",
-          "Value": 1.95599022E-05
+          "Value": 0.0000195599022
         },
         {
           "Path": "Organism|Liver|Pericentral|Intracellular|SLC22A7|Relative expression",
@@ -35784,7 +35744,7 @@
         },
         {
           "Path": "Organism|Lung|Intracellular|SLC22A7|Relative expression",
-          "Value": 3.2273838631E-05
+          "Value": 0.000032273838631
         },
         {
           "Path": "Organism|Muscle|Intracellular|SLC22A7|Relative expression",
@@ -35824,7 +35784,7 @@
         },
         {
           "Path": "Organism|Stomach|Intracellular|SLC22A7|Relative expression",
-          "Value": 1.5770171149E-05
+          "Value": 0.000015770171149
         },
         {
           "Path": "SLC22A7|Reference concentration",
@@ -36398,10 +36358,6 @@
       "Category": "Belle (2002), n=22 (EM)",
       "Parameters": [
         {
-          "Path": "CYP3A4|Ontogeny factor GI",
-          "Value": 0.9802352451
-        },
-        {
           "Path": "CYP3A4|Reference concentration",
           "Value": 4.32,
           "Unit": "µmol/l"
@@ -36483,11 +36439,11 @@
         },
         {
           "Path": "AADAC|Relative expression in blood cells",
-          "Value": 3.9102564103E-05
+          "Value": 0.000039102564103
         },
         {
           "Path": "AADAC|Relative expression in plasma",
-          "Value": 3.9102564103E-05
+          "Value": 0.000039102564103
         },
         {
           "Path": "AADAC|t1/2 (intestine)",
@@ -36501,11 +36457,11 @@
         },
         {
           "Path": "Organism|Bone|Intracellular|AADAC|Relative expression",
-          "Value": 4.8717948718E-05
+          "Value": 0.000048717948718
         },
         {
           "Path": "Organism|Brain|Intracellular|AADAC|Relative expression",
-          "Value": 3.9743589744E-05
+          "Value": 0.000039743589744
         },
         {
           "Path": "Organism|Gonads|Intracellular|AADAC|Relative expression",
@@ -36517,7 +36473,7 @@
         },
         {
           "Path": "Organism|Kidney|Intracellular|AADAC|Relative expression",
-          "Value": 5.7051282051E-05
+          "Value": 0.000057051282051
         },
         {
           "Path": "Organism|LargeIntestine|Intracellular|AADAC|Relative expression",
@@ -37172,7 +37128,7 @@
         },
         {
           "Path": "Organism|Lung|Intracellular|OATP1B1|Relative expression",
-          "Value": 4.0079365079E-05
+          "Value": 0.000040079365079
         },
         {
           "Path": "Organism|Muscle|Intracellular|OATP1B1|Relative expression",
@@ -39395,23 +39351,23 @@
         },
         {
           "Path": "Organism|LargeIntestine|Intracellular|SLC22A7|Relative expression",
-          "Value": 1.95599022E-05
+          "Value": 0.0000195599022
         },
         {
           "Path": "Organism|LargeIntestine|Mucosa|ColonAscendens|Intracellular|SLC22A7|Relative expression",
-          "Value": 1.95599022E-05
+          "Value": 0.0000195599022
         },
         {
           "Path": "Organism|LargeIntestine|Mucosa|ColonDescendens|Intracellular|SLC22A7|Relative expression",
-          "Value": 1.95599022E-05
+          "Value": 0.0000195599022
         },
         {
           "Path": "Organism|LargeIntestine|Mucosa|ColonSigmoid|Intracellular|SLC22A7|Relative expression",
-          "Value": 1.95599022E-05
+          "Value": 0.0000195599022
         },
         {
           "Path": "Organism|LargeIntestine|Mucosa|ColonTransversum|Intracellular|SLC22A7|Relative expression",
-          "Value": 1.95599022E-05
+          "Value": 0.0000195599022
         },
         {
           "Path": "Organism|Liver|Pericentral|Intracellular|SLC22A7|Relative expression",
@@ -39423,7 +39379,7 @@
         },
         {
           "Path": "Organism|Lung|Intracellular|SLC22A7|Relative expression",
-          "Value": 3.2273838631E-05
+          "Value": 0.000032273838631
         },
         {
           "Path": "Organism|Muscle|Intracellular|SLC22A7|Relative expression",
@@ -39463,7 +39419,7 @@
         },
         {
           "Path": "Organism|Stomach|Intracellular|SLC22A7|Relative expression",
-          "Value": 1.5770171149E-05
+          "Value": 0.000015770171149
         },
         {
           "Path": "SLC22A7|Reference concentration",
@@ -39982,7 +39938,7 @@
         },
         {
           "Path": "Organism|Kidney|Intracellular|CYP1A2|Relative expression",
-          "Value": 4.4025157233E-06
+          "Value": 0.0000044025157233
         },
         {
           "Path": "Organism|Liver|Pericentral|Intracellular|CYP1A2|Relative expression",
@@ -39994,7 +39950,7 @@
         },
         {
           "Path": "Organism|Lung|Intracellular|CYP1A2|Relative expression",
-          "Value": 2.4947589099E-05
+          "Value": 0.000024947589099
         }
       ],
       "Localization": "Intracellular, BloodCellsIntracellular, VascEndosome",
@@ -40101,10 +40057,6 @@
       },
       "Parameters": [
         {
-          "Path": "CYP3A4|Ontogeny factor GI",
-          "Value": 0.9834228589
-        },
-        {
           "Path": "Organism|Liver|EHC continuous fraction",
           "Value": 1.0
         }
@@ -40153,10 +40105,6 @@
         }
       },
       "Parameters": [
-        {
-          "Path": "CYP3A4|Ontogeny factor GI",
-          "Value": 0.978050705
-        },
         {
           "Path": "Organism|Liver|EHC continuous fraction",
           "Value": 1.0
@@ -40211,10 +40159,6 @@
       },
       "Parameters": [
         {
-          "Path": "CYP3A4|Ontogeny factor GI",
-          "Value": 0.9678684802
-        },
-        {
           "Path": "Organism|Liver|EHC continuous fraction",
           "Value": 1.0
         }
@@ -40267,10 +40211,6 @@
         }
       },
       "Parameters": [
-        {
-          "Path": "CYP3A4|Ontogeny factor GI",
-          "Value": 0.9664417616
-        },
         {
           "Path": "Organism|Liver|EHC continuous fraction",
           "Value": 1.0
@@ -40325,10 +40265,6 @@
       },
       "Parameters": [
         {
-          "Path": "CYP3A4|Ontogeny factor GI",
-          "Value": 0.9664417616
-        },
-        {
           "Path": "Organism|Liver|EHC continuous fraction",
           "Value": 1.0
         }
@@ -40381,10 +40317,6 @@
         }
       },
       "Parameters": [
-        {
-          "Path": "CYP3A4|Ontogeny factor GI",
-          "Value": 0.9679981819
-        },
         {
           "Path": "Organism|Liver|EHC continuous fraction",
           "Value": 1.0
@@ -40439,10 +40371,6 @@
       },
       "Parameters": [
         {
-          "Path": "CYP3A4|Ontogeny factor GI",
-          "Value": 0.9681278836
-        },
-        {
           "Path": "Organism|Liver|EHC continuous fraction",
           "Value": 1.0
         }
@@ -40488,10 +40416,6 @@
       },
       "Parameters": [
         {
-          "Path": "CYP3A4|Ontogeny factor GI",
-          "Value": 0.9741260583
-        },
-        {
           "Path": "Organism|Liver|EHC continuous fraction",
           "Value": 1.0
         }
@@ -40536,10 +40460,6 @@
         }
       },
       "Parameters": [
-        {
-          "Path": "CYP3A4|Ontogeny factor GI",
-          "Value": 0.9741260583
-        },
         {
           "Path": "Organism|Liver|EHC continuous fraction",
           "Value": 1.0
@@ -40594,10 +40514,6 @@
       },
       "Parameters": [
         {
-          "Path": "CYP3A4|Ontogeny factor GI",
-          "Value": 0.9679981819
-        },
-        {
           "Path": "Organism|Liver|EHC continuous fraction",
           "Value": 1.0
         }
@@ -40643,10 +40559,6 @@
       },
       "Parameters": [
         {
-          "Path": "CYP3A4|Ontogeny factor GI",
-          "Value": 0.9802352451
-        },
-        {
           "Path": "Organism|Liver|EHC continuous fraction",
           "Value": 1.0
         }
@@ -40674,6 +40586,55 @@
         "CYP1A2|Human|Belle (2002), n=22 (EM)",
         "CYP2C19|Human|Belle (2002), n=22 (EM)"
       ]
+    },
+    {
+      "Name": "Cui (2007), n=16 (AS=1)",
+      "Seed": 8935875,
+      "OriginData": {
+        "CalculationMethods": [
+          "SurfaceAreaPlsInt_VAR1",
+          "Body surface area - Mosteller"
+        ],
+        "Species": "Human",
+        "Population": "Asian_Tanaka_1996",
+        "Gender": "MALE",
+        "Age": {
+          "Value": 24.5,
+          "Unit": "year(s)"
+        },
+        "Weight": {
+          "Value": 62.5,
+          "Unit": "kg"
+        }
+      },
+      "Parameters": [
+        {
+          "Path": "Organism|Liver|EHC continuous fraction",
+          "Value": 1.0
+        }
+      ],
+      "ExpressionProfiles": [
+        "CYP3A4|Human|Byeon (2015), n=22 (AS=2)",
+        "AADAC|Human|Byeon (2015), n=22 (AS=2)",
+        "CYP2D6|Human|Byeon (2015), n=22 (AS=2)",
+        "MAOA|Human|Byeon (2015), n=22 (AS=2)",
+        "ABCB1|Human|Byeon (2015), n=22 (AS=2)",
+        "OATP1B1|Human|Byeon (2015), n=22 (AS=2)",
+        "ATP1A2|Human|Byeon (2015), n=22 (AS=2)",
+        "OCT2|Human|Byeon (2015), n=22 (AS=2)",
+        "MATE2-K|Human|Byeon (2015), n=22 (AS=2)",
+        "PON3|Human|Byeon (2015), n=22 (AS=2)",
+        "CYP2C8|Human|Byeon (2015), n=22 (AS=2)",
+        "UGT2B7|Human|Byeon (2015), n=22 (AS=2)",
+        "ABCC3|Human|Byeon (2015), n=22 (AS=2)",
+        "DPYS|Human|Byeon (2015), n=22 (AS=2)",
+        "UPB1|Human|Byeon (2015), n=22 (AS=2)",
+        "DPYD|Human|Byeon (2015), n=22 (AS=2)",
+        "ABCC4|Human|Byeon (2015), n=22 (AS=2)",
+        "SLC22A7|Human|Byeon (2015), n=22 (AS=2)",
+        "Liver_influx_gemfibrozil|Human|Byeon (2015), n=22 (AS=2)",
+        "CYP2C19|Human|Byeon (2015), n=22 (AS=2)"
+      ]
     }
   ],
   "Compounds": [
@@ -40692,7 +40653,7 @@
               "ValueOrigin": {
                 "Source": "ParameterIdentification",
                 "Method": "ParameterIdentification",
-                "Description": "Optimized"
+                "Description": "Optimized, Rüdesheim et al. 2022, Supplement Table S3.1.1"
               }
             }
           ]
@@ -40715,7 +40676,11 @@
             {
               "Name": "Lipophilicity",
               "Value": 3.81,
-              "Unit": "Log Units"
+              "Unit": "Log Units",
+              "ValueOrigin": {
+                "Source": "Publication",
+                "Description": "Literature value in Rüdesheim et al. 2022, Supplement Table S3.1.1, Swain 2012 [47]"
+              }
             }
           ]
         }
@@ -40732,7 +40697,7 @@
               "ValueOrigin": {
                 "Source": "Publication",
                 "Method": "InVivo",
-                "Description": "Yu 2016"
+                "Description": "Literature value in Rüdesheim et al. 2022, Supplement Table S3.1.1, Yu 2016 [56]"
               }
             }
           ]
@@ -40763,16 +40728,16 @@
               "Value": 10.29,
               "Unit": "mg/ml",
               "ValueOrigin": {
-                "Source": "Unknown",
-                "Description": "chemicalize - atomoxetine hydrochloride"
+                "Source": "Publication",
+                "Description": "Literature value in Rüdesheim et al. 2022, Supplement Table S3.1.1, Swain 2012 [47]"
               }
             },
             {
               "Name": "Reference pH",
               "Value": 7.4,
               "ValueOrigin": {
-                "Source": "Unknown",
-                "Description": "chemicalize - atomoxetine hydrochloride"
+                "Source": "Publication",
+                "Description": "Rüdesheim et al. 2022, Supplement Table S3.1.1"
               }
             }
           ]
@@ -40784,12 +40749,12 @@
           "Parameters": [
             {
               "Name": "Specific intestinal permeability (transcellular)",
-              "Value": 5.23E-05,
+              "Value": 0.0000523,
               "Unit": "cm/min",
               "ValueOrigin": {
                 "Source": "ParameterIdentification",
                 "Method": "ParameterIdentification",
-                "Description": "Optimized"
+                "Description": "Optimized, Rüdesheim et al. 2022, Supplement Table S3.1.1"
               }
             }
           ]
@@ -40800,7 +40765,8 @@
           "Type": "Base",
           "Pka": 9.8,
           "ValueOrigin": {
-            "Source": "Unknown"
+            "Source": "Publication",
+            "Description": "Literature value in Rüdesheim et al. 2022, Supplement Table S3.1.1, Swain 2012 [47]"
           }
         }
       ],
@@ -40830,7 +40796,7 @@
               "ValueOrigin": {
                 "Source": "Publication",
                 "Method": "InVitro",
-                "Description": "Ring et al. 2002"
+                "Description": "Literature value in Rüdesheim et al. 2022, Supplement Table S3.1.1, Ring et al. 2002 [39]"
               }
             },
             {
@@ -40840,7 +40806,7 @@
               "ValueOrigin": {
                 "Source": "ParameterIdentification",
                 "Method": "ParameterIdentification",
-                "Description": "Value updated from 'Lipophilicity, fu, kcat CYP2C19, intestinal perm no sp cl.' on 2021-11-16 08:40"
+                "Description": "Optimized, Rüdesheim et al. 2022, Supplement Table S3.1.1"
               }
             }
           ]
@@ -40866,7 +40832,12 @@
             {
               "Name": "Km",
               "Value": 2.3,
-              "Unit": "µmol/l"
+              "Unit": "µmol/l",
+              "ValueOrigin": {
+                "Source": "Publication",
+                "Method": "InVitro",
+                "Description": "Same CYP2D6 Km as base model, Ring et al. 2002 [39]"
+              }
             }
           ]
         },
@@ -40877,7 +40848,11 @@
           "Parameters": [
             {
               "Name": "GFR fraction",
-              "Value": 1.0
+              "Value": 1.0,
+              "ValueOrigin": {
+                "Source": "Other",
+                "Description": "Assumed, Rüdesheim et al. 2022, Supplement Table S3.1.1"
+              }
             }
           ]
         },
@@ -40902,7 +40877,12 @@
             {
               "Name": "Km",
               "Value": 2.3,
-              "Unit": "µmol/l"
+              "Unit": "µmol/l",
+              "ValueOrigin": {
+                "Source": "Publication",
+                "Method": "InVitro",
+                "Description": "Same CYP2D6 Km as base model, Ring et al. 2002 [39]"
+              }
             },
             {
               "Name": "kcat",
@@ -40911,7 +40891,7 @@
               "ValueOrigin": {
                 "Source": "ParameterIdentification",
                 "Method": "ParameterIdentification",
-                "Description": "Optimized"
+                "Description": "Optimized AS=2 baseline, Rüdesheim et al. 2022, main article Table 2"
               }
             }
           ]
@@ -40937,7 +40917,12 @@
             {
               "Name": "Km",
               "Value": 2.3,
-              "Unit": "µmol/l"
+              "Unit": "µmol/l",
+              "ValueOrigin": {
+                "Source": "Publication",
+                "Method": "InVitro",
+                "Description": "Same CYP2D6 Km as base model, Ring et al. 2002 [39]"
+              }
             },
             {
               "Name": "kcat",
@@ -40946,7 +40931,7 @@
               "ValueOrigin": {
                 "Source": "Other",
                 "Method": "ManualFit",
-                "Description": "AS-Model"
+                "Description": "CYP2D6 activity-score scaling, Rüdesheim et al. 2022, main article Table 2"
               }
             }
           ]
@@ -40972,7 +40957,12 @@
             {
               "Name": "Km",
               "Value": 2.3,
-              "Unit": "µmol/l"
+              "Unit": "µmol/l",
+              "ValueOrigin": {
+                "Source": "Publication",
+                "Method": "InVitro",
+                "Description": "Same CYP2D6 Km as base model, Ring et al. 2002 [39]"
+              }
             },
             {
               "Name": "kcat",
@@ -40981,7 +40971,7 @@
               "ValueOrigin": {
                 "Source": "Other",
                 "Method": "ManualFit",
-                "Description": "AS-Model"
+                "Description": "CYP2D6 activity-score scaling, Rüdesheim et al. 2022, main article Table 2"
               }
             }
           ]
@@ -41011,7 +41001,7 @@
               "ValueOrigin": {
                 "Source": "Publication",
                 "Method": "InVitro",
-                "Description": "Ring et al. 2002"
+                "Description": "Literature value in Rüdesheim et al. 2022, Supplement Table S3.1.1, Ring et al. 2002 [39]"
               }
             },
             {
@@ -41021,7 +41011,47 @@
               "ValueOrigin": {
                 "Source": "ParameterIdentification",
                 "Method": "ParameterIdentification",
-                "Description": "Optimized"
+                "Description": "Optimized, Rüdesheim et al. 2022, Supplement Table S3.1.1"
+              }
+            }
+          ]
+        },
+        {
+          "InternalName": "MetabolizationLiverMicrosomes_MM",
+          "DataSource": "AS=1",
+          "Molecule": "CYP2D6",
+          "Parameters": [
+            {
+              "Name": "In vitro Vmax for liver microsomes",
+              "Value": 0.0,
+              "Unit": "pmol/min/mg mic. protein"
+            },
+            {
+              "Name": "Content of CYP proteins in liver microsomes",
+              "Value": 10.0,
+              "Unit": "pmol/mg mic. protein",
+              "ValueOrigin": {
+                "Source": "Unknown"
+              }
+            },
+            {
+              "Name": "Km",
+              "Value": 2.3,
+              "Unit": "µmol/l",
+              "ValueOrigin": {
+                "Source": "Publication",
+                "Method": "InVitro",
+                "Description": "Same CYP2D6 Km as base model, Ring et al. 2002 [39]"
+              }
+            },
+            {
+              "Name": "kcat",
+              "Value": 39.7,
+              "Unit": "1/min",
+              "ValueOrigin": {
+                "Source": "Other",
+                "Method": "ManualFit",
+                "Description": "CYP2D6 activity-score scaling, Rüdesheim et al. 2022, main article Table 2"
               }
             }
           ]
@@ -41035,7 +41065,11 @@
         {
           "Name": "Molecular weight",
           "Value": 255.35,
-          "Unit": "g/mol"
+          "Unit": "g/mol",
+          "ValueOrigin": {
+            "Source": "Publication",
+            "Description": "Literature value in Rüdesheim et al. 2022, Supplement Table S3.1.1, Zhong et al. 2013 [57]"
+          }
         }
       ]
     }
@@ -41397,9 +41431,411 @@
         }
       ],
       "TimeUnit": "h"
+    },
+    {
+      "Name": "atomoxetine 80 mg s.d.",
+      "ApplicationType": "Oral",
+      "DosingInterval": "DI_12_12",
+      "Parameters": [
+        {
+          "Name": "Start time",
+          "Value": 0.0,
+          "Unit": "h"
+        },
+        {
+          "Name": "InputDose",
+          "Value": 80.0,
+          "Unit": "mg"
+        },
+        {
+          "Name": "Volume of water/body weight",
+          "Value": 3.5,
+          "Unit": "ml/kg"
+        },
+        {
+          "Name": "End time",
+          "Value": 145.0,
+          "Unit": "h",
+          "ValueOrigin": {
+            "Source": "Unknown"
+          }
+        }
+      ]
     }
   ],
   "Simulations": [
+    {
+      "Name": "Cui (2007) - atomoxetine, 40 mg, n=16 (AS=1)",
+      "Model": "4Comp",
+      "ObservedData": [
+        "Cui (2007) - atomoxetine, 40 mg, po, n=16, (AS=1), atomoxetine"
+      ],
+      "Solver": {},
+      "OutputSchema": [
+        {
+          "Parameters": [
+            {
+              "Name": "Start time",
+              "Value": 0.0,
+              "Unit": "h"
+            },
+            {
+              "Name": "End time",
+              "Value": 36.0,
+              "Unit": "h",
+              "ValueOrigin": {
+                "Source": "Unknown"
+              }
+            },
+            {
+              "Name": "Resolution",
+              "Value": 20.0,
+              "Unit": "pts/h"
+            }
+          ]
+        }
+      ],
+      "Parameters": [
+        {
+          "Path": "Events|atomoxetine 40 mg s.d.|Strattera Lilly|Application_1|ProtocolSchemaItem|Volume of water/body weight",
+          "Value": 3.5,
+          "Unit": "ml/kg"
+        }
+      ],
+      "OutputSelections": [
+        "Organism|PeripheralVenousBlood|Atomoxetine|Plasma (Peripheral Venous Blood)"
+      ],
+      "Individual": "Cui (2007), n=16 (AS=1)",
+      "Compounds": [
+        {
+          "Name": "Atomoxetine",
+          "CalculationMethods": [
+            "Cellular partition coefficient method - Berezhkovskiy",
+            "Cellular permeability - PK-Sim Standard"
+          ],
+          "Alternatives": [
+            {
+              "AlternativeName": "LogP",
+              "GroupName": "COMPOUND_LIPOPHILICITY"
+            },
+            {
+              "AlternativeName": "Measurement",
+              "GroupName": "COMPOUND_FRACTION_UNBOUND"
+            },
+            {
+              "AlternativeName": "Optimized",
+              "GroupName": "COMPOUND_INTESTINAL_PERMEABILITY"
+            }
+          ],
+          "Processes": [
+            {
+              "MoleculeName": "CYP3A4"
+            },
+            {
+              "MoleculeName": "AADAC"
+            },
+            {
+              "Name": "CYP2D6-AS=1",
+              "MoleculeName": "CYP2D6"
+            },
+            {
+              "MoleculeName": "MAOA"
+            },
+            {
+              "MoleculeName": "PON3"
+            },
+            {
+              "MoleculeName": "CYP2C8"
+            },
+            {
+              "MoleculeName": "UGT2B7"
+            },
+            {
+              "MoleculeName": "DPYS"
+            },
+            {
+              "MoleculeName": "UPB1"
+            },
+            {
+              "MoleculeName": "DPYD"
+            },
+            {
+              "Name": "CYP2C19-Ring 2002",
+              "MoleculeName": "CYP2C19"
+            },
+            {
+              "Name": "Glomerular Filtration-Assumed",
+              "SystemicProcessType": "GFR"
+            }
+          ],
+          "Protocol": {
+            "Name": "atomoxetine 40 mg s.d.",
+            "Formulations": [
+              {
+                "Name": "Strattera Lilly",
+                "Key": "Formulation"
+              }
+            ]
+          }
+        }
+      ],
+      "HasResults": true,
+      "IndividualAnalyses": [
+        {
+          "Axes": [
+            {
+              "Unit": "h",
+              "Dimension": "Time",
+              "Type": "X",
+              "GridLines": false,
+              "Visible": true,
+              "DefaultColor": "#FFFFFF",
+              "DefaultLineStyle": "None",
+              "Scaling": "Linear",
+              "NumberMode": "Normal"
+            },
+            {
+              "Unit": "ng/ml",
+              "Dimension": "Concentration (molar)",
+              "Type": "Y",
+              "GridLines": false,
+              "Visible": true,
+              "DefaultColor": "#FFFFFF",
+              "DefaultLineStyle": "Solid",
+              "Scaling": "Linear",
+              "NumberMode": "Normal"
+            }
+          ],
+          "Curves": [
+            {
+              "Name": "Cui (2007) - atomoxetine, 40 mg, n=16 (AS=1)-Atomoxetine-Peripheral Venous Blood-Plasma-Concentration",
+              "X": "Time",
+              "Y": "Cui (2007) - atomoxetine, 40 mg, n=16 (AS=1)|Organism|PeripheralVenousBlood|Atomoxetine|Plasma (Peripheral Venous Blood)",
+              "CurveOptions": {
+                "Color": "#FF0000",
+                "LegendIndex": 1
+              }
+            },
+            {
+              "Name": "Cui (2007) - atomoxetine, 40 mg, po, n=16, (AS=1), atomoxetine-Atomoxetine-Measurement",
+              "X": "Cui (2007) - atomoxetine, 40 mg, po, n=16, (AS=1), atomoxetine|Time",
+              "Y": "Cui (2007) - atomoxetine, 40 mg, po, n=16, (AS=1), atomoxetine|ObservedData|||Atomoxetine|Measurement",
+              "CurveOptions": {
+                "Color": "#FF0000",
+                "LegendIndex": 2,
+                "LineStyle": "None",
+                "Symbol": "Circle"
+              }
+            }
+          ],
+          "Name": "Time Profile Analysis",
+          "FontAndSize": {
+            "Fonts": {
+              "AxisSize": 10,
+              "LegendSize": 8,
+              "TitleSize": 16,
+              "DescriptionSize": 12,
+              "OriginSize": 8,
+              "FontFamilyName": "Microsoft Sans Serif",
+              "WatermarkSize": 32
+            }
+          },
+          "Settings": {
+            "SideMarginsEnabled": true,
+            "LegendPosition": "RightInside",
+            "BackColor": "#00FFFFFF",
+            "DiagramBackColor": "#FFFFFF"
+          },
+          "OriginText": "Atomoxetine-model\nCui (2007) - atomoxetine, 40 m, n=16 (AS=1)\n2026-05-18 10:05"
+        }
+      ]
+    },
+    {
+      "Name": "Byeon (2015) - atomoxetine, 40 mg (dose normalized), n=22 (AS=2)",
+      "Model": "4Comp",
+      "ObservedData": [
+        "Byeon (2015) - atomoxetine, 40 mg (dose normalized), n=22 (AS=2), atomoxetine"
+      ],
+      "Solver": {},
+      "OutputSchema": [
+        {
+          "Parameters": [
+            {
+              "Name": "Start time",
+              "Value": 0.0,
+              "Unit": "h"
+            },
+            {
+              "Name": "End time",
+              "Value": 36.0,
+              "Unit": "h",
+              "ValueOrigin": {
+                "Source": "Unknown"
+              }
+            },
+            {
+              "Name": "Resolution",
+              "Value": 20.0,
+              "Unit": "pts/h"
+            }
+          ]
+        }
+      ],
+      "Parameters": [
+        {
+          "Path": "Events|atomoxetine 40 mg s.d.|Strattera Lilly|Application_1|ProtocolSchemaItem|Volume of water/body weight",
+          "Value": 3.5,
+          "Unit": "ml/kg"
+        }
+      ],
+      "OutputSelections": [
+        "Organism|PeripheralVenousBlood|Atomoxetine|Plasma (Peripheral Venous Blood)"
+      ],
+      "Individual": "Byeon (2015), n=22 (AS=2)",
+      "Compounds": [
+        {
+          "Name": "Atomoxetine",
+          "CalculationMethods": [
+            "Cellular partition coefficient method - Berezhkovskiy",
+            "Cellular permeability - PK-Sim Standard"
+          ],
+          "Alternatives": [
+            {
+              "AlternativeName": "LogP",
+              "GroupName": "COMPOUND_LIPOPHILICITY"
+            },
+            {
+              "AlternativeName": "Measurement",
+              "GroupName": "COMPOUND_FRACTION_UNBOUND"
+            },
+            {
+              "AlternativeName": "Optimized",
+              "GroupName": "COMPOUND_INTESTINAL_PERMEABILITY"
+            }
+          ],
+          "Processes": [
+            {
+              "MoleculeName": "CYP3A4"
+            },
+            {
+              "MoleculeName": "AADAC"
+            },
+            {
+              "Name": "CYP2D6-AS=2",
+              "MoleculeName": "CYP2D6"
+            },
+            {
+              "MoleculeName": "MAOA"
+            },
+            {
+              "MoleculeName": "PON3"
+            },
+            {
+              "MoleculeName": "CYP2C8"
+            },
+            {
+              "MoleculeName": "UGT2B7"
+            },
+            {
+              "MoleculeName": "DPYS"
+            },
+            {
+              "MoleculeName": "UPB1"
+            },
+            {
+              "MoleculeName": "DPYD"
+            },
+            {
+              "Name": "CYP2C19-Ring 2002",
+              "MoleculeName": "CYP2C19"
+            },
+            {
+              "Name": "Glomerular Filtration-Assumed",
+              "SystemicProcessType": "GFR"
+            }
+          ],
+          "Protocol": {
+            "Name": "atomoxetine 40 mg s.d.",
+            "Formulations": [
+              {
+                "Name": "Strattera Lilly",
+                "Key": "Formulation"
+              }
+            ]
+          }
+        }
+      ],
+      "HasResults": true,
+      "IndividualAnalyses": [
+        {
+          "Axes": [
+            {
+              "Unit": "h",
+              "Dimension": "Time",
+              "Type": "X",
+              "GridLines": false,
+              "Visible": true,
+              "DefaultColor": "#FFFFFF",
+              "DefaultLineStyle": "None",
+              "Scaling": "Linear",
+              "NumberMode": "Normal"
+            },
+            {
+              "Unit": "ng/ml",
+              "Dimension": "Concentration (molar)",
+              "Type": "Y",
+              "GridLines": false,
+              "Visible": true,
+              "DefaultColor": "#FFFFFF",
+              "DefaultLineStyle": "Solid",
+              "Scaling": "Linear",
+              "NumberMode": "Normal"
+            }
+          ],
+          "Curves": [
+            {
+              "Name": "Byeon (2015) - atomoxetine, 40 mg (dose normalized), n=22 (AS=2)-Atomoxetine-Peripheral Venous Blood-Plasma-Concentration",
+              "X": "Time",
+              "Y": "Byeon (2015) - atomoxetine, 40 mg (dose normalized), n=22 (AS=2)|Organism|PeripheralVenousBlood|Atomoxetine|Plasma (Peripheral Venous Blood)",
+              "CurveOptions": {
+                "Color": "#FF0000",
+                "LegendIndex": 1
+              }
+            },
+            {
+              "Name": "Byeon (2015) - atomoxetine, 40 mg (dose normalized), n=22 (AS=2), atomoxetine-Atomoxetine-Peripheral Venous Blood-Plasma-[ng/mL]",
+              "X": "Byeon (2015) - atomoxetine, 40 mg (dose normalized), n=22 (AS=2), atomoxetine|[h]",
+              "Y": "Byeon (2015) - atomoxetine, 40 mg (dose normalized), n=22 (AS=2), atomoxetine|ObservedData|Peripheral Venous Blood|Plasma|Atomoxetine|[ng/mL]",
+              "CurveOptions": {
+                "Color": "#008000",
+                "LegendIndex": 3,
+                "LineStyle": "None",
+                "Symbol": "Circle"
+              }
+            }
+          ],
+          "Name": "Time Profile Analysis",
+          "FontAndSize": {
+            "Fonts": {
+              "AxisSize": 10,
+              "LegendSize": 8,
+              "TitleSize": 16,
+              "DescriptionSize": 12,
+              "OriginSize": 8,
+              "FontFamilyName": "Microsoft Sans Serif",
+              "WatermarkSize": 32
+            }
+          },
+          "Settings": {
+            "SideMarginsEnabled": true,
+            "LegendPosition": "RightInside",
+            "BackColor": "#00FFFFFF",
+            "DiagramBackColor": "#FFFFFF"
+          },
+          "OriginText": "Atomoxetine-model\nByeon (2015) - atomoxetine, 40 mg (dose normalized), n=22 (AS=2)\n2026-05-18 10:06"
+        }
+      ]
+    },
     {
       "Name": "Belle (2002) - atomoxetine, 20 mg, po, n=22 (EM)",
       "Model": "4Comp",
@@ -41480,13 +41916,6 @@
       ],
       "OutputSelections": [
         "Organism|PeripheralVenousBlood|Atomoxetine|Plasma (Peripheral Venous Blood)"
-      ],
-      "OutputMappings": [
-        {
-          "Scaling": "Log",
-          "Path": "Belle (2002) - atomoxetine, 20 mg, po, n=22 (EM)|Organism|PeripheralVenousBlood|Atomoxetine|Plasma (Peripheral Venous Blood)",
-          "ObservedData": "Belle (2002) - atomoxetine, 20 mg, po, n=22 (EM), atomoxetine"
-        }
       ],
       "Individual": "Belle (2002), n=22 (EM)",
       "Compounds": [
@@ -41603,7 +42032,7 @@
               }
             },
             {
-              "Name": "BE02_PO_20_ATO_MD_PVB_NM_59-Atomoxetine-Measurement",
+              "Name": "Belle (2002) - atomoxetine, 20 mg, po, n=22 (EM), atomoxetine-Atomoxetine-Measurement",
               "X": "Belle (2002) - atomoxetine, 20 mg, po, n=22 (EM), atomoxetine|Time",
               "Y": "Belle (2002) - atomoxetine, 20 mg, po, n=22 (EM), atomoxetine|ObservedData|||Atomoxetine|Measurement",
               "CurveOptions": {
@@ -41632,7 +42061,7 @@
             "BackColor": "#00FFFFFF",
             "DiagramBackColor": "#FFFFFF"
           },
-          "OriginText": "atomoxetine\nBelle (2002) - atomoxetine, 20 mg, po, n=22 (EM)\n2022-08-19 13:35"
+          "OriginText": "Atomoxetine-model\nBelle (2002) - atomoxetine, 20 mg, po, n=22 (EM)\n2026-05-18 10:19"
         }
       ]
     },
@@ -41676,13 +42105,6 @@
       ],
       "OutputSelections": [
         "Organism|PeripheralVenousBlood|Atomoxetine|Plasma (Peripheral Venous Blood)"
-      ],
-      "OutputMappings": [
-        {
-          "Scaling": "Log",
-          "Path": "Byeon (2015) - atomoxetine, 40 mg (dose normalized), po, n=18 (AS=0.5)|Organism|PeripheralVenousBlood|Atomoxetine|Plasma (Peripheral Venous Blood)",
-          "ObservedData": "Byeon 2015 - atomoxetine, 40 mg (normalized), po, n=18 (AS=0.5), atomoxetine"
-        }
       ],
       "Individual": "Byeon (2015), n=18 (AS=0.5)",
       "Compounds": [
@@ -41796,7 +42218,7 @@
               }
             },
             {
-              "Name": "BY15_PO_40_ATO_SD_PVB_IM_167_dn-Atomoxetine-Peripheral Venous Blood-Plasma-[ng/mL]",
+              "Name": "Byeon 2015 - atomoxetine, 40 mg (normalized), po, n=18 (AS=0.5), atomoxetine-Atomoxetine-Peripheral Venous Blood-Plasma-[ng/mL]",
               "X": "Byeon 2015 - atomoxetine, 40 mg (normalized), po, n=18 (AS=0.5), atomoxetine|[h]",
               "Y": "Byeon 2015 - atomoxetine, 40 mg (normalized), po, n=18 (AS=0.5), atomoxetine|ObservedData|Peripheral Venous Blood|Plasma|Atomoxetine|[ng/mL]",
               "CurveOptions": {
@@ -41825,7 +42247,7 @@
             "BackColor": "#00FFFFFF",
             "DiagramBackColor": "#FFFFFF"
           },
-          "OriginText": "atomoxetine_28012021\nBY15_PO_40_ATO_SD_IM_167_\n2021-11-16 09:03"
+          "OriginText": "Atomoxetine-model\nByeon (2015) - atomoxetine, 40 mg (dose normalized), po, n=18 (AS=0.5)\n2026-05-18 10:19"
         }
       ]
     },
@@ -41869,13 +42291,6 @@
       ],
       "OutputSelections": [
         "Organism|PeripheralVenousBlood|Atomoxetine|Plasma (Peripheral Venous Blood)"
-      ],
-      "OutputMappings": [
-        {
-          "Scaling": "Log",
-          "Path": "Byeon (2015) - atomoxetine, 40 mg (dose normalized), po, n=22 (AS=1.25)|Organism|PeripheralVenousBlood|Atomoxetine|Plasma (Peripheral Venous Blood)",
-          "ObservedData": "Byeon (2015) - atomoxetine, 40 mg (dose normalized), po, n=18 (AS=0.5), atomoxetine"
-        }
       ],
       "Individual": "Byeon (2015), n=22 (AS=1.25)",
       "Compounds": [
@@ -41989,7 +42404,7 @@
               }
             },
             {
-              "Name": "BY15_PO_40_ATO_SD_PVB_NM_166_dn-Atomoxetine-Peripheral Venous Blood-Plasma-[ng/mL]",
+              "Name": "Byeon (2015) - atomoxetine, 40 mg (dose normalized), po, n=18 (AS=0.5), atomoxetine-Atomoxetine-Peripheral Venous Blood-Plasma-[ng/mL]",
               "X": "Byeon (2015) - atomoxetine, 40 mg (dose normalized), po, n=18 (AS=0.5), atomoxetine|[h]",
               "Y": "Byeon (2015) - atomoxetine, 40 mg (dose normalized), po, n=18 (AS=0.5), atomoxetine|ObservedData|Peripheral Venous Blood|Plasma|Atomoxetine|[ng/mL]",
               "CurveOptions": {
@@ -42018,200 +42433,7 @@
             "BackColor": "#00FFFFFF",
             "DiagramBackColor": "#FFFFFF"
           },
-          "OriginText": "atomoxetine_28012021\nBY15_PO_40_ATO_SD_NM_166_\n2021-11-16 09:04"
-        }
-      ]
-    },
-    {
-      "Name": "Byeon (2015) - atomoxetine, 40 mg (dose normalized), n=22 (AS=2)",
-      "Model": "4Comp",
-      "ObservedData": [
-        "Byeon (2015) - atomoxetine, 40 mg (dose normalized), n=22 (AS=2), atomoxetine"
-      ],
-      "Solver": {},
-      "OutputSchema": [
-        {
-          "Parameters": [
-            {
-              "Name": "Start time",
-              "Value": 0.0,
-              "Unit": "h"
-            },
-            {
-              "Name": "End time",
-              "Value": 36.0,
-              "Unit": "h",
-              "ValueOrigin": {
-                "Source": "Unknown"
-              }
-            },
-            {
-              "Name": "Resolution",
-              "Value": 20.0,
-              "Unit": "pts/h"
-            }
-          ]
-        }
-      ],
-      "Parameters": [
-        {
-          "Path": "Events|atomoxetine 40 mg s.d.|Strattera Lilly|Application_1|ProtocolSchemaItem|Volume of water/body weight",
-          "Value": 3.5,
-          "Unit": "ml/kg"
-        }
-      ],
-      "OutputSelections": [
-        "Organism|PeripheralVenousBlood|Atomoxetine|Plasma (Peripheral Venous Blood)"
-      ],
-      "OutputMappings": [
-        {
-          "Scaling": "Log",
-          "Path": "Byeon (2015) - atomoxetine, 40 mg (dose normalized), n=22 (AS=2)|Organism|PeripheralVenousBlood|Atomoxetine|Plasma (Peripheral Venous Blood)",
-          "ObservedData": "Byeon (2015) - atomoxetine, 40 mg (dose normalized), n=22 (AS=2), atomoxetine"
-        }
-      ],
-      "Individual": "Byeon (2015), n=22 (AS=2)",
-      "Compounds": [
-        {
-          "Name": "Atomoxetine",
-          "CalculationMethods": [
-            "Cellular partition coefficient method - Berezhkovskiy",
-            "Cellular permeability - PK-Sim Standard"
-          ],
-          "Alternatives": [
-            {
-              "AlternativeName": "LogP",
-              "GroupName": "COMPOUND_LIPOPHILICITY"
-            },
-            {
-              "AlternativeName": "Measurement",
-              "GroupName": "COMPOUND_FRACTION_UNBOUND"
-            },
-            {
-              "AlternativeName": "Optimized",
-              "GroupName": "COMPOUND_INTESTINAL_PERMEABILITY"
-            }
-          ],
-          "Processes": [
-            {
-              "MoleculeName": "CYP3A4"
-            },
-            {
-              "MoleculeName": "AADAC"
-            },
-            {
-              "Name": "CYP2D6-AS=2",
-              "MoleculeName": "CYP2D6"
-            },
-            {
-              "MoleculeName": "MAOA"
-            },
-            {
-              "MoleculeName": "PON3"
-            },
-            {
-              "MoleculeName": "CYP2C8"
-            },
-            {
-              "MoleculeName": "UGT2B7"
-            },
-            {
-              "MoleculeName": "DPYS"
-            },
-            {
-              "MoleculeName": "UPB1"
-            },
-            {
-              "MoleculeName": "DPYD"
-            },
-            {
-              "Name": "CYP2C19-Ring 2002",
-              "MoleculeName": "CYP2C19"
-            },
-            {
-              "Name": "Glomerular Filtration-Assumed",
-              "SystemicProcessType": "GFR"
-            }
-          ],
-          "Protocol": {
-            "Name": "atomoxetine 40 mg s.d.",
-            "Formulations": [
-              {
-                "Name": "Strattera Lilly",
-                "Key": "Formulation"
-              }
-            ]
-          }
-        }
-      ],
-      "HasResults": true,
-      "IndividualAnalyses": [
-        {
-          "Axes": [
-            {
-              "Unit": "h",
-              "Dimension": "Time",
-              "Type": "X",
-              "GridLines": false,
-              "Visible": true,
-              "DefaultColor": "#FFFFFF",
-              "DefaultLineStyle": "None",
-              "Scaling": "Linear",
-              "NumberMode": "Normal"
-            },
-            {
-              "Unit": "ng/ml",
-              "Dimension": "Concentration (molar)",
-              "Type": "Y",
-              "GridLines": false,
-              "Visible": true,
-              "DefaultColor": "#FFFFFF",
-              "DefaultLineStyle": "Solid",
-              "Scaling": "Linear",
-              "NumberMode": "Normal"
-            }
-          ],
-          "Curves": [
-            {
-              "Name": "Byeon (2015) - atomoxetine, 40 mg (dose normalized), n=22 (AS=2)-Atomoxetine-Peripheral Venous Blood-Plasma-Concentration",
-              "X": "Time",
-              "Y": "Byeon (2015) - atomoxetine, 40 mg (dose normalized), n=22 (AS=2)|Organism|PeripheralVenousBlood|Atomoxetine|Plasma (Peripheral Venous Blood)",
-              "CurveOptions": {
-                "Color": "#FF0000",
-                "LegendIndex": 1
-              }
-            },
-            {
-              "Name": "BY15_PO_40_ATO_SD_PVB_NM_165_dn-Atomoxetine-Peripheral Venous Blood-Plasma-[ng/mL]",
-              "X": "Byeon (2015) - atomoxetine, 40 mg (dose normalized), n=22 (AS=2), atomoxetine|[h]",
-              "Y": "Byeon (2015) - atomoxetine, 40 mg (dose normalized), n=22 (AS=2), atomoxetine|ObservedData|Peripheral Venous Blood|Plasma|Atomoxetine|[ng/mL]",
-              "CurveOptions": {
-                "Color": "#008000",
-                "LegendIndex": 3,
-                "LineStyle": "None",
-                "Symbol": "Circle"
-              }
-            }
-          ],
-          "Name": "Time Profile Analysis",
-          "FontAndSize": {
-            "Fonts": {
-              "AxisSize": 10,
-              "LegendSize": 8,
-              "TitleSize": 16,
-              "DescriptionSize": 12,
-              "OriginSize": 8,
-              "FontFamilyName": "Microsoft Sans Serif",
-              "WatermarkSize": 32
-            }
-          },
-          "Settings": {
-            "SideMarginsEnabled": true,
-            "LegendPosition": "RightInside",
-            "BackColor": "#00FFFFFF",
-            "DiagramBackColor": "#FFFFFF"
-          },
-          "OriginText": "atomoxetine_28012021\nBY15_PO_40_ATO_SD_NM_165_\n2021-11-16 09:04"
+          "OriginText": "Atomoxetine-model\nByeon (2015) - atomoxetine, 40 mg (dose normalized), po, n=22 (AS=1.25)\n2026-05-18 10:11"
         }
       ]
     },
@@ -42255,13 +42477,6 @@
       ],
       "OutputSelections": [
         "Organism|PeripheralVenousBlood|Atomoxetine|Plasma (Peripheral Venous Blood)"
-      ],
-      "OutputMappings": [
-        {
-          "Scaling": "Log",
-          "Path": "Kim (2018) - atomoxetine, 20 mg, po, n=8 (AS=0.5)|Organism|PeripheralVenousBlood|Atomoxetine|Plasma (Peripheral Venous Blood)",
-          "ObservedData": "Kim (2018) - atomoxetine, 20 mg, po, n=8 (AS=0.5), atomoxetine"
-        }
       ],
       "Individual": "Kim (2018), n=8 (AS=0.5)",
       "Compounds": [
@@ -42375,7 +42590,7 @@
               }
             },
             {
-              "Name": "KI18_PO_20_ATO_SD_PVB_IM_169-Atomoxetine-Peripheral Venous Blood-Plasma-[ng/mL]",
+              "Name": "Kim (2018) - atomoxetine, 20 mg, po, n=8 (AS=0.5), atomoxetine-Atomoxetine-Peripheral Venous Blood-Plasma-[ng/mL]",
               "X": "Kim (2018) - atomoxetine, 20 mg, po, n=8 (AS=0.5), atomoxetine|[h]",
               "Y": "Kim (2018) - atomoxetine, 20 mg, po, n=8 (AS=0.5), atomoxetine|ObservedData|Peripheral Venous Blood|Plasma|Atomoxetine|[ng/mL]",
               "CurveOptions": {
@@ -42404,1093 +42619,7 @@
             "BackColor": "#00FFFFFF",
             "DiagramBackColor": "#FFFFFF"
           },
-          "OriginText": "atomoxetine\nKI18_PO_20_ATO_SD_IM_169_\n2022-05-31 10:05"
-        }
-      ]
-    },
-    {
-      "Name": "Kim (2018) - atomoxetine, 20 mg, po, n=11 (AS=2)",
-      "Model": "4Comp",
-      "ObservedData": [
-        "Kim (2018) - atomoxetine, 20 mg, po, n=11 (AS=2), atomoxetine"
-      ],
-      "Solver": {},
-      "OutputSchema": [
-        {
-          "Parameters": [
-            {
-              "Name": "Start time",
-              "Value": 0.0,
-              "Unit": "h"
-            },
-            {
-              "Name": "End time",
-              "Value": 2.0,
-              "Unit": "h"
-            },
-            {
-              "Name": "Resolution",
-              "Value": 20.0,
-              "Unit": "pts/h"
-            }
-          ]
-        },
-        {
-          "Parameters": [
-            {
-              "Name": "Start time",
-              "Value": 2.0,
-              "Unit": "h"
-            },
-            {
-              "Name": "End time",
-              "Value": 24.0,
-              "Unit": "h"
-            },
-            {
-              "Name": "Resolution",
-              "Value": 4.0,
-              "Unit": "pts/h"
-            }
-          ]
-        }
-      ],
-      "Parameters": [
-        {
-          "Path": "Events|atomoxetine 20 mg s.d.|Strattera Lilly|Application_1|ProtocolSchemaItem|Volume of water/body weight",
-          "Value": 3.5,
-          "Unit": "ml/kg"
-        }
-      ],
-      "OutputSelections": [
-        "Organism|PeripheralVenousBlood|Atomoxetine|Plasma (Peripheral Venous Blood)"
-      ],
-      "OutputMappings": [
-        {
-          "Scaling": "Log",
-          "Path": "Kim (2018) - atomoxetine, 20 mg, po, n=11 (AS=2)|Organism|PeripheralVenousBlood|Atomoxetine|Plasma (Peripheral Venous Blood)",
-          "ObservedData": "Kim (2018) - atomoxetine, 20 mg, po, n=11 (AS=2), atomoxetine"
-        }
-      ],
-      "Individual": "Kim (2018), n=11 (AS=2)",
-      "Compounds": [
-        {
-          "Name": "Atomoxetine",
-          "CalculationMethods": [
-            "Cellular partition coefficient method - Berezhkovskiy",
-            "Cellular permeability - PK-Sim Standard"
-          ],
-          "Alternatives": [
-            {
-              "AlternativeName": "LogP",
-              "GroupName": "COMPOUND_LIPOPHILICITY"
-            },
-            {
-              "AlternativeName": "Measurement",
-              "GroupName": "COMPOUND_FRACTION_UNBOUND"
-            },
-            {
-              "AlternativeName": "Optimized",
-              "GroupName": "COMPOUND_INTESTINAL_PERMEABILITY"
-            }
-          ],
-          "Processes": [
-            {
-              "MoleculeName": "CYP3A4"
-            },
-            {
-              "MoleculeName": "AADAC"
-            },
-            {
-              "Name": "CYP2D6-AS=2",
-              "MoleculeName": "CYP2D6"
-            },
-            {
-              "MoleculeName": "MAOA"
-            },
-            {
-              "MoleculeName": "PON3"
-            },
-            {
-              "MoleculeName": "CYP2C8"
-            },
-            {
-              "MoleculeName": "UGT2B7"
-            },
-            {
-              "MoleculeName": "DPYS"
-            },
-            {
-              "MoleculeName": "UPB1"
-            },
-            {
-              "MoleculeName": "DPYD"
-            },
-            {
-              "Name": "CYP2C19-Ring 2002",
-              "MoleculeName": "CYP2C19"
-            },
-            {
-              "Name": "Glomerular Filtration-Assumed",
-              "SystemicProcessType": "GFR"
-            }
-          ],
-          "Protocol": {
-            "Name": "atomoxetine 20 mg s.d.",
-            "Formulations": [
-              {
-                "Name": "Strattera Lilly",
-                "Key": "Formulation"
-              }
-            ]
-          }
-        }
-      ],
-      "HasResults": true,
-      "IndividualAnalyses": [
-        {
-          "Axes": [
-            {
-              "Unit": "h",
-              "Dimension": "Time",
-              "Type": "X",
-              "GridLines": false,
-              "Visible": true,
-              "DefaultColor": "#FFFFFF",
-              "DefaultLineStyle": "None",
-              "Scaling": "Linear",
-              "NumberMode": "Normal"
-            },
-            {
-              "Unit": "ng/ml",
-              "Dimension": "Concentration (molar)",
-              "Type": "Y",
-              "GridLines": false,
-              "Visible": true,
-              "DefaultColor": "#FFFFFF",
-              "DefaultLineStyle": "Solid",
-              "Scaling": "Linear",
-              "NumberMode": "Normal"
-            }
-          ],
-          "Curves": [
-            {
-              "Name": "Kim (2018) - atomoxetine, 20 mg, po, n=11 (AS=2)-Atomoxetine-Peripheral Venous Blood-Plasma-Concentration",
-              "X": "Time",
-              "Y": "Kim (2018) - atomoxetine, 20 mg, po, n=11 (AS=2)|Organism|PeripheralVenousBlood|Atomoxetine|Plasma (Peripheral Venous Blood)",
-              "CurveOptions": {
-                "Color": "#FF0000",
-                "LegendIndex": 1
-              }
-            },
-            {
-              "Name": "KI18_PO_20_ATO_SD_PVB_NM_168-Atomoxetine-Peripheral Venous Blood-Plasma-[ng/mL]",
-              "X": "Kim (2018) - atomoxetine, 20 mg, po, n=11 (AS=2), atomoxetine|[h]",
-              "Y": "Kim (2018) - atomoxetine, 20 mg, po, n=11 (AS=2), atomoxetine|ObservedData|Peripheral Venous Blood|Plasma|Atomoxetine|[ng/mL]",
-              "CurveOptions": {
-                "Color": "#0000FF",
-                "LegendIndex": 2,
-                "LineStyle": "None",
-                "Symbol": "Circle"
-              }
-            }
-          ],
-          "Name": "Time Profile Analysis",
-          "FontAndSize": {
-            "Fonts": {
-              "AxisSize": 10,
-              "LegendSize": 8,
-              "TitleSize": 16,
-              "DescriptionSize": 12,
-              "OriginSize": 8,
-              "FontFamilyName": "Microsoft Sans Serif",
-              "WatermarkSize": 32
-            }
-          },
-          "Settings": {
-            "SideMarginsEnabled": true,
-            "LegendPosition": "RightInside",
-            "BackColor": "#00FFFFFF",
-            "DiagramBackColor": "#FFFFFF"
-          },
-          "OriginText": "atomoxetine_28012021\nKI18_PO_20_ATO_SD_NM_168_\n2021-11-16 09:05"
-        }
-      ]
-    },
-    {
-      "Name": "Nakano (2016) - atomoxetine, 50 mg, po casules, n=42 (EM)",
-      "Model": "4Comp",
-      "ObservedData": [
-        "Nakano (2016) - atomoxetine, 50 mg, po casules, n=42 (EM), atomoxetine"
-      ],
-      "Solver": {},
-      "OutputSchema": [
-        {
-          "Parameters": [
-            {
-              "Name": "Start time",
-              "Value": 0.0,
-              "Unit": "h"
-            },
-            {
-              "Name": "End time",
-              "Value": 24.0,
-              "Unit": "h",
-              "ValueOrigin": {
-                "Source": "Unknown"
-              }
-            },
-            {
-              "Name": "Resolution",
-              "Value": 20.0,
-              "Unit": "pts/h"
-            }
-          ]
-        }
-      ],
-      "Parameters": [
-        {
-          "Path": "Events|atomoxetine 2x25 mg, sd|Strattera Lilly|Application_1|ProtocolSchemaItem|Volume of water/body weight",
-          "Value": 3.5,
-          "Unit": "ml/kg"
-        },
-        {
-          "Path": "Events|atomoxetine 2x25 mg, sd|Strattera Lilly|Application_2|ProtocolSchemaItem|Volume of water/body weight",
-          "Value": 3.5,
-          "Unit": "ml/kg"
-        }
-      ],
-      "OutputSelections": [
-        "Organism|PeripheralVenousBlood|Atomoxetine|Plasma (Peripheral Venous Blood)"
-      ],
-      "OutputMappings": [
-        {
-          "Scaling": "Log",
-          "Path": "Nakano (2016) - atomoxetine, 50 mg, po casules, n=42 (EM)|Organism|PeripheralVenousBlood|Atomoxetine|Plasma (Peripheral Venous Blood)",
-          "ObservedData": "Nakano (2016) - atomoxetine, 50 mg, po casules, n=42 (EM), atomoxetine"
-        }
-      ],
-      "Individual": "Nakano (2016), n=42 (EM)",
-      "Compounds": [
-        {
-          "Name": "Atomoxetine",
-          "CalculationMethods": [
-            "Cellular partition coefficient method - Berezhkovskiy",
-            "Cellular permeability - PK-Sim Standard"
-          ],
-          "Alternatives": [
-            {
-              "AlternativeName": "LogP",
-              "GroupName": "COMPOUND_LIPOPHILICITY"
-            },
-            {
-              "AlternativeName": "Measurement",
-              "GroupName": "COMPOUND_FRACTION_UNBOUND"
-            },
-            {
-              "AlternativeName": "Optimized",
-              "GroupName": "COMPOUND_INTESTINAL_PERMEABILITY"
-            }
-          ],
-          "Processes": [
-            {
-              "MoleculeName": "CYP3A4"
-            },
-            {
-              "MoleculeName": "AADAC"
-            },
-            {
-              "Name": "CYP2D6-Ring 2002 (4-hydroxylation)",
-              "MoleculeName": "CYP2D6"
-            },
-            {
-              "MoleculeName": "MAOA"
-            },
-            {
-              "MoleculeName": "PON3"
-            },
-            {
-              "MoleculeName": "CYP2C8"
-            },
-            {
-              "MoleculeName": "UGT2B7"
-            },
-            {
-              "MoleculeName": "DPYS"
-            },
-            {
-              "MoleculeName": "UPB1"
-            },
-            {
-              "MoleculeName": "DPYD"
-            },
-            {
-              "Name": "CYP2C19-Ring 2002",
-              "MoleculeName": "CYP2C19"
-            },
-            {
-              "Name": "Glomerular Filtration-Assumed",
-              "SystemicProcessType": "GFR"
-            }
-          ],
-          "Protocol": {
-            "Name": "atomoxetine 2x25 mg, sd",
-            "Formulations": [
-              {
-                "Name": "Strattera Lilly",
-                "Key": "Formulation"
-              }
-            ]
-          }
-        }
-      ],
-      "HasResults": true,
-      "IndividualAnalyses": [
-        {
-          "Axes": [
-            {
-              "Unit": "h",
-              "Dimension": "Time",
-              "Type": "X",
-              "GridLines": false,
-              "Visible": true,
-              "DefaultColor": "#FFFFFF",
-              "DefaultLineStyle": "None",
-              "Scaling": "Linear",
-              "NumberMode": "Normal"
-            },
-            {
-              "Unit": "ng/ml",
-              "Dimension": "Concentration (molar)",
-              "Type": "Y",
-              "GridLines": false,
-              "Visible": true,
-              "DefaultColor": "#FFFFFF",
-              "DefaultLineStyle": "Solid",
-              "Scaling": "Linear",
-              "NumberMode": "Normal"
-            }
-          ],
-          "Curves": [
-            {
-              "Name": "Nakano (2016) - atomoxetine, 50 mg, po casules, n=42 (EM)-Atomoxetine-Peripheral Venous Blood-Plasma-Concentration",
-              "X": "Time",
-              "Y": "Nakano (2016) - atomoxetine, 50 mg, po casules, n=42 (EM)|Organism|PeripheralVenousBlood|Atomoxetine|Plasma (Peripheral Venous Blood)",
-              "CurveOptions": {
-                "Color": "#FF0000",
-                "LegendIndex": 1
-              }
-            },
-            {
-              "Name": "NA16_PO_50_ATO_SD_PVB_EM_193-Atomoxetine-Peripheral Venous Blood-Plasma-[ng/mL]",
-              "X": "Nakano (2016) - atomoxetine, 50 mg, po casules, n=42 (EM), atomoxetine|[h]",
-              "Y": "Nakano (2016) - atomoxetine, 50 mg, po casules, n=42 (EM), atomoxetine|ObservedData|Peripheral Venous Blood|Plasma|Atomoxetine|[ng/mL]",
-              "CurveOptions": {
-                "Color": "#0000FF",
-                "LegendIndex": 2,
-                "LineStyle": "None",
-                "Symbol": "Circle"
-              }
-            }
-          ],
-          "Name": "Time Profile Analysis",
-          "FontAndSize": {
-            "Fonts": {
-              "AxisSize": 10,
-              "LegendSize": 8,
-              "TitleSize": 16,
-              "DescriptionSize": 12,
-              "OriginSize": 8,
-              "FontFamilyName": "Microsoft Sans Serif",
-              "WatermarkSize": 32
-            }
-          },
-          "Settings": {
-            "SideMarginsEnabled": true,
-            "LegendPosition": "RightInside",
-            "BackColor": "#00FFFFFF",
-            "DiagramBackColor": "#FFFFFF"
-          },
-          "OriginText": "atomoxetine\nNA16_PO_50_ATO_SD_EM_193_\n2022-05-31 10:13"
-        }
-      ]
-    },
-    {
-      "Name": "Nakano (2016) - atomoxetine, 50 mg, po solution, n=42 (EM)",
-      "Model": "4Comp",
-      "ObservedData": [
-        "Nakano (2016) - atomoxetine, 50 mg, po solution, n=42 (EM), atomoxetine"
-      ],
-      "Solver": {},
-      "OutputSchema": [
-        {
-          "Parameters": [
-            {
-              "Name": "Start time",
-              "Value": 0.0,
-              "Unit": "h"
-            },
-            {
-              "Name": "End time",
-              "Value": 24.0,
-              "Unit": "h",
-              "ValueOrigin": {
-                "Source": "Unknown"
-              }
-            },
-            {
-              "Name": "Resolution",
-              "Value": 20.0,
-              "Unit": "pts/h"
-            }
-          ]
-        }
-      ],
-      "Parameters": [
-        {
-          "Path": "Events|atomoxetine 50 mg s.d.|Solution|Application_1|ProtocolSchemaItem|Volume of water/body weight",
-          "Value": 3.5,
-          "Unit": "ml/kg"
-        }
-      ],
-      "OutputSelections": [
-        "Organism|PeripheralVenousBlood|Atomoxetine|Plasma (Peripheral Venous Blood)"
-      ],
-      "OutputMappings": [
-        {
-          "Scaling": "Log",
-          "Path": "Nakano (2016) - atomoxetine, 50 mg, po solution, n=42 (EM)|Organism|PeripheralVenousBlood|Atomoxetine|Plasma (Peripheral Venous Blood)",
-          "ObservedData": "Nakano (2016) - atomoxetine, 50 mg, po solution, n=42 (EM), atomoxetine"
-        }
-      ],
-      "Individual": "Nakano (2016), n=42 (EM)",
-      "Compounds": [
-        {
-          "Name": "Atomoxetine",
-          "CalculationMethods": [
-            "Cellular partition coefficient method - Berezhkovskiy",
-            "Cellular permeability - PK-Sim Standard"
-          ],
-          "Alternatives": [
-            {
-              "AlternativeName": "LogP",
-              "GroupName": "COMPOUND_LIPOPHILICITY"
-            },
-            {
-              "AlternativeName": "Measurement",
-              "GroupName": "COMPOUND_FRACTION_UNBOUND"
-            },
-            {
-              "AlternativeName": "Optimized",
-              "GroupName": "COMPOUND_INTESTINAL_PERMEABILITY"
-            }
-          ],
-          "Processes": [
-            {
-              "MoleculeName": "CYP3A4"
-            },
-            {
-              "MoleculeName": "AADAC"
-            },
-            {
-              "Name": "CYP2D6-Ring 2002 (4-hydroxylation)",
-              "MoleculeName": "CYP2D6"
-            },
-            {
-              "MoleculeName": "MAOA"
-            },
-            {
-              "MoleculeName": "PON3"
-            },
-            {
-              "MoleculeName": "CYP2C8"
-            },
-            {
-              "MoleculeName": "UGT2B7"
-            },
-            {
-              "MoleculeName": "DPYS"
-            },
-            {
-              "MoleculeName": "UPB1"
-            },
-            {
-              "MoleculeName": "DPYD"
-            },
-            {
-              "Name": "CYP2C19-Ring 2002",
-              "MoleculeName": "CYP2C19"
-            },
-            {
-              "Name": "Glomerular Filtration-Assumed",
-              "SystemicProcessType": "GFR"
-            }
-          ],
-          "Protocol": {
-            "Name": "atomoxetine 50 mg s.d.",
-            "Formulations": [
-              {
-                "Name": "Solution",
-                "Key": "Formulation"
-              }
-            ]
-          }
-        }
-      ],
-      "HasResults": true,
-      "IndividualAnalyses": [
-        {
-          "Axes": [
-            {
-              "Unit": "h",
-              "Dimension": "Time",
-              "Type": "X",
-              "GridLines": false,
-              "Visible": true,
-              "DefaultColor": "#FFFFFF",
-              "DefaultLineStyle": "None",
-              "Scaling": "Linear",
-              "NumberMode": "Normal"
-            },
-            {
-              "Unit": "ng/ml",
-              "Dimension": "Concentration (molar)",
-              "Type": "Y",
-              "GridLines": false,
-              "Visible": true,
-              "DefaultColor": "#FFFFFF",
-              "DefaultLineStyle": "Solid",
-              "Scaling": "Linear",
-              "NumberMode": "Normal"
-            }
-          ],
-          "Curves": [
-            {
-              "Name": "Nakano (2016) - atomoxetine, 50 mg, po solution, n=42 (EM)-Atomoxetine-Peripheral Venous Blood-Plasma-Concentration",
-              "X": "Time",
-              "Y": "Nakano (2016) - atomoxetine, 50 mg, po solution, n=42 (EM)|Organism|PeripheralVenousBlood|Atomoxetine|Plasma (Peripheral Venous Blood)",
-              "CurveOptions": {
-                "Color": "#FF0000",
-                "LegendIndex": 1
-              }
-            },
-            {
-              "Name": "NA16_PO_50_ATO_SD_PVB_EM_194-Atomoxetine-Peripheral Venous Blood-Plasma-[ng/mL]",
-              "X": "Nakano (2016) - atomoxetine, 50 mg, po solution, n=42 (EM), atomoxetine|[h]",
-              "Y": "Nakano (2016) - atomoxetine, 50 mg, po solution, n=42 (EM), atomoxetine|ObservedData|Peripheral Venous Blood|Plasma|Atomoxetine|[ng/mL]",
-              "CurveOptions": {
-                "Color": "#0000FF",
-                "LegendIndex": 2,
-                "LineStyle": "None",
-                "Symbol": "Circle"
-              }
-            }
-          ],
-          "Name": "Time Profile Analysis",
-          "FontAndSize": {
-            "Fonts": {
-              "AxisSize": 10,
-              "LegendSize": 8,
-              "TitleSize": 16,
-              "DescriptionSize": 12,
-              "OriginSize": 8,
-              "FontFamilyName": "Microsoft Sans Serif",
-              "WatermarkSize": 32
-            }
-          },
-          "Settings": {
-            "SideMarginsEnabled": true,
-            "LegendPosition": "RightInside",
-            "BackColor": "#00FFFFFF",
-            "DiagramBackColor": "#FFFFFF"
-          },
-          "OriginText": "atomoxetine\nNA16_PO_50_ATO_SD_EM_194_\n2022-05-31 10:15"
-        }
-      ]
-    },
-    {
-      "Name": "Sauer (2002) - atomoxetine, 20 mg, po, n=4 (EM)",
-      "Model": "4Comp",
-      "ObservedData": [
-        "Sauer (2002) - atomoxetine, 20 mg, po, n=4 (EM)"
-      ],
-      "Solver": {},
-      "OutputSchema": [
-        {
-          "Parameters": [
-            {
-              "Name": "Start time",
-              "Value": 0.0,
-              "Unit": "h"
-            },
-            {
-              "Name": "End time",
-              "Value": 420.0,
-              "Unit": "h",
-              "ValueOrigin": {
-                "Source": "Unknown"
-              }
-            },
-            {
-              "Name": "Resolution",
-              "Value": 20.0,
-              "Unit": "pts/h"
-            }
-          ]
-        }
-      ],
-      "Parameters": [
-        {
-          "Path": "Events|atomoxetine 20 mg b.i.d. 11 doses|Strattera Lilly|Application_1|ProtocolSchemaItem|Volume of water/body weight",
-          "Value": 3.5,
-          "Unit": "ml/kg"
-        },
-        {
-          "Path": "Events|atomoxetine 20 mg b.i.d. 11 doses|Strattera Lilly|Application_10|ProtocolSchemaItem|Volume of water/body weight",
-          "Value": 3.5,
-          "Unit": "ml/kg"
-        },
-        {
-          "Path": "Events|atomoxetine 20 mg b.i.d. 11 doses|Strattera Lilly|Application_11|ProtocolSchemaItem|Volume of water/body weight",
-          "Value": 3.5,
-          "Unit": "ml/kg"
-        },
-        {
-          "Path": "Events|atomoxetine 20 mg b.i.d. 11 doses|Strattera Lilly|Application_2|ProtocolSchemaItem|Volume of water/body weight",
-          "Value": 3.5,
-          "Unit": "ml/kg"
-        },
-        {
-          "Path": "Events|atomoxetine 20 mg b.i.d. 11 doses|Strattera Lilly|Application_3|ProtocolSchemaItem|Volume of water/body weight",
-          "Value": 3.5,
-          "Unit": "ml/kg"
-        },
-        {
-          "Path": "Events|atomoxetine 20 mg b.i.d. 11 doses|Strattera Lilly|Application_4|ProtocolSchemaItem|Volume of water/body weight",
-          "Value": 3.5,
-          "Unit": "ml/kg"
-        },
-        {
-          "Path": "Events|atomoxetine 20 mg b.i.d. 11 doses|Strattera Lilly|Application_5|ProtocolSchemaItem|Volume of water/body weight",
-          "Value": 3.5,
-          "Unit": "ml/kg"
-        },
-        {
-          "Path": "Events|atomoxetine 20 mg b.i.d. 11 doses|Strattera Lilly|Application_6|ProtocolSchemaItem|Volume of water/body weight",
-          "Value": 3.5,
-          "Unit": "ml/kg"
-        },
-        {
-          "Path": "Events|atomoxetine 20 mg b.i.d. 11 doses|Strattera Lilly|Application_7|ProtocolSchemaItem|Volume of water/body weight",
-          "Value": 3.5,
-          "Unit": "ml/kg"
-        },
-        {
-          "Path": "Events|atomoxetine 20 mg b.i.d. 11 doses|Strattera Lilly|Application_8|ProtocolSchemaItem|Volume of water/body weight",
-          "Value": 3.5,
-          "Unit": "ml/kg"
-        },
-        {
-          "Path": "Events|atomoxetine 20 mg b.i.d. 11 doses|Strattera Lilly|Application_9|ProtocolSchemaItem|Volume of water/body weight",
-          "Value": 3.5,
-          "Unit": "ml/kg"
-        }
-      ],
-      "OutputSelections": [
-        "Organism|PeripheralVenousBlood|Atomoxetine|Plasma (Peripheral Venous Blood)"
-      ],
-      "OutputMappings": [
-        {
-          "Scaling": "Log",
-          "Path": "Sauer (2002) - atomoxetine, 20 mg, po, n=4 (EM)|Organism|PeripheralVenousBlood|Atomoxetine|Plasma (Peripheral Venous Blood)",
-          "ObservedData": "Sauer (2002) - atomoxetine, 20 mg, po, n=4 (EM)"
-        }
-      ],
-      "Individual": "Sauer (2002), n=4 (EM)",
-      "Compounds": [
-        {
-          "Name": "Atomoxetine",
-          "CalculationMethods": [
-            "Cellular partition coefficient method - Berezhkovskiy",
-            "Cellular permeability - PK-Sim Standard"
-          ],
-          "Alternatives": [
-            {
-              "AlternativeName": "LogP",
-              "GroupName": "COMPOUND_LIPOPHILICITY"
-            },
-            {
-              "AlternativeName": "Measurement",
-              "GroupName": "COMPOUND_FRACTION_UNBOUND"
-            },
-            {
-              "AlternativeName": "Optimized",
-              "GroupName": "COMPOUND_INTESTINAL_PERMEABILITY"
-            }
-          ],
-          "Processes": [
-            {
-              "MoleculeName": "CYP3A4"
-            },
-            {
-              "MoleculeName": "AADAC"
-            },
-            {
-              "Name": "CYP2D6-Ring 2002 (4-hydroxylation)",
-              "MoleculeName": "CYP2D6"
-            },
-            {
-              "MoleculeName": "MAOA"
-            },
-            {
-              "MoleculeName": "PON3"
-            },
-            {
-              "MoleculeName": "CYP2C8"
-            },
-            {
-              "MoleculeName": "UGT2B7"
-            },
-            {
-              "MoleculeName": "DPYS"
-            },
-            {
-              "MoleculeName": "UPB1"
-            },
-            {
-              "MoleculeName": "DPYD"
-            },
-            {
-              "Name": "CYP2C19-Ring 2002",
-              "MoleculeName": "CYP2C19"
-            },
-            {
-              "Name": "Glomerular Filtration-Assumed",
-              "SystemicProcessType": "GFR"
-            }
-          ],
-          "Protocol": {
-            "Name": "atomoxetine 20 mg b.i.d. 11 doses",
-            "Formulations": [
-              {
-                "Name": "Strattera Lilly",
-                "Key": "Formulation"
-              }
-            ]
-          }
-        }
-      ],
-      "HasResults": true,
-      "IndividualAnalyses": [
-        {
-          "Axes": [
-            {
-              "Unit": "h",
-              "Dimension": "Time",
-              "Type": "X",
-              "GridLines": false,
-              "Visible": true,
-              "DefaultColor": "#FFFFFF",
-              "DefaultLineStyle": "None",
-              "Scaling": "Linear",
-              "NumberMode": "Normal"
-            },
-            {
-              "Unit": "ng/ml",
-              "Dimension": "Concentration (molar)",
-              "Type": "Y",
-              "GridLines": false,
-              "Visible": true,
-              "DefaultColor": "#FFFFFF",
-              "DefaultLineStyle": "Solid",
-              "Scaling": "Linear",
-              "NumberMode": "Normal"
-            }
-          ],
-          "Curves": [
-            {
-              "Name": "Sauer (2002) - atomoxetine, 20 mg, po, n=4 (EM)-Atomoxetine-Peripheral Venous Blood-Plasma-Concentration",
-              "X": "Time",
-              "Y": "Sauer (2002) - atomoxetine, 20 mg, po, n=4 (EM)|Organism|PeripheralVenousBlood|Atomoxetine|Plasma (Peripheral Venous Blood)",
-              "CurveOptions": {
-                "Color": "#FF0000",
-                "LegendIndex": 1
-              }
-            },
-            {
-              "Name": "SA02_PO_20_ATO_MD_PVB_NM_163-Atomoxetine-Peripheral Venous Blood-Plasma-[ng/mL]",
-              "X": "Sauer (2002) - atomoxetine, 20 mg, po, n=4 (EM)|[h]",
-              "Y": "Sauer (2002) - atomoxetine, 20 mg, po, n=4 (EM)|ObservedData|Peripheral Venous Blood|Plasma|Atomoxetine|[ng/mL]",
-              "CurveOptions": {
-                "Color": "#0000FF",
-                "LegendIndex": 2,
-                "LineStyle": "None",
-                "Symbol": "Circle"
-              }
-            }
-          ],
-          "Name": "Time Profile Analysis",
-          "FontAndSize": {
-            "Fonts": {
-              "AxisSize": 10,
-              "LegendSize": 8,
-              "TitleSize": 16,
-              "DescriptionSize": 12,
-              "OriginSize": 8,
-              "FontFamilyName": "Microsoft Sans Serif",
-              "WatermarkSize": 32
-            }
-          },
-          "Settings": {
-            "SideMarginsEnabled": true,
-            "LegendPosition": "None",
-            "BackColor": "#00FFFFFF",
-            "DiagramBackColor": "#FFFFFF"
-          },
-          "OriginText": "atomoxetine\nSA02_PO_20_ATO_MD_NM_163_\n2022-05-31 14:06"
-        }
-      ]
-    },
-    {
-      "Name": "Sauer (2002) - atomoxetine, 20 mg, po, n=3 (PM)",
-      "Model": "4Comp",
-      "ObservedData": [
-        "Sauer (2002) - atomoxetine, 20 mg, po, n=3 (PM), atomoxetine"
-      ],
-      "Solver": {},
-      "OutputSchema": [
-        {
-          "Parameters": [
-            {
-              "Name": "Start time",
-              "Value": 0.0,
-              "Unit": "h"
-            },
-            {
-              "Name": "End time",
-              "Value": 420.0,
-              "Unit": "h",
-              "ValueOrigin": {
-                "Source": "Unknown"
-              }
-            },
-            {
-              "Name": "Resolution",
-              "Value": 20.0,
-              "Unit": "pts/h"
-            }
-          ]
-        }
-      ],
-      "Parameters": [
-        {
-          "Path": "Events|atomoxetine 20 mg b.i.d. 11 doses|Strattera Lilly|Application_1|ProtocolSchemaItem|Volume of water/body weight",
-          "Value": 3.5,
-          "Unit": "ml/kg"
-        },
-        {
-          "Path": "Events|atomoxetine 20 mg b.i.d. 11 doses|Strattera Lilly|Application_10|ProtocolSchemaItem|Volume of water/body weight",
-          "Value": 3.5,
-          "Unit": "ml/kg"
-        },
-        {
-          "Path": "Events|atomoxetine 20 mg b.i.d. 11 doses|Strattera Lilly|Application_11|ProtocolSchemaItem|Volume of water/body weight",
-          "Value": 3.5,
-          "Unit": "ml/kg"
-        },
-        {
-          "Path": "Events|atomoxetine 20 mg b.i.d. 11 doses|Strattera Lilly|Application_2|ProtocolSchemaItem|Volume of water/body weight",
-          "Value": 3.5,
-          "Unit": "ml/kg"
-        },
-        {
-          "Path": "Events|atomoxetine 20 mg b.i.d. 11 doses|Strattera Lilly|Application_3|ProtocolSchemaItem|Volume of water/body weight",
-          "Value": 3.5,
-          "Unit": "ml/kg"
-        },
-        {
-          "Path": "Events|atomoxetine 20 mg b.i.d. 11 doses|Strattera Lilly|Application_4|ProtocolSchemaItem|Volume of water/body weight",
-          "Value": 3.5,
-          "Unit": "ml/kg"
-        },
-        {
-          "Path": "Events|atomoxetine 20 mg b.i.d. 11 doses|Strattera Lilly|Application_5|ProtocolSchemaItem|Volume of water/body weight",
-          "Value": 3.5,
-          "Unit": "ml/kg"
-        },
-        {
-          "Path": "Events|atomoxetine 20 mg b.i.d. 11 doses|Strattera Lilly|Application_6|ProtocolSchemaItem|Volume of water/body weight",
-          "Value": 3.5,
-          "Unit": "ml/kg"
-        },
-        {
-          "Path": "Events|atomoxetine 20 mg b.i.d. 11 doses|Strattera Lilly|Application_7|ProtocolSchemaItem|Volume of water/body weight",
-          "Value": 3.5,
-          "Unit": "ml/kg"
-        },
-        {
-          "Path": "Events|atomoxetine 20 mg b.i.d. 11 doses|Strattera Lilly|Application_8|ProtocolSchemaItem|Volume of water/body weight",
-          "Value": 3.5,
-          "Unit": "ml/kg"
-        },
-        {
-          "Path": "Events|atomoxetine 20 mg b.i.d. 11 doses|Strattera Lilly|Application_9|ProtocolSchemaItem|Volume of water/body weight",
-          "Value": 3.5,
-          "Unit": "ml/kg"
-        }
-      ],
-      "OutputSelections": [
-        "Organism|PeripheralVenousBlood|Atomoxetine|Plasma (Peripheral Venous Blood)"
-      ],
-      "OutputMappings": [
-        {
-          "Scaling": "Log",
-          "Path": "Sauer (2002) - atomoxetine, 20 mg, po, n=3 (PM)|Organism|PeripheralVenousBlood|Atomoxetine|Plasma (Peripheral Venous Blood)",
-          "ObservedData": "Sauer (2002) - atomoxetine, 20 mg, po, n=3 (PM), atomoxetine"
-        }
-      ],
-      "Individual": "Sauer (2002), n=3 (PM)",
-      "Compounds": [
-        {
-          "Name": "Atomoxetine",
-          "CalculationMethods": [
-            "Cellular partition coefficient method - Berezhkovskiy",
-            "Cellular permeability - PK-Sim Standard"
-          ],
-          "Alternatives": [
-            {
-              "AlternativeName": "LogP",
-              "GroupName": "COMPOUND_LIPOPHILICITY"
-            },
-            {
-              "AlternativeName": "Measurement",
-              "GroupName": "COMPOUND_FRACTION_UNBOUND"
-            },
-            {
-              "AlternativeName": "Optimized",
-              "GroupName": "COMPOUND_INTESTINAL_PERMEABILITY"
-            }
-          ],
-          "Processes": [
-            {
-              "MoleculeName": "CYP3A4"
-            },
-            {
-              "MoleculeName": "AADAC"
-            },
-            {
-              "Name": "CYP2D6-AS=0",
-              "MoleculeName": "CYP2D6"
-            },
-            {
-              "MoleculeName": "MAOA"
-            },
-            {
-              "MoleculeName": "PON3"
-            },
-            {
-              "MoleculeName": "CYP2C8"
-            },
-            {
-              "MoleculeName": "UGT2B7"
-            },
-            {
-              "MoleculeName": "DPYS"
-            },
-            {
-              "MoleculeName": "UPB1"
-            },
-            {
-              "MoleculeName": "DPYD"
-            },
-            {
-              "Name": "CYP2C19-Ring 2002",
-              "MoleculeName": "CYP2C19"
-            },
-            {
-              "Name": "Glomerular Filtration-Assumed",
-              "SystemicProcessType": "GFR"
-            }
-          ],
-          "Protocol": {
-            "Name": "atomoxetine 20 mg b.i.d. 11 doses",
-            "Formulations": [
-              {
-                "Name": "Strattera Lilly",
-                "Key": "Formulation"
-              }
-            ]
-          }
-        }
-      ],
-      "HasResults": true,
-      "IndividualAnalyses": [
-        {
-          "Axes": [
-            {
-              "Unit": "h",
-              "Dimension": "Time",
-              "Type": "X",
-              "GridLines": false,
-              "Visible": true,
-              "DefaultColor": "#FFFFFF",
-              "DefaultLineStyle": "None",
-              "Scaling": "Linear",
-              "NumberMode": "Normal"
-            },
-            {
-              "Unit": "ng/ml",
-              "Dimension": "Concentration (molar)",
-              "Type": "Y",
-              "GridLines": false,
-              "Visible": true,
-              "DefaultColor": "#FFFFFF",
-              "DefaultLineStyle": "Solid",
-              "Scaling": "Linear",
-              "NumberMode": "Normal"
-            }
-          ],
-          "Curves": [
-            {
-              "Name": "Sauer (2002) - atomoxetine, 20 mg, po, n=3 (PM)-Atomoxetine-Peripheral Venous Blood-Plasma-Concentration",
-              "X": "Time",
-              "Y": "Sauer (2002) - atomoxetine, 20 mg, po, n=3 (PM)|Organism|PeripheralVenousBlood|Atomoxetine|Plasma (Peripheral Venous Blood)",
-              "CurveOptions": {
-                "Color": "#FF0000",
-                "LegendIndex": 1
-              }
-            },
-            {
-              "Name": "SA02_PO_20_ATO_MD_PVB_PM_164-Atomoxetine-Peripheral Venous Blood-Plasma-[ng/mL]",
-              "X": "Sauer (2002) - atomoxetine, 20 mg, po, n=3 (PM), atomoxetine|[h]",
-              "Y": "Sauer (2002) - atomoxetine, 20 mg, po, n=3 (PM), atomoxetine|ObservedData|Peripheral Venous Blood|Plasma|Atomoxetine|[ng/mL]",
-              "CurveOptions": {
-                "Color": "#0000FF",
-                "LegendIndex": 2,
-                "LineStyle": "None",
-                "Symbol": "Circle"
-              }
-            }
-          ],
-          "Name": "Time Profile Analysis",
-          "FontAndSize": {
-            "Fonts": {
-              "AxisSize": 10,
-              "LegendSize": 8,
-              "TitleSize": 16,
-              "DescriptionSize": 12,
-              "OriginSize": 8,
-              "FontFamilyName": "Microsoft Sans Serif",
-              "WatermarkSize": 32
-            }
-          },
-          "Settings": {
-            "SideMarginsEnabled": true,
-            "LegendPosition": "None",
-            "BackColor": "#00FFFFFF",
-            "DiagramBackColor": "#FFFFFF"
-          },
-          "OriginText": "atomoxetine\nSA02_PO_20_ATO_MD_PM_164_\n2022-05-31 10:17"
+          "OriginText": "Atomoxetine-model\nKim (2018) - atomoxetine, 20 mg, po, n=8 (AS=0.5)\n2026-05-18 10:19"
         }
       ]
     },
@@ -43534,13 +42663,6 @@
       ],
       "OutputSelections": [
         "Organism|PeripheralVenousBlood|Atomoxetine|Plasma (Peripheral Venous Blood)"
-      ],
-      "OutputMappings": [
-        {
-          "Scaling": "Log",
-          "Path": "Todor (2016) - atomoxetine, 25 mg, po, n=18 (NM)|Organism|PeripheralVenousBlood|Atomoxetine|Plasma (Peripheral Venous Blood)",
-          "ObservedData": "Todor (2016) - atomoxetine, 25 mg, po, n=18 (NM), atomoxetine"
-        }
       ],
       "Individual": "Todor (2016), n=18 (NM)",
       "Compounds": [
@@ -43654,7 +42776,7 @@
               }
             },
             {
-              "Name": "TO16_PO_25_ATO_SD_PVB_NM_174-Atomoxetine-Peripheral Venous Blood-Plasma-[ng/mL]",
+              "Name": "Todor (2016) - atomoxetine, 25 mg, po, n=18 (NM), atomoxetine-Atomoxetine-Peripheral Venous Blood-Plasma-[ng/mL]",
               "X": "Todor (2016) - atomoxetine, 25 mg, po, n=18 (NM), atomoxetine|[h]",
               "Y": "Todor (2016) - atomoxetine, 25 mg, po, n=18 (NM), atomoxetine|ObservedData|Peripheral Venous Blood|Plasma|Atomoxetine|[ng/mL]",
               "CurveOptions": {
@@ -43683,7 +42805,7 @@
             "BackColor": "#00FFFFFF",
             "DiagramBackColor": "#FFFFFF"
           },
-          "OriginText": "atomoxetine\nTO16_PO_25_ATO_SD_NM_174_\n2022-05-31 10:07"
+          "OriginText": "Atomoxetine-model\nTodor (2016) - atomoxetine, 25 mg, po, n=18 (NM)\n2026-05-18 10:13"
         }
       ]
     },
@@ -43691,7 +42813,7 @@
       "Name": "Todor (2016) - atomoxetine, 25 mg, po, n=2 (PM)",
       "Model": "4Comp",
       "ObservedData": [
-        "Sauer (2002) - atomoxetine, 20 mg, po, n=4 (EM)",
+        "Sauer (2002) - atomoxetine, 20 mg, po, n=4 (EM), atomoxetine",
         "Todor (2016) - atomoxetine, 25 mg, po, n=2 (PM), atomoxetine"
       ],
       "Solver": {},
@@ -43728,13 +42850,6 @@
       ],
       "OutputSelections": [
         "Organism|PeripheralVenousBlood|Atomoxetine|Plasma (Peripheral Venous Blood)"
-      ],
-      "OutputMappings": [
-        {
-          "Scaling": "Log",
-          "Path": "Todor (2016) - atomoxetine, 25 mg, po, n=2 (PM)|Organism|PeripheralVenousBlood|Atomoxetine|Plasma (Peripheral Venous Blood)",
-          "ObservedData": "Todor (2016) - atomoxetine, 25 mg, po, n=2 (PM), atomoxetine"
-        }
       ],
       "Individual": "Todor (2016), n=2 (PM)",
       "Compounds": [
@@ -43848,7 +42963,7 @@
               }
             },
             {
-              "Name": "TO16_PO_25_ATO_SD_PVB_PM_175-Atomoxetine-Peripheral Venous Blood-Plasma-[ng/mL]",
+              "Name": "Todor (2016) - atomoxetine, 25 mg, po, n=2 (PM), atomoxetine-Atomoxetine-Peripheral Venous Blood-Plasma-[ng/mL]",
               "X": "Todor (2016) - atomoxetine, 25 mg, po, n=2 (PM), atomoxetine|[h]",
               "Y": "Todor (2016) - atomoxetine, 25 mg, po, n=2 (PM), atomoxetine|ObservedData|Peripheral Venous Blood|Plasma|Atomoxetine|[ng/mL]",
               "CurveOptions": {
@@ -43877,14 +42992,1311 @@
             "BackColor": "#00FFFFFF",
             "DiagramBackColor": "#FFFFFF"
           },
-          "OriginText": "atomoxetine\nTO16_PO_25_ATO_SD_PM_175_\n2022-05-31 12:09"
+          "OriginText": "Atomoxetine-model\nTodor (2016) - atomoxetine, 25 mg, po, n=2 (PM)\n2026-05-18 10:15"
+        }
+      ]
+    },
+    {
+      "Name": "Kim (2018) - atomoxetine, 20 mg, po, n=11 (AS=2)",
+      "Model": "4Comp",
+      "ObservedData": [
+        "Kim (2018) - atomoxetine, 20 mg, po, n=11 (AS=2), atomoxetine"
+      ],
+      "Solver": {},
+      "OutputSchema": [
+        {
+          "Parameters": [
+            {
+              "Name": "Start time",
+              "Value": 0.0,
+              "Unit": "h"
+            },
+            {
+              "Name": "End time",
+              "Value": 2.0,
+              "Unit": "h"
+            },
+            {
+              "Name": "Resolution",
+              "Value": 20.0,
+              "Unit": "pts/h"
+            }
+          ]
+        },
+        {
+          "Parameters": [
+            {
+              "Name": "Start time",
+              "Value": 2.0,
+              "Unit": "h"
+            },
+            {
+              "Name": "End time",
+              "Value": 24.0,
+              "Unit": "h"
+            },
+            {
+              "Name": "Resolution",
+              "Value": 4.0,
+              "Unit": "pts/h"
+            }
+          ]
+        }
+      ],
+      "Parameters": [
+        {
+          "Path": "Events|atomoxetine 20 mg s.d.|Strattera Lilly|Application_1|ProtocolSchemaItem|Volume of water/body weight",
+          "Value": 3.5,
+          "Unit": "ml/kg"
+        }
+      ],
+      "OutputSelections": [
+        "Organism|PeripheralVenousBlood|Atomoxetine|Plasma (Peripheral Venous Blood)"
+      ],
+      "Individual": "Kim (2018), n=11 (AS=2)",
+      "Compounds": [
+        {
+          "Name": "Atomoxetine",
+          "CalculationMethods": [
+            "Cellular partition coefficient method - Berezhkovskiy",
+            "Cellular permeability - PK-Sim Standard"
+          ],
+          "Alternatives": [
+            {
+              "AlternativeName": "LogP",
+              "GroupName": "COMPOUND_LIPOPHILICITY"
+            },
+            {
+              "AlternativeName": "Measurement",
+              "GroupName": "COMPOUND_FRACTION_UNBOUND"
+            },
+            {
+              "AlternativeName": "Optimized",
+              "GroupName": "COMPOUND_INTESTINAL_PERMEABILITY"
+            }
+          ],
+          "Processes": [
+            {
+              "MoleculeName": "CYP3A4"
+            },
+            {
+              "MoleculeName": "AADAC"
+            },
+            {
+              "Name": "CYP2D6-AS=2",
+              "MoleculeName": "CYP2D6"
+            },
+            {
+              "MoleculeName": "MAOA"
+            },
+            {
+              "MoleculeName": "PON3"
+            },
+            {
+              "MoleculeName": "CYP2C8"
+            },
+            {
+              "MoleculeName": "UGT2B7"
+            },
+            {
+              "MoleculeName": "DPYS"
+            },
+            {
+              "MoleculeName": "UPB1"
+            },
+            {
+              "MoleculeName": "DPYD"
+            },
+            {
+              "Name": "CYP2C19-Ring 2002",
+              "MoleculeName": "CYP2C19"
+            },
+            {
+              "Name": "Glomerular Filtration-Assumed",
+              "SystemicProcessType": "GFR"
+            }
+          ],
+          "Protocol": {
+            "Name": "atomoxetine 20 mg s.d.",
+            "Formulations": [
+              {
+                "Name": "Strattera Lilly",
+                "Key": "Formulation"
+              }
+            ]
+          }
+        }
+      ],
+      "HasResults": true,
+      "IndividualAnalyses": [
+        {
+          "Axes": [
+            {
+              "Unit": "h",
+              "Dimension": "Time",
+              "Type": "X",
+              "GridLines": false,
+              "Visible": true,
+              "DefaultColor": "#FFFFFF",
+              "DefaultLineStyle": "None",
+              "Scaling": "Linear",
+              "NumberMode": "Normal"
+            },
+            {
+              "Unit": "ng/ml",
+              "Dimension": "Concentration (molar)",
+              "Type": "Y",
+              "GridLines": false,
+              "Visible": true,
+              "DefaultColor": "#FFFFFF",
+              "DefaultLineStyle": "Solid",
+              "Scaling": "Linear",
+              "NumberMode": "Normal"
+            }
+          ],
+          "Curves": [
+            {
+              "Name": "Kim (2018) - atomoxetine, 20 mg, po, n=11 (AS=2)-Atomoxetine-Peripheral Venous Blood-Plasma-Concentration",
+              "X": "Time",
+              "Y": "Kim (2018) - atomoxetine, 20 mg, po, n=11 (AS=2)|Organism|PeripheralVenousBlood|Atomoxetine|Plasma (Peripheral Venous Blood)",
+              "CurveOptions": {
+                "Color": "#FF0000",
+                "LegendIndex": 1
+              }
+            },
+            {
+              "Name": "Kim (2018) - atomoxetine, 20 mg, po, n=11 (AS=2), atomoxetine-Atomoxetine-Peripheral Venous Blood-Plasma-[ng/mL]",
+              "X": "Kim (2018) - atomoxetine, 20 mg, po, n=11 (AS=2), atomoxetine|[h]",
+              "Y": "Kim (2018) - atomoxetine, 20 mg, po, n=11 (AS=2), atomoxetine|ObservedData|Peripheral Venous Blood|Plasma|Atomoxetine|[ng/mL]",
+              "CurveOptions": {
+                "Color": "#0000FF",
+                "LegendIndex": 2,
+                "LineStyle": "None",
+                "Symbol": "Circle"
+              }
+            }
+          ],
+          "Name": "Time Profile Analysis",
+          "FontAndSize": {
+            "Fonts": {
+              "AxisSize": 10,
+              "LegendSize": 8,
+              "TitleSize": 16,
+              "DescriptionSize": 12,
+              "OriginSize": 8,
+              "FontFamilyName": "Microsoft Sans Serif",
+              "WatermarkSize": 32
+            }
+          },
+          "Settings": {
+            "SideMarginsEnabled": true,
+            "LegendPosition": "RightInside",
+            "BackColor": "#00FFFFFF",
+            "DiagramBackColor": "#FFFFFF"
+          },
+          "OriginText": "Atomoxetine-model\nKim (2018) - atomoxetine, 20 mg, po, n=11 (AS=2)\n2026-05-18 10:20"
+        }
+      ]
+    },
+    {
+      "Name": "Nakano (2016) - atomoxetine, 50 mg, po casules, n=42 (EM)",
+      "Model": "4Comp",
+      "ObservedData": [
+        "Nakano (2016) - atomoxetine, 50 mg, po casules, n=42 (EM), atomoxetine"
+      ],
+      "Solver": {},
+      "OutputSchema": [
+        {
+          "Parameters": [
+            {
+              "Name": "Start time",
+              "Value": 0.0,
+              "Unit": "h"
+            },
+            {
+              "Name": "End time",
+              "Value": 24.0,
+              "Unit": "h",
+              "ValueOrigin": {
+                "Source": "Unknown"
+              }
+            },
+            {
+              "Name": "Resolution",
+              "Value": 20.0,
+              "Unit": "pts/h"
+            }
+          ]
+        }
+      ],
+      "Parameters": [
+        {
+          "Path": "Events|atomoxetine 2x25 mg, sd|Strattera Lilly|Application_1|ProtocolSchemaItem|Volume of water/body weight",
+          "Value": 3.5,
+          "Unit": "ml/kg"
+        },
+        {
+          "Path": "Events|atomoxetine 2x25 mg, sd|Strattera Lilly|Application_2|ProtocolSchemaItem|Volume of water/body weight",
+          "Value": 3.5,
+          "Unit": "ml/kg"
+        }
+      ],
+      "OutputSelections": [
+        "Organism|PeripheralVenousBlood|Atomoxetine|Plasma (Peripheral Venous Blood)"
+      ],
+      "Individual": "Nakano (2016), n=42 (EM)",
+      "Compounds": [
+        {
+          "Name": "Atomoxetine",
+          "CalculationMethods": [
+            "Cellular partition coefficient method - Berezhkovskiy",
+            "Cellular permeability - PK-Sim Standard"
+          ],
+          "Alternatives": [
+            {
+              "AlternativeName": "LogP",
+              "GroupName": "COMPOUND_LIPOPHILICITY"
+            },
+            {
+              "AlternativeName": "Measurement",
+              "GroupName": "COMPOUND_FRACTION_UNBOUND"
+            },
+            {
+              "AlternativeName": "Optimized",
+              "GroupName": "COMPOUND_INTESTINAL_PERMEABILITY"
+            }
+          ],
+          "Processes": [
+            {
+              "MoleculeName": "CYP3A4"
+            },
+            {
+              "MoleculeName": "AADAC"
+            },
+            {
+              "Name": "CYP2D6-Ring 2002 (4-hydroxylation)",
+              "MoleculeName": "CYP2D6"
+            },
+            {
+              "MoleculeName": "MAOA"
+            },
+            {
+              "MoleculeName": "PON3"
+            },
+            {
+              "MoleculeName": "CYP2C8"
+            },
+            {
+              "MoleculeName": "UGT2B7"
+            },
+            {
+              "MoleculeName": "DPYS"
+            },
+            {
+              "MoleculeName": "UPB1"
+            },
+            {
+              "MoleculeName": "DPYD"
+            },
+            {
+              "Name": "CYP2C19-Ring 2002",
+              "MoleculeName": "CYP2C19"
+            },
+            {
+              "Name": "Glomerular Filtration-Assumed",
+              "SystemicProcessType": "GFR"
+            }
+          ],
+          "Protocol": {
+            "Name": "atomoxetine 2x25 mg, sd",
+            "Formulations": [
+              {
+                "Name": "Strattera Lilly",
+                "Key": "Formulation"
+              }
+            ]
+          }
+        }
+      ],
+      "HasResults": true,
+      "IndividualAnalyses": [
+        {
+          "Axes": [
+            {
+              "Unit": "h",
+              "Dimension": "Time",
+              "Type": "X",
+              "GridLines": false,
+              "Visible": true,
+              "DefaultColor": "#FFFFFF",
+              "DefaultLineStyle": "None",
+              "Scaling": "Linear",
+              "NumberMode": "Normal"
+            },
+            {
+              "Unit": "ng/ml",
+              "Dimension": "Concentration (molar)",
+              "Type": "Y",
+              "GridLines": false,
+              "Visible": true,
+              "DefaultColor": "#FFFFFF",
+              "DefaultLineStyle": "Solid",
+              "Scaling": "Linear",
+              "NumberMode": "Normal"
+            }
+          ],
+          "Curves": [
+            {
+              "Name": "Nakano (2016) - atomoxetine, 50 mg, po casules, n=42 (EM)-Atomoxetine-Peripheral Venous Blood-Plasma-Concentration",
+              "X": "Time",
+              "Y": "Nakano (2016) - atomoxetine, 50 mg, po casules, n=42 (EM)|Organism|PeripheralVenousBlood|Atomoxetine|Plasma (Peripheral Venous Blood)",
+              "CurveOptions": {
+                "Color": "#FF0000",
+                "LegendIndex": 1
+              }
+            },
+            {
+              "Name": "Nakano (2016) - atomoxetine, 50 mg, po casules, n=42 (EM), atomoxetine-Atomoxetine-Peripheral Venous Blood-Plasma-[ng/mL]",
+              "X": "Nakano (2016) - atomoxetine, 50 mg, po casules, n=42 (EM), atomoxetine|[h]",
+              "Y": "Nakano (2016) - atomoxetine, 50 mg, po casules, n=42 (EM), atomoxetine|ObservedData|Peripheral Venous Blood|Plasma|Atomoxetine|[ng/mL]",
+              "CurveOptions": {
+                "Color": "#0000FF",
+                "LegendIndex": 2,
+                "LineStyle": "None",
+                "Symbol": "Circle"
+              }
+            }
+          ],
+          "Name": "Time Profile Analysis",
+          "FontAndSize": {
+            "Fonts": {
+              "AxisSize": 10,
+              "LegendSize": 8,
+              "TitleSize": 16,
+              "DescriptionSize": 12,
+              "OriginSize": 8,
+              "FontFamilyName": "Microsoft Sans Serif",
+              "WatermarkSize": 32
+            }
+          },
+          "Settings": {
+            "SideMarginsEnabled": true,
+            "LegendPosition": "RightInside",
+            "BackColor": "#00FFFFFF",
+            "DiagramBackColor": "#FFFFFF"
+          },
+          "OriginText": "Atomoxetine-model\nNakano (2016) - atomoxetine, 50 mg, po casules, n=42 (EM)\n2026-05-18 10:15"
+        }
+      ]
+    },
+    {
+      "Name": "Nakano (2016) - atomoxetine, 50 mg, po solution, n=42 (EM)",
+      "Model": "4Comp",
+      "ObservedData": [
+        "Nakano (2016) - atomoxetine, 50 mg, po solution, n=42 (EM), atomoxetine"
+      ],
+      "Solver": {},
+      "OutputSchema": [
+        {
+          "Parameters": [
+            {
+              "Name": "Start time",
+              "Value": 0.0,
+              "Unit": "h"
+            },
+            {
+              "Name": "End time",
+              "Value": 24.0,
+              "Unit": "h",
+              "ValueOrigin": {
+                "Source": "Unknown"
+              }
+            },
+            {
+              "Name": "Resolution",
+              "Value": 20.0,
+              "Unit": "pts/h"
+            }
+          ]
+        }
+      ],
+      "Parameters": [
+        {
+          "Path": "Events|atomoxetine 50 mg s.d.|Solution|Application_1|ProtocolSchemaItem|Volume of water/body weight",
+          "Value": 3.5,
+          "Unit": "ml/kg"
+        }
+      ],
+      "OutputSelections": [
+        "Organism|PeripheralVenousBlood|Atomoxetine|Plasma (Peripheral Venous Blood)"
+      ],
+      "Individual": "Nakano (2016), n=42 (EM)",
+      "Compounds": [
+        {
+          "Name": "Atomoxetine",
+          "CalculationMethods": [
+            "Cellular partition coefficient method - Berezhkovskiy",
+            "Cellular permeability - PK-Sim Standard"
+          ],
+          "Alternatives": [
+            {
+              "AlternativeName": "LogP",
+              "GroupName": "COMPOUND_LIPOPHILICITY"
+            },
+            {
+              "AlternativeName": "Measurement",
+              "GroupName": "COMPOUND_FRACTION_UNBOUND"
+            },
+            {
+              "AlternativeName": "Optimized",
+              "GroupName": "COMPOUND_INTESTINAL_PERMEABILITY"
+            }
+          ],
+          "Processes": [
+            {
+              "MoleculeName": "CYP3A4"
+            },
+            {
+              "MoleculeName": "AADAC"
+            },
+            {
+              "Name": "CYP2D6-Ring 2002 (4-hydroxylation)",
+              "MoleculeName": "CYP2D6"
+            },
+            {
+              "MoleculeName": "MAOA"
+            },
+            {
+              "MoleculeName": "PON3"
+            },
+            {
+              "MoleculeName": "CYP2C8"
+            },
+            {
+              "MoleculeName": "UGT2B7"
+            },
+            {
+              "MoleculeName": "DPYS"
+            },
+            {
+              "MoleculeName": "UPB1"
+            },
+            {
+              "MoleculeName": "DPYD"
+            },
+            {
+              "Name": "CYP2C19-Ring 2002",
+              "MoleculeName": "CYP2C19"
+            },
+            {
+              "Name": "Glomerular Filtration-Assumed",
+              "SystemicProcessType": "GFR"
+            }
+          ],
+          "Protocol": {
+            "Name": "atomoxetine 50 mg s.d.",
+            "Formulations": [
+              {
+                "Name": "Solution",
+                "Key": "Formulation"
+              }
+            ]
+          }
+        }
+      ],
+      "HasResults": true,
+      "IndividualAnalyses": [
+        {
+          "Axes": [
+            {
+              "Unit": "h",
+              "Dimension": "Time",
+              "Type": "X",
+              "GridLines": false,
+              "Visible": true,
+              "DefaultColor": "#FFFFFF",
+              "DefaultLineStyle": "None",
+              "Scaling": "Linear",
+              "NumberMode": "Normal"
+            },
+            {
+              "Unit": "ng/ml",
+              "Dimension": "Concentration (molar)",
+              "Type": "Y",
+              "GridLines": false,
+              "Visible": true,
+              "DefaultColor": "#FFFFFF",
+              "DefaultLineStyle": "Solid",
+              "Scaling": "Linear",
+              "NumberMode": "Normal"
+            }
+          ],
+          "Curves": [
+            {
+              "Name": "Nakano (2016) - atomoxetine, 50 mg, po solution, n=42 (EM)-Atomoxetine-Peripheral Venous Blood-Plasma-Concentration",
+              "X": "Time",
+              "Y": "Nakano (2016) - atomoxetine, 50 mg, po solution, n=42 (EM)|Organism|PeripheralVenousBlood|Atomoxetine|Plasma (Peripheral Venous Blood)",
+              "CurveOptions": {
+                "Color": "#FF0000",
+                "LegendIndex": 1
+              }
+            },
+            {
+              "Name": "Nakano (2016) - atomoxetine, 50 mg, po solution, n=42 (EM), atomoxetine-Atomoxetine-Peripheral Venous Blood-Plasma-[ng/mL]",
+              "X": "Nakano (2016) - atomoxetine, 50 mg, po solution, n=42 (EM), atomoxetine|[h]",
+              "Y": "Nakano (2016) - atomoxetine, 50 mg, po solution, n=42 (EM), atomoxetine|ObservedData|Peripheral Venous Blood|Plasma|Atomoxetine|[ng/mL]",
+              "CurveOptions": {
+                "Color": "#0000FF",
+                "LegendIndex": 2,
+                "LineStyle": "None",
+                "Symbol": "Circle"
+              }
+            }
+          ],
+          "Name": "Time Profile Analysis",
+          "FontAndSize": {
+            "Fonts": {
+              "AxisSize": 10,
+              "LegendSize": 8,
+              "TitleSize": 16,
+              "DescriptionSize": 12,
+              "OriginSize": 8,
+              "FontFamilyName": "Microsoft Sans Serif",
+              "WatermarkSize": 32
+            }
+          },
+          "Settings": {
+            "SideMarginsEnabled": true,
+            "LegendPosition": "RightInside",
+            "BackColor": "#00FFFFFF",
+            "DiagramBackColor": "#FFFFFF"
+          },
+          "OriginText": "Atomoxetine-model\nNakano (2016) - atomoxetine, 50 mg, po solution, n=42 (EM)\n2026-05-18 10:16"
+        }
+      ]
+    },
+    {
+      "Name": "Sauer (2002) - atomoxetine, 20 mg, po, n=3 (PM)",
+      "Model": "4Comp",
+      "ObservedData": [
+        "Sauer (2002) - atomoxetine, 20 mg, po, n=3 (PM), atomoxetine"
+      ],
+      "Solver": {},
+      "OutputSchema": [
+        {
+          "Parameters": [
+            {
+              "Name": "Start time",
+              "Value": 0.0,
+              "Unit": "h"
+            },
+            {
+              "Name": "End time",
+              "Value": 420.0,
+              "Unit": "h",
+              "ValueOrigin": {
+                "Source": "Unknown"
+              }
+            },
+            {
+              "Name": "Resolution",
+              "Value": 20.0,
+              "Unit": "pts/h"
+            }
+          ]
+        }
+      ],
+      "Parameters": [
+        {
+          "Path": "Events|atomoxetine 20 mg b.i.d. 11 doses|Strattera Lilly|Application_1|ProtocolSchemaItem|Volume of water/body weight",
+          "Value": 3.5,
+          "Unit": "ml/kg"
+        },
+        {
+          "Path": "Events|atomoxetine 20 mg b.i.d. 11 doses|Strattera Lilly|Application_10|ProtocolSchemaItem|Volume of water/body weight",
+          "Value": 3.5,
+          "Unit": "ml/kg"
+        },
+        {
+          "Path": "Events|atomoxetine 20 mg b.i.d. 11 doses|Strattera Lilly|Application_11|ProtocolSchemaItem|Volume of water/body weight",
+          "Value": 3.5,
+          "Unit": "ml/kg"
+        },
+        {
+          "Path": "Events|atomoxetine 20 mg b.i.d. 11 doses|Strattera Lilly|Application_2|ProtocolSchemaItem|Volume of water/body weight",
+          "Value": 3.5,
+          "Unit": "ml/kg"
+        },
+        {
+          "Path": "Events|atomoxetine 20 mg b.i.d. 11 doses|Strattera Lilly|Application_3|ProtocolSchemaItem|Volume of water/body weight",
+          "Value": 3.5,
+          "Unit": "ml/kg"
+        },
+        {
+          "Path": "Events|atomoxetine 20 mg b.i.d. 11 doses|Strattera Lilly|Application_4|ProtocolSchemaItem|Volume of water/body weight",
+          "Value": 3.5,
+          "Unit": "ml/kg"
+        },
+        {
+          "Path": "Events|atomoxetine 20 mg b.i.d. 11 doses|Strattera Lilly|Application_5|ProtocolSchemaItem|Volume of water/body weight",
+          "Value": 3.5,
+          "Unit": "ml/kg"
+        },
+        {
+          "Path": "Events|atomoxetine 20 mg b.i.d. 11 doses|Strattera Lilly|Application_6|ProtocolSchemaItem|Volume of water/body weight",
+          "Value": 3.5,
+          "Unit": "ml/kg"
+        },
+        {
+          "Path": "Events|atomoxetine 20 mg b.i.d. 11 doses|Strattera Lilly|Application_7|ProtocolSchemaItem|Volume of water/body weight",
+          "Value": 3.5,
+          "Unit": "ml/kg"
+        },
+        {
+          "Path": "Events|atomoxetine 20 mg b.i.d. 11 doses|Strattera Lilly|Application_8|ProtocolSchemaItem|Volume of water/body weight",
+          "Value": 3.5,
+          "Unit": "ml/kg"
+        },
+        {
+          "Path": "Events|atomoxetine 20 mg b.i.d. 11 doses|Strattera Lilly|Application_9|ProtocolSchemaItem|Volume of water/body weight",
+          "Value": 3.5,
+          "Unit": "ml/kg"
+        }
+      ],
+      "OutputSelections": [
+        "Organism|PeripheralVenousBlood|Atomoxetine|Plasma (Peripheral Venous Blood)"
+      ],
+      "Individual": "Sauer (2002), n=3 (PM)",
+      "Compounds": [
+        {
+          "Name": "Atomoxetine",
+          "CalculationMethods": [
+            "Cellular partition coefficient method - Berezhkovskiy",
+            "Cellular permeability - PK-Sim Standard"
+          ],
+          "Alternatives": [
+            {
+              "AlternativeName": "LogP",
+              "GroupName": "COMPOUND_LIPOPHILICITY"
+            },
+            {
+              "AlternativeName": "Measurement",
+              "GroupName": "COMPOUND_FRACTION_UNBOUND"
+            },
+            {
+              "AlternativeName": "Optimized",
+              "GroupName": "COMPOUND_INTESTINAL_PERMEABILITY"
+            }
+          ],
+          "Processes": [
+            {
+              "MoleculeName": "CYP3A4"
+            },
+            {
+              "MoleculeName": "AADAC"
+            },
+            {
+              "Name": "CYP2D6-AS=0",
+              "MoleculeName": "CYP2D6"
+            },
+            {
+              "MoleculeName": "MAOA"
+            },
+            {
+              "MoleculeName": "PON3"
+            },
+            {
+              "MoleculeName": "CYP2C8"
+            },
+            {
+              "MoleculeName": "UGT2B7"
+            },
+            {
+              "MoleculeName": "DPYS"
+            },
+            {
+              "MoleculeName": "UPB1"
+            },
+            {
+              "MoleculeName": "DPYD"
+            },
+            {
+              "Name": "CYP2C19-Ring 2002",
+              "MoleculeName": "CYP2C19"
+            },
+            {
+              "Name": "Glomerular Filtration-Assumed",
+              "SystemicProcessType": "GFR"
+            }
+          ],
+          "Protocol": {
+            "Name": "atomoxetine 20 mg b.i.d. 11 doses",
+            "Formulations": [
+              {
+                "Name": "Strattera Lilly",
+                "Key": "Formulation"
+              }
+            ]
+          }
+        }
+      ],
+      "HasResults": true,
+      "IndividualAnalyses": [
+        {
+          "Axes": [
+            {
+              "Unit": "h",
+              "Dimension": "Time",
+              "Type": "X",
+              "GridLines": false,
+              "Visible": true,
+              "DefaultColor": "#FFFFFF",
+              "DefaultLineStyle": "None",
+              "Scaling": "Linear",
+              "NumberMode": "Normal"
+            },
+            {
+              "Unit": "ng/ml",
+              "Dimension": "Concentration (molar)",
+              "Type": "Y",
+              "GridLines": false,
+              "Visible": true,
+              "DefaultColor": "#FFFFFF",
+              "DefaultLineStyle": "Solid",
+              "Scaling": "Linear",
+              "NumberMode": "Normal"
+            }
+          ],
+          "Curves": [
+            {
+              "Name": "Sauer (2002) - atomoxetine, 20 mg, po, n=3 (PM)-Atomoxetine-Peripheral Venous Blood-Plasma-Concentration",
+              "X": "Time",
+              "Y": "Sauer (2002) - atomoxetine, 20 mg, po, n=3 (PM)|Organism|PeripheralVenousBlood|Atomoxetine|Plasma (Peripheral Venous Blood)",
+              "CurveOptions": {
+                "Color": "#FF0000",
+                "LegendIndex": 1
+              }
+            },
+            {
+              "Name": "Sauer (2002) - atomoxetine, 20 mg, po, n=3 (PM), atomoxetine-Atomoxetine-Peripheral Venous Blood-Plasma-[ng/mL]",
+              "X": "Sauer (2002) - atomoxetine, 20 mg, po, n=3 (PM), atomoxetine|[h]",
+              "Y": "Sauer (2002) - atomoxetine, 20 mg, po, n=3 (PM), atomoxetine|ObservedData|Peripheral Venous Blood|Plasma|Atomoxetine|[ng/mL]",
+              "CurveOptions": {
+                "Color": "#0000FF",
+                "LegendIndex": 2,
+                "LineStyle": "None",
+                "Symbol": "Circle"
+              }
+            }
+          ],
+          "Name": "Time Profile Analysis",
+          "FontAndSize": {
+            "Fonts": {
+              "AxisSize": 10,
+              "LegendSize": 8,
+              "TitleSize": 16,
+              "DescriptionSize": 12,
+              "OriginSize": 8,
+              "FontFamilyName": "Microsoft Sans Serif",
+              "WatermarkSize": 32
+            }
+          },
+          "Settings": {
+            "SideMarginsEnabled": true,
+            "LegendPosition": "None",
+            "BackColor": "#00FFFFFF",
+            "DiagramBackColor": "#FFFFFF"
+          },
+          "OriginText": "atomoxetine\nSA02_PO_20_ATO_MD_PM_164_\n2022-05-31 10:17"
+        }
+      ]
+    },
+    {
+      "Name": "Sauer (2002) - atomoxetine, 20 mg, po, n=4 (EM)",
+      "Model": "4Comp",
+      "ObservedData": [
+        "Sauer (2002) - atomoxetine, 20 mg, po, n=4 (EM), atomoxetine"
+      ],
+      "Solver": {},
+      "OutputSchema": [
+        {
+          "Parameters": [
+            {
+              "Name": "Start time",
+              "Value": 0.0,
+              "Unit": "h"
+            },
+            {
+              "Name": "End time",
+              "Value": 420.0,
+              "Unit": "h",
+              "ValueOrigin": {
+                "Source": "Unknown"
+              }
+            },
+            {
+              "Name": "Resolution",
+              "Value": 20.0,
+              "Unit": "pts/h"
+            }
+          ]
+        }
+      ],
+      "Parameters": [
+        {
+          "Path": "Events|atomoxetine 20 mg b.i.d. 11 doses|Strattera Lilly|Application_1|ProtocolSchemaItem|Volume of water/body weight",
+          "Value": 3.5,
+          "Unit": "ml/kg"
+        },
+        {
+          "Path": "Events|atomoxetine 20 mg b.i.d. 11 doses|Strattera Lilly|Application_10|ProtocolSchemaItem|Volume of water/body weight",
+          "Value": 3.5,
+          "Unit": "ml/kg"
+        },
+        {
+          "Path": "Events|atomoxetine 20 mg b.i.d. 11 doses|Strattera Lilly|Application_11|ProtocolSchemaItem|Volume of water/body weight",
+          "Value": 3.5,
+          "Unit": "ml/kg"
+        },
+        {
+          "Path": "Events|atomoxetine 20 mg b.i.d. 11 doses|Strattera Lilly|Application_2|ProtocolSchemaItem|Volume of water/body weight",
+          "Value": 3.5,
+          "Unit": "ml/kg"
+        },
+        {
+          "Path": "Events|atomoxetine 20 mg b.i.d. 11 doses|Strattera Lilly|Application_3|ProtocolSchemaItem|Volume of water/body weight",
+          "Value": 3.5,
+          "Unit": "ml/kg"
+        },
+        {
+          "Path": "Events|atomoxetine 20 mg b.i.d. 11 doses|Strattera Lilly|Application_4|ProtocolSchemaItem|Volume of water/body weight",
+          "Value": 3.5,
+          "Unit": "ml/kg"
+        },
+        {
+          "Path": "Events|atomoxetine 20 mg b.i.d. 11 doses|Strattera Lilly|Application_5|ProtocolSchemaItem|Volume of water/body weight",
+          "Value": 3.5,
+          "Unit": "ml/kg"
+        },
+        {
+          "Path": "Events|atomoxetine 20 mg b.i.d. 11 doses|Strattera Lilly|Application_6|ProtocolSchemaItem|Volume of water/body weight",
+          "Value": 3.5,
+          "Unit": "ml/kg"
+        },
+        {
+          "Path": "Events|atomoxetine 20 mg b.i.d. 11 doses|Strattera Lilly|Application_7|ProtocolSchemaItem|Volume of water/body weight",
+          "Value": 3.5,
+          "Unit": "ml/kg"
+        },
+        {
+          "Path": "Events|atomoxetine 20 mg b.i.d. 11 doses|Strattera Lilly|Application_8|ProtocolSchemaItem|Volume of water/body weight",
+          "Value": 3.5,
+          "Unit": "ml/kg"
+        },
+        {
+          "Path": "Events|atomoxetine 20 mg b.i.d. 11 doses|Strattera Lilly|Application_9|ProtocolSchemaItem|Volume of water/body weight",
+          "Value": 3.5,
+          "Unit": "ml/kg"
+        }
+      ],
+      "OutputSelections": [
+        "Organism|PeripheralVenousBlood|Atomoxetine|Plasma (Peripheral Venous Blood)"
+      ],
+      "Individual": "Sauer (2002), n=4 (EM)",
+      "Compounds": [
+        {
+          "Name": "Atomoxetine",
+          "CalculationMethods": [
+            "Cellular partition coefficient method - Berezhkovskiy",
+            "Cellular permeability - PK-Sim Standard"
+          ],
+          "Alternatives": [
+            {
+              "AlternativeName": "LogP",
+              "GroupName": "COMPOUND_LIPOPHILICITY"
+            },
+            {
+              "AlternativeName": "Measurement",
+              "GroupName": "COMPOUND_FRACTION_UNBOUND"
+            },
+            {
+              "AlternativeName": "Optimized",
+              "GroupName": "COMPOUND_INTESTINAL_PERMEABILITY"
+            }
+          ],
+          "Processes": [
+            {
+              "MoleculeName": "CYP3A4"
+            },
+            {
+              "MoleculeName": "AADAC"
+            },
+            {
+              "Name": "CYP2D6-Ring 2002 (4-hydroxylation)",
+              "MoleculeName": "CYP2D6"
+            },
+            {
+              "MoleculeName": "MAOA"
+            },
+            {
+              "MoleculeName": "PON3"
+            },
+            {
+              "MoleculeName": "CYP2C8"
+            },
+            {
+              "MoleculeName": "UGT2B7"
+            },
+            {
+              "MoleculeName": "DPYS"
+            },
+            {
+              "MoleculeName": "UPB1"
+            },
+            {
+              "MoleculeName": "DPYD"
+            },
+            {
+              "Name": "CYP2C19-Ring 2002",
+              "MoleculeName": "CYP2C19"
+            },
+            {
+              "Name": "Glomerular Filtration-Assumed",
+              "SystemicProcessType": "GFR"
+            }
+          ],
+          "Protocol": {
+            "Name": "atomoxetine 20 mg b.i.d. 11 doses",
+            "Formulations": [
+              {
+                "Name": "Strattera Lilly",
+                "Key": "Formulation"
+              }
+            ]
+          }
+        }
+      ],
+      "HasResults": true,
+      "IndividualAnalyses": [
+        {
+          "Axes": [
+            {
+              "Unit": "h",
+              "Dimension": "Time",
+              "Type": "X",
+              "GridLines": false,
+              "Visible": true,
+              "DefaultColor": "#FFFFFF",
+              "DefaultLineStyle": "None",
+              "Scaling": "Linear",
+              "NumberMode": "Normal"
+            },
+            {
+              "Unit": "ng/ml",
+              "Dimension": "Concentration (molar)",
+              "Type": "Y",
+              "GridLines": false,
+              "Visible": true,
+              "DefaultColor": "#FFFFFF",
+              "DefaultLineStyle": "Solid",
+              "Scaling": "Linear",
+              "NumberMode": "Normal"
+            }
+          ],
+          "Curves": [
+            {
+              "Name": "Sauer (2002) - atomoxetine, 20 mg, po, n=4 (EM)-Atomoxetine-Peripheral Venous Blood-Plasma-Concentration",
+              "X": "Time",
+              "Y": "Sauer (2002) - atomoxetine, 20 mg, po, n=4 (EM)|Organism|PeripheralVenousBlood|Atomoxetine|Plasma (Peripheral Venous Blood)",
+              "CurveOptions": {
+                "Color": "#FF0000",
+                "LegendIndex": 1
+              }
+            },
+            {
+              "Name": "Sauer (2002) - atomoxetine, 20 mg, po, n=4 (EM), atomoxetine-Atomoxetine-Peripheral Venous Blood-Plasma-[ng/mL]",
+              "X": "Sauer (2002) - atomoxetine, 20 mg, po, n=4 (EM), atomoxetine|[h]",
+              "Y": "Sauer (2002) - atomoxetine, 20 mg, po, n=4 (EM), atomoxetine|ObservedData|Peripheral Venous Blood|Plasma|Atomoxetine|[ng/mL]",
+              "CurveOptions": {
+                "Color": "#0000FF",
+                "LegendIndex": 2,
+                "LineStyle": "None",
+                "Symbol": "Circle"
+              }
+            }
+          ],
+          "Name": "Time Profile Analysis",
+          "FontAndSize": {
+            "Fonts": {
+              "AxisSize": 10,
+              "LegendSize": 8,
+              "TitleSize": 16,
+              "DescriptionSize": 12,
+              "OriginSize": 8,
+              "FontFamilyName": "Microsoft Sans Serif",
+              "WatermarkSize": 32
+            }
+          },
+          "Settings": {
+            "SideMarginsEnabled": true,
+            "LegendPosition": "None",
+            "BackColor": "#00FFFFFF",
+            "DiagramBackColor": "#FFFFFF"
+          },
+          "OriginText": "Atomoxetine-model\nSauer (2002) - atomoxetine, 20 mg, po, n=4 (EM)\n2026-05-18 10:18"
+        }
+      ]
+    },
+    {
+      "Name": "Cui (2007) - atomoxetine, 80 mg, n=16 (AS=1)",
+      "Model": "4Comp",
+      "ObservedData": [
+        "Cui (2007) - atomoxetine, 80 mg, po, n=16, (AS=1), atomoxetine"
+      ],
+      "Solver": {},
+      "OutputSchema": [
+        {
+          "Parameters": [
+            {
+              "Name": "Start time",
+              "Value": 0.0,
+              "Unit": "h"
+            },
+            {
+              "Name": "End time",
+              "Value": 180.0,
+              "Unit": "h",
+              "ValueOrigin": {
+                "Source": "Unknown"
+              }
+            },
+            {
+              "Name": "Resolution",
+              "Value": 20.0,
+              "Unit": "pts/h"
+            }
+          ]
+        }
+      ],
+      "Parameters": [
+        {
+          "Path": "Events|atomoxetine 80 mg s.d.|Strattera Lilly|Application_1|ProtocolSchemaItem|Volume of water/body weight",
+          "Value": 3.5,
+          "Unit": "ml/kg"
+        },
+        {
+          "Path": "Events|atomoxetine 80 mg s.d.|Strattera Lilly|Application_10|ProtocolSchemaItem|Volume of water/body weight",
+          "Value": 3.5,
+          "Unit": "ml/kg"
+        },
+        {
+          "Path": "Events|atomoxetine 80 mg s.d.|Strattera Lilly|Application_11|ProtocolSchemaItem|Volume of water/body weight",
+          "Value": 3.5,
+          "Unit": "ml/kg"
+        },
+        {
+          "Path": "Events|atomoxetine 80 mg s.d.|Strattera Lilly|Application_12|ProtocolSchemaItem|Volume of water/body weight",
+          "Value": 3.5,
+          "Unit": "ml/kg"
+        },
+        {
+          "Path": "Events|atomoxetine 80 mg s.d.|Strattera Lilly|Application_13|ProtocolSchemaItem|Volume of water/body weight",
+          "Value": 3.5,
+          "Unit": "ml/kg"
+        },
+        {
+          "Path": "Events|atomoxetine 80 mg s.d.|Strattera Lilly|Application_2|ProtocolSchemaItem|Volume of water/body weight",
+          "Value": 3.5,
+          "Unit": "ml/kg"
+        },
+        {
+          "Path": "Events|atomoxetine 80 mg s.d.|Strattera Lilly|Application_3|ProtocolSchemaItem|Volume of water/body weight",
+          "Value": 3.5,
+          "Unit": "ml/kg"
+        },
+        {
+          "Path": "Events|atomoxetine 80 mg s.d.|Strattera Lilly|Application_4|ProtocolSchemaItem|Volume of water/body weight",
+          "Value": 3.5,
+          "Unit": "ml/kg"
+        },
+        {
+          "Path": "Events|atomoxetine 80 mg s.d.|Strattera Lilly|Application_5|ProtocolSchemaItem|Volume of water/body weight",
+          "Value": 3.5,
+          "Unit": "ml/kg"
+        },
+        {
+          "Path": "Events|atomoxetine 80 mg s.d.|Strattera Lilly|Application_6|ProtocolSchemaItem|Volume of water/body weight",
+          "Value": 3.5,
+          "Unit": "ml/kg"
+        },
+        {
+          "Path": "Events|atomoxetine 80 mg s.d.|Strattera Lilly|Application_7|ProtocolSchemaItem|Volume of water/body weight",
+          "Value": 3.5,
+          "Unit": "ml/kg"
+        },
+        {
+          "Path": "Events|atomoxetine 80 mg s.d.|Strattera Lilly|Application_8|ProtocolSchemaItem|Volume of water/body weight",
+          "Value": 3.5,
+          "Unit": "ml/kg"
+        },
+        {
+          "Path": "Events|atomoxetine 80 mg s.d.|Strattera Lilly|Application_9|ProtocolSchemaItem|Volume of water/body weight",
+          "Value": 3.5,
+          "Unit": "ml/kg"
+        }
+      ],
+      "OutputSelections": [
+        "Organism|PeripheralVenousBlood|Atomoxetine|Plasma (Peripheral Venous Blood)"
+      ],
+      "Individual": "Cui (2007), n=16 (AS=1)",
+      "Compounds": [
+        {
+          "Name": "Atomoxetine",
+          "CalculationMethods": [
+            "Cellular partition coefficient method - Berezhkovskiy",
+            "Cellular permeability - PK-Sim Standard"
+          ],
+          "Alternatives": [
+            {
+              "AlternativeName": "LogP",
+              "GroupName": "COMPOUND_LIPOPHILICITY"
+            },
+            {
+              "AlternativeName": "Measurement",
+              "GroupName": "COMPOUND_FRACTION_UNBOUND"
+            },
+            {
+              "AlternativeName": "Optimized",
+              "GroupName": "COMPOUND_INTESTINAL_PERMEABILITY"
+            }
+          ],
+          "Processes": [
+            {
+              "MoleculeName": "CYP3A4"
+            },
+            {
+              "MoleculeName": "AADAC"
+            },
+            {
+              "Name": "CYP2D6-AS=1",
+              "MoleculeName": "CYP2D6"
+            },
+            {
+              "MoleculeName": "MAOA"
+            },
+            {
+              "MoleculeName": "PON3"
+            },
+            {
+              "MoleculeName": "CYP2C8"
+            },
+            {
+              "MoleculeName": "UGT2B7"
+            },
+            {
+              "MoleculeName": "DPYS"
+            },
+            {
+              "MoleculeName": "UPB1"
+            },
+            {
+              "MoleculeName": "DPYD"
+            },
+            {
+              "Name": "CYP2C19-Ring 2002",
+              "MoleculeName": "CYP2C19"
+            },
+            {
+              "Name": "Glomerular Filtration-Assumed",
+              "SystemicProcessType": "GFR"
+            }
+          ],
+          "Protocol": {
+            "Name": "atomoxetine 80 mg s.d.",
+            "Formulations": [
+              {
+                "Name": "Strattera Lilly",
+                "Key": "Formulation"
+              }
+            ]
+          }
+        }
+      ],
+      "HasResults": true,
+      "IndividualAnalyses": [
+        {
+          "Axes": [
+            {
+              "Unit": "h",
+              "Dimension": "Time",
+              "Type": "X",
+              "GridLines": false,
+              "Visible": true,
+              "DefaultColor": "#FFFFFF",
+              "DefaultLineStyle": "None",
+              "Scaling": "Linear",
+              "NumberMode": "Normal"
+            },
+            {
+              "Unit": "ng/ml",
+              "Dimension": "Concentration (molar)",
+              "Type": "Y",
+              "GridLines": false,
+              "Visible": true,
+              "DefaultColor": "#FFFFFF",
+              "DefaultLineStyle": "Solid",
+              "Scaling": "Linear",
+              "NumberMode": "Normal"
+            }
+          ],
+          "Curves": [
+            {
+              "Name": "Cui (2007) - atomoxetine, 80 mg, n=16 (AS=1)-Atomoxetine-Peripheral Venous Blood-Plasma-Concentration",
+              "X": "Time",
+              "Y": "Cui (2007) - atomoxetine, 80 mg, n=16 (AS=1)|Organism|PeripheralVenousBlood|Atomoxetine|Plasma (Peripheral Venous Blood)",
+              "CurveOptions": {
+                "Color": "#FF0000",
+                "LegendIndex": 1
+              }
+            },
+            {
+              "Name": "Cui (2007) - atomoxetine, 80 mg, po, n=16, (AS=1), atomoxetine-Atomoxetine-Measurement",
+              "X": "Cui (2007) - atomoxetine, 80 mg, po, n=16, (AS=1), atomoxetine|Time",
+              "Y": "Cui (2007) - atomoxetine, 80 mg, po, n=16, (AS=1), atomoxetine|ObservedData|||Atomoxetine|Measurement",
+              "CurveOptions": {
+                "Color": "#0000FF",
+                "LegendIndex": 3,
+                "LineStyle": "None",
+                "Symbol": "Circle"
+              }
+            }
+          ],
+          "Name": "Time Profile Analysis",
+          "FontAndSize": {
+            "Fonts": {
+              "AxisSize": 10,
+              "LegendSize": 8,
+              "TitleSize": 16,
+              "DescriptionSize": 12,
+              "OriginSize": 8,
+              "FontFamilyName": "Microsoft Sans Serif",
+              "WatermarkSize": 32
+            }
+          },
+          "Settings": {
+            "SideMarginsEnabled": true,
+            "LegendPosition": "RightInside",
+            "BackColor": "#00FFFFFF",
+            "DiagramBackColor": "#FFFFFF"
+          },
+          "OriginText": "Atomoxetine-model\nCui (2007) - atomoxetine, 80 mg, n=16 (AS=1)\n2026-05-18 10:36"
         }
       ]
     }
   ],
   "ObservedData": [
     {
-      "Name": "Sauer (2002) - atomoxetine, 20 mg, po, n=4 (EM)",
+      "Name": "Sauer (2002) - atomoxetine, 20 mg, po, n=4 (EM), atomoxetine",
       "ExtendedProperties": [
         {
           "Name": "Molecule",
@@ -43914,7 +44326,7 @@
             {
               "Name": "[ng/mL](1)",
               "QuantityInfo": {
-                "Path": "Sauer (2002) - atomoxetine, 20 mg, po, n=4 (EM)|ObservedData|Peripheral Venous Blood|Plasma|Atomoxetine|[ng/mL](1)"
+                "Path": "Sauer (2002) - atomoxetine, 20 mg, po, n=4 (EM), atomoxetine|ObservedData|Peripheral Venous Blood|Plasma|Atomoxetine|[ng/mL](1)"
               },
               "DataInfo": {
                 "Origin": "ObservationAuxiliary",
@@ -43940,7 +44352,7 @@
             }
           ],
           "QuantityInfo": {
-            "Path": "Sauer (2002) - atomoxetine, 20 mg, po, n=4 (EM)|ObservedData|Peripheral Venous Blood|Plasma|Atomoxetine|[ng/mL]"
+            "Path": "Sauer (2002) - atomoxetine, 20 mg, po, n=4 (EM), atomoxetine|ObservedData|Peripheral Venous Blood|Plasma|Atomoxetine|[ng/mL]"
           },
           "DataInfo": {
             "Origin": "Observation",
@@ -43968,7 +44380,7 @@
       "BaseGrid": {
         "Name": "[h]",
         "QuantityInfo": {
-          "Path": "Sauer (2002) - atomoxetine, 20 mg, po, n=4 (EM)|[h]",
+          "Path": "Sauer (2002) - atomoxetine, 20 mg, po, n=4 (EM), atomoxetine|[h]",
           "Type": "Time"
         },
         "DataInfo": {
@@ -45196,13 +45608,233 @@
         "Dimension": "Time",
         "Unit": "h"
       }
+    },
+    {
+      "Name": "Cui (2007) - atomoxetine, 40 mg, po, n=16, (AS=1), atomoxetine",
+      "ExtendedProperties": [
+        {
+          "Name": "Species",
+          "Value": "Human",
+          "Type": "String"
+        },
+        {
+          "Name": "Molecule",
+          "Value": "Atomoxetine",
+          "Type": "String"
+        },
+        {
+          "Name": "Organ",
+          "Value": "Peripheral Venous Blood",
+          "Type": "String"
+        },
+        {
+          "Name": "Compartment",
+          "Value": "Plasma",
+          "Type": "String"
+        }
+      ],
+      "Columns": [
+        {
+          "Name": "Measurement",
+          "RelatedColumns": [
+            {
+              "Name": "Error",
+              "QuantityInfo": {
+                "Path": "Cui (2007) - atomoxetine, 40 mg, po, n=16, (AS=1), atomoxetine|ObservedData|||Atomoxetine|Error"
+              },
+              "DataInfo": {
+                "Origin": "ObservationAuxiliary",
+                "AuxiliaryType": "ArithmeticStdDev",
+                "MolWeight": 255.35
+              },
+              "Values": [
+                34.69209,
+                129.816,
+                143.245087,
+                146.042847,
+                130.935089,
+                118.065865,
+                140.447479,
+                122.541649,
+                101.278976,
+                66.58688,
+                0.0,
+                0.0
+              ],
+              "Dimension": "Concentration (mass)",
+              "Unit": "ng/ml"
+            }
+          ],
+          "QuantityInfo": {
+            "Path": "Cui (2007) - atomoxetine, 40 mg, po, n=16, (AS=1), atomoxetine|ObservedData|||Atomoxetine|Measurement"
+          },
+          "DataInfo": {
+            "Origin": "Observation",
+            "AuxiliaryType": "Undefined",
+            "MolWeight": 255.35
+          },
+          "Values": [
+            39.75092,
+            283.161682,
+            369.338684,
+            350.319855,
+            390.6197,
+            393.4284,
+            349.270569,
+            264.2653,
+            182.617126,
+            98.21819,
+            55.78599,
+            24.0779743
+          ],
+          "Dimension": "Concentration (mass)",
+          "Unit": "ng/ml"
+        }
+      ],
+      "BaseGrid": {
+        "Name": "Time",
+        "QuantityInfo": {
+          "Path": "Cui (2007) - atomoxetine, 40 mg, po, n=16, (AS=1), atomoxetine|Time",
+          "Type": "Time"
+        },
+        "DataInfo": {
+          "Origin": "BaseGrid",
+          "AuxiliaryType": "Undefined"
+        },
+        "Values": [
+          0.25,
+          0.5,
+          0.75,
+          1.0,
+          1.5,
+          2.0,
+          4.0,
+          6.0,
+          8.0,
+          12.0,
+          16.0,
+          24.0
+        ],
+        "Dimension": "Time",
+        "Unit": "h"
+      }
+    },
+    {
+      "Name": "Cui (2007) - atomoxetine, 80 mg, po, n=16, (AS=1), atomoxetine",
+      "ExtendedProperties": [
+        {
+          "Name": "Species",
+          "Value": "Human",
+          "Type": "String"
+        },
+        {
+          "Name": "Molecule",
+          "Value": "Atomoxetine",
+          "Type": "String"
+        },
+        {
+          "Name": "Organ",
+          "Value": "Peripheral Venous Blood",
+          "Type": "String"
+        },
+        {
+          "Name": "Compartment",
+          "Value": "Plasma",
+          "Type": "String"
+        }
+      ],
+      "Columns": [
+        {
+          "Name": "Measurement",
+          "RelatedColumns": [
+            {
+              "Name": "Error",
+              "QuantityInfo": {
+                "Path": "Cui (2007) - atomoxetine, 80 mg, po, n=16, (AS=1), atomoxetine|ObservedData|||Atomoxetine|Error"
+              },
+              "DataInfo": {
+                "Origin": "ObservationAuxiliary",
+                "AuxiliaryType": "ArithmeticStdDev",
+                "MolWeight": 255.35
+              },
+              "Values": [
+                209.27211,
+                398.9605,
+                373.2211,
+                347.4817,
+                329.016632,
+                260.191376,
+                273.621246,
+                279.2163,
+                214.3084,
+                146.043167,
+                91.20703,
+                37.4898529
+              ],
+              "Dimension": "Concentration (mass)",
+              "Unit": "ng/ml"
+            }
+          ],
+          "QuantityInfo": {
+            "Path": "Cui (2007) - atomoxetine, 80 mg, po, n=16, (AS=1), atomoxetine|ObservedData|||Atomoxetine|Measurement"
+          },
+          "DataInfo": {
+            "Origin": "Observation",
+            "AuxiliaryType": "Undefined",
+            "MolWeight": 255.35
+          },
+          "Values": [
+            181.3175,
+            583.6415,
+            784.52655,
+            825.9387,
+            897.5733,
+            886.394165,
+            720.8127,
+            517.743,
+            348.244629,
+            182.151047,
+            98.31135,
+            44.78141
+          ],
+          "Dimension": "Concentration (mass)",
+          "Unit": "ng/ml"
+        }
+      ],
+      "BaseGrid": {
+        "Name": "Time",
+        "QuantityInfo": {
+          "Path": "Cui (2007) - atomoxetine, 80 mg, po, n=16, (AS=1), atomoxetine|Time",
+          "Type": "Time"
+        },
+        "DataInfo": {
+          "Origin": "BaseGrid",
+          "AuxiliaryType": "Undefined"
+        },
+        "Values": [
+          144.25,
+          144.5,
+          144.75,
+          145.0,
+          145.5,
+          146.0,
+          148.0,
+          150.0,
+          152.0,
+          156.0,
+          160.0,
+          168.0
+        ],
+        "Dimension": "Time",
+        "Unit": "h"
+      }
     }
   ],
   "ObservedDataClassifications": [
     {
       "Name": "atomoxetine",
       "Classifiables": [
-        "Sauer (2002) - atomoxetine, 20 mg, po, n=4 (EM)",
+        "Sauer (2002) - atomoxetine, 20 mg, po, n=4 (EM), atomoxetine",
         "Sauer (2002) - atomoxetine, 20 mg, po, n=3 (PM), atomoxetine",
         "Kim (2018) - atomoxetine, 20 mg, po, n=8 (AS=0.5), atomoxetine",
         "Kim (2018) - atomoxetine, 20 mg, po, n=11 (AS=2), atomoxetine",
@@ -45213,7 +45845,9 @@
         "Todor (2016) - atomoxetine, 25 mg, po, n=18 (NM), atomoxetine",
         "Nakano (2016) - atomoxetine, 50 mg, po solution, n=42 (EM), atomoxetine",
         "Nakano (2016) - atomoxetine, 50 mg, po casules, n=42 (EM), atomoxetine",
-        "Belle (2002) - atomoxetine, 20 mg, po, n=22 (EM), atomoxetine"
+        "Belle (2002) - atomoxetine, 20 mg, po, n=22 (EM), atomoxetine",
+        "Cui (2007) - atomoxetine, 40 mg, po, n=16, (AS=1), atomoxetine",
+        "Cui (2007) - atomoxetine, 80 mg, po, n=16, (AS=1), atomoxetine"
       ]
     }
   ],
@@ -45232,12 +45866,14 @@
     {
       "Name": "internal_dataset",
       "Classifiables": [
+        "Cui (2007) - atomoxetine, 40 mg, n=16 (AS=1)",
         "Byeon (2015) - atomoxetine, 40 mg (dose normalized), n=22 (AS=2)",
         "Kim (2018) - atomoxetine, 20 mg, po, n=11 (AS=2)",
         "Nakano (2016) - atomoxetine, 50 mg, po casules, n=42 (EM)",
         "Nakano (2016) - atomoxetine, 50 mg, po solution, n=42 (EM)",
+        "Sauer (2002) - atomoxetine, 20 mg, po, n=3 (PM)",
         "Sauer (2002) - atomoxetine, 20 mg, po, n=4 (EM)",
-        "Sauer (2002) - atomoxetine, 20 mg, po, n=3 (PM)"
+        "Cui (2007) - atomoxetine, 80 mg, n=16 (AS=1)"
       ]
     }
   ]

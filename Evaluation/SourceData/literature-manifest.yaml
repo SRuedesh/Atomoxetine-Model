@@ -1,0 +1,20 @@
+literature:
+  - id: ruedesheim-2022-main
+    path: ../../../literature/pharmaceutics-14-01734-v2.pdf
+    type: publication
+    citation: Ruedesheim S, Selzer D, Muerdter T, Igel S, Kerb R, Schwab M, Lehr T. Pharmaceutics. 2022;14:1734.
+    doi: 10.3390/pharmaceutics14081734
+    role:
+      - primary model publication
+      - source for model context
+      - source for reported performance summary
+  - id: ruedesheim-2022-supplement
+    path: ../../../literature/pharmaceutics-1836000-supplementary.pdf
+    type: supplementary-material
+    citation: Supplementary material for Ruedesheim et al. Pharmaceutics. 2022;14:1734.
+    doi: 10.3390/pharmaceutics14081734
+    role:
+      - source for compound-specific parameters
+      - source for clinical study inventory
+      - source for observed-data provenance checks
+

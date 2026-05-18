@@ -1,0 +1,1 @@
+This section shows concentration-time profile plots for Atomoxetine model-verification studies, including Belle 2002, Cui 2007 AS 1, Byeon 2015 AS 0.5 and AS 1.25, Kim 2018 AS 0.5, and Todor 2016 extensive and poor metabolizer data.

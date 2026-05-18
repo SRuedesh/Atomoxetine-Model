@@ -1,0 +1,22 @@
+compound: Atomoxetine
+primary_publication: ruedesheim-2022-main
+supplement: ruedesheim-2022-supplement
+model_snapshot: ../../Atomoxetine-model.json
+simulations:
+  - Belle (2002) - atomoxetine, 20 mg, po, n=22 (EM)
+  - Byeon (2015) - atomoxetine, 40 mg (dose normalized), po, n=18 (AS=0.5)
+  - Byeon (2015) - atomoxetine, 40 mg (dose normalized), po, n=22 (AS=1.25)
+  - Byeon (2015) - atomoxetine, 40 mg (dose normalized), n=22 (AS=2)
+  - Kim (2018) - atomoxetine, 20 mg, po, n=8 (AS=0.5)
+  - Kim (2018) - atomoxetine, 20 mg, po, n=11 (AS=2)
+  - Nakano (2016) - atomoxetine, 50 mg, po casules, n=42 (EM)
+  - Nakano (2016) - atomoxetine, 50 mg, po solution, n=42 (EM)
+  - Sauer (2002) - atomoxetine, 20 mg, po, n=4 (EM)
+  - Sauer (2002) - atomoxetine, 20 mg, po, n=3 (PM)
+  - Todor (2016) - atomoxetine, 25 mg, po, n=18 (NM)
+  - Todor (2016) - atomoxetine, 25 mg, po, n=2 (PM)
+evidence_status:
+  observed_data_from_snapshot: true
+  observed_data_reextracted_from_literature: false
+  human_qc_required: true
+

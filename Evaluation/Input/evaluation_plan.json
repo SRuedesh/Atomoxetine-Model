@@ -1,0 +1,356 @@
+{
+  "$schema": "https://github.com/Open-Systems-Pharmacology/QualificationPlan/releases/download/v3.3/OSP_Qualification_Plan_Schema.json",
+  "Projects": [
+    {
+      "Id": "Atomoxetine",
+      "Path": "../../Atomoxetine-model.json",
+      "BuildingBlocks": []
+    }
+  ],
+  "ObservedDataSets": [],
+  "Plots": {
+    "PlotSettings": {
+      "ChartWidth": 500,
+      "ChartHeight": 400,
+      "Fonts": {
+        "AxisSize": 11,
+        "LegendSize": 9,
+        "OriginSize": 9,
+        "FontFamilyName": "Arial",
+        "WatermarkSize": 40
+      }
+    },
+    "AxesSettings": {
+      "ComparisonTimeProfile": [
+        {
+          "Unit": "h",
+          "Dimension": "Time",
+          "Type": "X",
+          "GridLines": false,
+          "Scaling": "Linear"
+        },
+        {
+          "Unit": "ng/ml",
+          "Dimension": "Concentration (mass)",
+          "Type": "Y",
+          "GridLines": false,
+          "Scaling": "Log"
+        }
+      ],
+      "GOFMergedPlotsPredictedVsObserved": [
+        {
+          "Unit": "ng/ml",
+          "Dimension": "Concentration (mass)",
+          "Type": "X",
+          "GridLines": false,
+          "Scaling": "Log"
+        },
+        {
+          "Unit": "ng/ml",
+          "Dimension": "Concentration (mass)",
+          "Type": "Y",
+          "GridLines": false,
+          "Scaling": "Log"
+        }
+      ],
+      "GOFMergedPlotsResidualsOverTime": [
+        {
+          "Unit": "h",
+          "Dimension": "Time",
+          "Type": "X",
+          "GridLines": false,
+          "Scaling": "Linear"
+        },
+        {
+          "Unit": "",
+          "Dimension": "Dimensionless",
+          "Type": "Y",
+          "GridLines": false,
+          "Scaling": "Linear"
+        }
+      ]
+    },
+    "AllPlots": [
+      {
+        "Project": "Atomoxetine",
+        "Simulation": "Belle (2002) - atomoxetine, 20 mg, po, n=22 (EM)",
+        "SectionId": 332
+      },
+      {
+        "Project": "Atomoxetine",
+        "Simulation": "Byeon (2015) - atomoxetine, 40 mg (dose normalized), po, n=18 (AS=0.5)",
+        "SectionId": 332
+      },
+      {
+        "Project": "Atomoxetine",
+        "Simulation": "Byeon (2015) - atomoxetine, 40 mg (dose normalized), po, n=22 (AS=1.25)",
+        "SectionId": 332
+      },
+      {
+        "Project": "Atomoxetine",
+        "Simulation": "Byeon (2015) - atomoxetine, 40 mg (dose normalized), n=22 (AS=2)",
+        "SectionId": 331
+      },
+      {
+        "Project": "Atomoxetine",
+        "Simulation": "Kim (2018) - atomoxetine, 20 mg, po, n=8 (AS=0.5)",
+        "SectionId": 332
+      },
+      {
+        "Project": "Atomoxetine",
+        "Simulation": "Kim (2018) - atomoxetine, 20 mg, po, n=11 (AS=2)",
+        "SectionId": 331
+      },
+      {
+        "Project": "Atomoxetine",
+        "Simulation": "Nakano (2016) - atomoxetine, 50 mg, po casules, n=42 (EM)",
+        "SectionId": 331
+      },
+      {
+        "Project": "Atomoxetine",
+        "Simulation": "Nakano (2016) - atomoxetine, 50 mg, po solution, n=42 (EM)",
+        "SectionId": 331
+      },
+      {
+        "Project": "Atomoxetine",
+        "Simulation": "Sauer (2002) - atomoxetine, 20 mg, po, n=4 (EM)",
+        "SectionId": 331
+      },
+      {
+        "Project": "Atomoxetine",
+        "Simulation": "Sauer (2002) - atomoxetine, 20 mg, po, n=3 (PM)",
+        "SectionId": 331
+      },
+      {
+        "Project": "Atomoxetine",
+        "Simulation": "Todor (2016) - atomoxetine, 25 mg, po, n=18 (NM)",
+        "SectionId": 332
+      },
+      {
+        "Project": "Atomoxetine",
+        "Simulation": "Todor (2016) - atomoxetine, 25 mg, po, n=2 (PM)",
+        "SectionId": 332
+      },
+      {
+        "Project": "Atomoxetine",
+        "Simulation": "Cui (2007) - atomoxetine, 40 mg, n=16 (AS=1)",
+        "SectionId": 332
+      },
+      {
+        "Project": "Atomoxetine",
+        "Simulation": "Cui (2007) - atomoxetine, 80 mg, n=16 (AS=1)",
+        "SectionId": 332
+      }
+    ],
+    "GOFMergedPlots": [
+      {
+        "SectionId": 32,
+        "Title": "Atomoxetine observed versus simulated plasma concentration-time data",
+        "PlotTypes": [
+          "predictedVsObserved",
+          "residualsOverTime"
+        ],
+        "Artifacts": [
+          "Plot",
+          "GMFE",
+          "Measure"
+        ],
+        "Groups": [
+          {
+            "Caption": "Atomoxetine",
+            "Symbol": "Circle",
+            "OutputMappings": [
+              {
+                "Project": "Atomoxetine",
+                "Simulation": "Belle (2002) - atomoxetine, 20 mg, po, n=22 (EM)",
+                "Output": "Organism|PeripheralVenousBlood|Atomoxetine|Plasma (Peripheral Venous Blood)",
+                "ObservedData": "Belle (2002) - atomoxetine, 20 mg, po, n=22 (EM), atomoxetine",
+                "Color": "#000000"
+              },
+              {
+                "Project": "Atomoxetine",
+                "Simulation": "Byeon (2015) - atomoxetine, 40 mg (dose normalized), po, n=18 (AS=0.5)",
+                "Output": "Organism|PeripheralVenousBlood|Atomoxetine|Plasma (Peripheral Venous Blood)",
+                "ObservedData": "Byeon 2015 - atomoxetine, 40 mg (normalized), po, n=18 (AS=0.5), atomoxetine",
+                "Color": "#000000"
+              },
+              {
+                "Project": "Atomoxetine",
+                "Simulation": "Byeon (2015) - atomoxetine, 40 mg (dose normalized), po, n=22 (AS=1.25)",
+                "Output": "Organism|PeripheralVenousBlood|Atomoxetine|Plasma (Peripheral Venous Blood)",
+                "ObservedData": "Byeon (2015) - atomoxetine, 40 mg (dose normalized), po, n=18 (AS=0.5), atomoxetine",
+                "Color": "#000000"
+              },
+              {
+                "Project": "Atomoxetine",
+                "Simulation": "Byeon (2015) - atomoxetine, 40 mg (dose normalized), n=22 (AS=2)",
+                "Output": "Organism|PeripheralVenousBlood|Atomoxetine|Plasma (Peripheral Venous Blood)",
+                "ObservedData": "Byeon (2015) - atomoxetine, 40 mg (dose normalized), n=22 (AS=2), atomoxetine",
+                "Color": "#000000"
+              },
+              {
+                "Project": "Atomoxetine",
+                "Simulation": "Kim (2018) - atomoxetine, 20 mg, po, n=8 (AS=0.5)",
+                "Output": "Organism|PeripheralVenousBlood|Atomoxetine|Plasma (Peripheral Venous Blood)",
+                "ObservedData": "Kim (2018) - atomoxetine, 20 mg, po, n=8 (AS=0.5), atomoxetine",
+                "Color": "#000000"
+              },
+              {
+                "Project": "Atomoxetine",
+                "Simulation": "Kim (2018) - atomoxetine, 20 mg, po, n=11 (AS=2)",
+                "Output": "Organism|PeripheralVenousBlood|Atomoxetine|Plasma (Peripheral Venous Blood)",
+                "ObservedData": "Kim (2018) - atomoxetine, 20 mg, po, n=11 (AS=2), atomoxetine",
+                "Color": "#000000"
+              },
+              {
+                "Project": "Atomoxetine",
+                "Simulation": "Nakano (2016) - atomoxetine, 50 mg, po casules, n=42 (EM)",
+                "Output": "Organism|PeripheralVenousBlood|Atomoxetine|Plasma (Peripheral Venous Blood)",
+                "ObservedData": "Nakano (2016) - atomoxetine, 50 mg, po casules, n=42 (EM), atomoxetine",
+                "Color": "#000000"
+              },
+              {
+                "Project": "Atomoxetine",
+                "Simulation": "Nakano (2016) - atomoxetine, 50 mg, po solution, n=42 (EM)",
+                "Output": "Organism|PeripheralVenousBlood|Atomoxetine|Plasma (Peripheral Venous Blood)",
+                "ObservedData": "Nakano (2016) - atomoxetine, 50 mg, po solution, n=42 (EM), atomoxetine",
+                "Color": "#000000"
+              },
+              {
+                "Project": "Atomoxetine",
+                "Simulation": "Sauer (2002) - atomoxetine, 20 mg, po, n=4 (EM)",
+                "Output": "Organism|PeripheralVenousBlood|Atomoxetine|Plasma (Peripheral Venous Blood)",
+          "ObservedData": "Sauer (2002) - atomoxetine, 20 mg, po, n=4 (EM), atomoxetine",
+                "Color": "#000000"
+              },
+              {
+                "Project": "Atomoxetine",
+                "Simulation": "Sauer (2002) - atomoxetine, 20 mg, po, n=3 (PM)",
+                "Output": "Organism|PeripheralVenousBlood|Atomoxetine|Plasma (Peripheral Venous Blood)",
+                "ObservedData": "Sauer (2002) - atomoxetine, 20 mg, po, n=3 (PM), atomoxetine",
+                "Color": "#000000"
+              },
+              {
+                "Project": "Atomoxetine",
+                "Simulation": "Todor (2016) - atomoxetine, 25 mg, po, n=18 (NM)",
+                "Output": "Organism|PeripheralVenousBlood|Atomoxetine|Plasma (Peripheral Venous Blood)",
+                "ObservedData": "Todor (2016) - atomoxetine, 25 mg, po, n=18 (NM), atomoxetine",
+                "Color": "#000000"
+              },
+              {
+                "Project": "Atomoxetine",
+                "Simulation": "Todor (2016) - atomoxetine, 25 mg, po, n=2 (PM)",
+                "Output": "Organism|PeripheralVenousBlood|Atomoxetine|Plasma (Peripheral Venous Blood)",
+                "ObservedData": "Todor (2016) - atomoxetine, 25 mg, po, n=2 (PM), atomoxetine",
+                "Color": "#000000"
+              },
+              {
+                "Project": "Atomoxetine",
+                "Simulation": "Cui (2007) - atomoxetine, 40 mg, n=16 (AS=1)",
+                "Output": "Organism|PeripheralVenousBlood|Atomoxetine|Plasma (Peripheral Venous Blood)",
+                "ObservedData": "Cui (2007) - atomoxetine, 40 mg, po, n=16, (AS=1), atomoxetine",
+                "Color": "#000000"
+              },
+              {
+                "Project": "Atomoxetine",
+                "Simulation": "Cui (2007) - atomoxetine, 80 mg, n=16 (AS=1)",
+                "Output": "Organism|PeripheralVenousBlood|Atomoxetine|Plasma (Peripheral Venous Blood)",
+                "ObservedData": "Cui (2007) - atomoxetine, 80 mg, po, n=16, (AS=1), atomoxetine",
+                "Color": "#000000"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "ComparisonTimeProfilePlots": [],
+    "DDIRatioPlots": [],
+    "PKRatioPlots": []
+  },
+  "Inputs": [
+    {
+      "Project": "Atomoxetine",
+      "Name": "Atomoxetine",
+      "Type": "Compound",
+      "SectionId": 31
+    }
+  ],
+  "Sections": [
+    {
+      "Id": 1,
+      "Title": "Introduction",
+      "Content": "Content/Section1_Introduction.md"
+    },
+    {
+      "Id": 2,
+      "Title": "Methods",
+      "Content": "Content/Section2_Methods.md",
+      "Sections": [
+        {
+          "Id": 21,
+          "Content": "Content/Section2.1_Modeling_Strategy.md",
+          "Title": "Modeling strategy"
+        },
+        {
+          "Id": 22,
+          "Content": "Content/Section2.2_Data.md",
+          "Title": "Data used"
+        },
+        {
+          "Id": 23,
+          "Content": "Content/Section2.3_Model_Parameters_and_Assumptions.md",
+          "Title": "Model parameters and assumptions"
+        }
+      ]
+    },
+    {
+      "Id": 3,
+      "Content": "Content/Section3_Results_and_Discussion.md",
+      "Title": "Results and Discussion",
+      "Sections": [
+        {
+          "Id": 31,
+          "Content": "Content/Input_table.md",
+          "Title": "Atomoxetine final input parameters"
+        },
+        {
+          "Id": 32,
+          "Content": "Content/GOF_diagnostics.md",
+          "Title": "Atomoxetine diagnostic plots"
+        },
+        {
+          "Id": 33,
+          "Title": "Concentration-time profiles",
+          "Content": "Content/Concentration_time_profiles.md",
+          "Sections": [
+            {
+              "Id": 331,
+              "Title": "Model Building",
+              "Content": "Content/Concentration_time_profiles_building.md"
+            },
+            {
+              "Id": 332,
+              "Title": "Model Verification",
+              "Content": "Content/Concentration_time_profiles_verification.md"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Id": 4,
+      "Content": "Content/Section4_Conclusion.md",
+      "Title": "Conclusion"
+    },
+    {
+      "Id": 5,
+      "Content": "Content/References.md",
+      "Title": "References"
+    }
+  ],
+  "Intro": [
+    {
+      "Path": "Content/titlepage.md"
+    }
+  ]
+}
