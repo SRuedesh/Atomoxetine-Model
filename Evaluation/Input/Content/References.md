@@ -16,7 +16,7 @@
 
 9. Ring BJ, Gillespie JS, Eckstein JA, Wrighton SA. Identification of the human cytochromes P450 responsible for atomoxetine metabolism. Drug Metabolism and Disposition. 2002;30:319-323.
 
-10. Yu G, Li GF, Markowitz JS. Atomoxetine: A review of its pharmacokinetics and pharmacogenomics relative to drug disposition. Journal of Child and Adolescent Psychopharmacology. 2016;26:314-326.
+10. Yu G, Li GF, Markowitz JS. Atomoxetine: A review of its pharmacokinetics and pharmacogenomics relative to drug disposition. Journal of Child and Adolescent Psychopharmacology. 2016;26:314-326. doi:10.1089/cap.2015.0137.
 
 11. Kuepfer L, Niederalt C, Wendl T, Schlender JF, Willmann S, Lippert J, Block M, Eissing T, Teutonico D. Applied Concepts in PBPK Modeling: How to Build a PBPK/PD Model. CPT Pharmacometrics Syst Pharmacol. 2016;5:516-531.
 
@@ -24,4 +24,4 @@
 
 13. Zhong H, Mashinson V, Woolman T, Zha M. Understanding the Molecular Properties and Metabolism of Top Prescribed Drugs. Curr Top Med Chem. 2013;13:1290-1307.
 
-14. Swain M. chemicalize.org. Journal of Chemical Information and Modeling. 2012;52:613-615.
+14. Swain M. chemicalize.org. Journal of Chemical Information and Modeling. 2012;52:613-615. doi:10.1021/ci300046g.
