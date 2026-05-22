@@ -133,12 +133,12 @@
       },
       {
         "Project": "Atomoxetine",
-        "Simulation": "Cui (2007) - atomoxetine, 40 mg, n=16 (AS=1)",
+        "Simulation": "Cui (2007) - atomoxetine, 40 mg, po, n=16 (AS=1)",
         "SectionId": 332
       },
       {
         "Project": "Atomoxetine",
-        "Simulation": "Cui (2007) - atomoxetine, 80 mg, n=16 (AS=1)",
+        "Simulation": "Cui (2007) - atomoxetine, 80 mg, po, n=16 (AS=1)",
         "SectionId": 332
       }
     ],
@@ -171,7 +171,7 @@
                 "Project": "Atomoxetine",
                 "Simulation": "Byeon (2015) - atomoxetine, 40 mg (dose normalized), po, n=18 (AS=0.5)",
                 "Output": "Organism|PeripheralVenousBlood|Atomoxetine|Plasma (Peripheral Venous Blood)",
-                "ObservedData": "Byeon 2015 - atomoxetine, 40 mg (normalized), po, n=18 (AS=0.5), atomoxetine",
+                "ObservedData": "Byeon (2015) - atomoxetine, 40 mg (dose normalized), po, n=18 (AS=0.5), atomoxetine",
                 "Color": "#000000"
               },
               {
@@ -220,7 +220,7 @@
                 "Project": "Atomoxetine",
                 "Simulation": "Sauer (2002) - atomoxetine, 20 mg, po, n=4 (EM)",
                 "Output": "Organism|PeripheralVenousBlood|Atomoxetine|Plasma (Peripheral Venous Blood)",
-          "ObservedData": "Sauer (2002) - atomoxetine, 20 mg, po, n=4 (EM), atomoxetine",
+                "ObservedData": "Sauer (2002) - atomoxetine, 20 mg, po, n=4 (EM), atomoxetine",
                 "Color": "#000000"
               },
               {
@@ -246,16 +246,16 @@
               },
               {
                 "Project": "Atomoxetine",
-                "Simulation": "Cui (2007) - atomoxetine, 40 mg, n=16 (AS=1)",
+                "Simulation": "Cui (2007) - atomoxetine, 40 mg, po, n=16 (AS=1)",
                 "Output": "Organism|PeripheralVenousBlood|Atomoxetine|Plasma (Peripheral Venous Blood)",
-                "ObservedData": "Cui (2007) - atomoxetine, 40 mg, po, n=16, (AS=1), atomoxetine",
+                "ObservedData": "Cui (2007) - atomoxetine, 40 mg, po, n=16 (AS=1), atomoxetine",
                 "Color": "#000000"
               },
               {
                 "Project": "Atomoxetine",
-                "Simulation": "Cui (2007) - atomoxetine, 80 mg, n=16 (AS=1)",
+                "Simulation": "Cui (2007) - atomoxetine, 80 mg, po, n=16 (AS=1)",
                 "Output": "Organism|PeripheralVenousBlood|Atomoxetine|Plasma (Peripheral Venous Blood)",
-                "ObservedData": "Cui (2007) - atomoxetine, 80 mg, po, n=16, (AS=1), atomoxetine",
+                "ObservedData": "Cui (2007) - atomoxetine, 80 mg, po, n=16 (AS=1), atomoxetine",
                 "Color": "#000000"
               }
             ]
@@ -284,7 +284,6 @@
     {
       "Id": 2,
       "Title": "Methods",
-      "Content": "Content/Section2_Methods.md",
       "Sections": [
         {
           "Id": 21,
