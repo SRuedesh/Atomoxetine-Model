@@ -26,7 +26,7 @@ Two metabolic pathways and passive renal filtration are represented in the model
 
 CYP2D6 is the dominant pathway for atomoxetine clearance in normal metabolizers. CYP2D6 metabolism is represented by Michaelis-Menten kinetics. CYP2D6 poor-metabolizer k<sub>cat</sub> is set to zero, and non-zero activity-score groups use optimized or activity-score scaled k<sub>cat</sub> values.
 
-The same CYP2D6 K<sub>m</sub> is used across CYP2D6 groups. Activity-score effects are represented by changes in k<sub>cat</sub>, which is consistent with the activity-score framework used for the CYP2D6 model evaluation. This separates enzyme affinity from phenotype-dependent or activity-score dependent metabolic capacity.
+The same CYP2D6 K<sub>m</sub> is used across CYP2D6 groups. Activity-score effects are represented by changes in k<sub>cat</sub>, which is consistent with the activity-score framework used for the CYP2D6 model evaluation. This separates enzyme affinity from phenotype-dependent or activity-score-dependent metabolic capacity.
 
 * CYP2C19
 
@@ -50,6 +50,6 @@ The following parameters were optimized by fitting the model to the data:
 | `Specific intestinal permeability` |
 | CYP2C19 k<sub>cat</sub> |
 | CYP2D6 k<sub>cat</sub> for extensive metabolizers |
-| CYP2D6 activity-score dependent k<sub>cat</sub> values |
+| CYP2D6 activity-score-dependent k<sub>cat</sub> values |
 
 The optimized parameters were selected to target absorption, distribution, and metabolic-capacity terms that were not fixed by direct source measurements. Parameters with direct physicochemical or binding evidence were not used as free study-specific calibration terms. This supports interpretation of the CYP2D6 activity-score simulations as clearance differences rather than repeated refitting of distribution or absorption.

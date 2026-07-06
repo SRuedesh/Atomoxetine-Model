@@ -2,7 +2,7 @@ The general concept of building a PBPK model has previously been described by Ku
 
 The applied activity and variability of plasma proteins and active processes integrated into PK-Sim are described in the publicly available PK-Sim Ontogeny Database or otherwise referenced for the specific process.
 
-The atomoxetine model was developed as a single-parent compound model for oral atomoxetine pharmacokinetics. The model by [Rüdesheim 2022](References.md) described CYP2D6 activity score-dependent metabolism by representing CYP2D6 metabolic capacity with activity-score dependent k<sub>cat</sub> values. CYP2D6-independent clearance was represented through a CYP2C19 pathway and passive renal filtration.
+The atomoxetine model was developed as a single-parent compound model for oral atomoxetine pharmacokinetics. The model by [Rüdesheim 2022](References.md) described CYP2D6 activity score-dependent metabolism by representing CYP2D6 metabolic capacity with activity-score-dependent k<sub>cat</sub> values. CYP2D6-independent clearance was represented through a CYP2C19 pathway and passive renal filtration.
 
 Clinical studies used for model building covered oral atomoxetine administration and included solution, capsule, and tablet dosing where available. Model-building studies informed oral absorption, CYP2D6-independent clearance in poor metabolizers, and CYP2D6-dependent clearance in extensive metabolizers or activity-score groups. Model verification used independent oral study arms, including CYP2D6 poor-, normal-, intermediate-, and higher-activity groups.
 

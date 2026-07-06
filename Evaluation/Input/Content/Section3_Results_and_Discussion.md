@@ -1,14 +1,14 @@
 The PBPK model for atomoxetine was developed and evaluated with clinical pharmacokinetic data after oral administration. The evaluation covers single-dose and repeated-dose oral administration, solution, capsule, and tablet dosing, and CYP2D6 extensive-, normal-, intermediate-, and poor-metabolizer settings represented by genotype, phenotype, or activity score.
 
-The model-building data supported the oral absorption description, CYP2D6-mediated clearance, CYP2D6-independent metabolism, passive renal filtration, and activity-score dependent clearance implementation. Model-building studies included solution and capsule data from [Nakano 2016](References.md), CYP2D6 poor- and extensive-metabolizer data from [Sauer 2003](References.md), and activity-score stratified data from [Byeon 2015](References.md) and [Kim 2018](References.md). Verification included independent oral studies from [Belle 2002](References.md), [Cui 2007](References.md), [Byeon 2015](References.md), [Kim 2018](References.md), and [Todor 2016](References.md).
+The model-building data supported the oral absorption description, CYP2D6-mediated clearance, CYP2D6-independent metabolism, passive renal filtration, and activity-score-dependent clearance implementation. Model-building studies included solution and capsule data from [Nakano 2016](References.md), CYP2D6 poor- and extensive-metabolizer data from [Sauer 2003](References.md), and activity-score stratified data from [Byeon 2015](References.md) and [Kim 2018](References.md). Verification included independent oral studies from [Belle 2002](References.md), [Cui 2007](References.md), [Byeon 2015](References.md), [Kim 2018](References.md), and [Todor 2016](References.md).
 
-The model quantifies CYP2D6-mediated metabolism, CYP2C19-mediated non-CYP2D6 metabolism, and passive glomerular filtration. The interpretation of model performance requires separate consideration of CYP2D6 poor-metabolizer profiles and profiles with residual or higher CYP2D6 activity. Poor-metabolizer profiles mainly test the non-CYP2D6 clearance pathway and renal filtration. Normal- and higher-activity groups additionally test whether increased CYP2D6 k<sub>cat</sub> values describe the observed activity-score dependent exposure decrease.
+The model quantifies CYP2D6-mediated metabolism, CYP2C19-mediated non-CYP2D6 metabolism, and passive glomerular filtration. The interpretation of model performance requires separate consideration of CYP2D6 poor-metabolizer profiles and profiles with residual or higher CYP2D6 activity. Poor-metabolizer profiles mainly test the non-CYP2D6 clearance pathway and renal filtration. Normal- and higher-activity groups additionally test whether increased CYP2D6 k<sub>cat</sub> values describe the observed activity-score-dependent exposure decrease.
 
 The next sections show:
 
-1. the final model input parameters for the building blocks: [Section 3.1](#31).
-2. the overall goodness of fit: [Section 3.2](#32).
-3. simulated vs. observed concentration-time profiles for the clinical studies used for model building and for model verification: [Section 3.3](#33).
+1. the final model input parameters for the building blocks: [Section 3.1](Input_table.md).
+2. the overall goodness of fit: [Section 3.2](GOF_diagnostics.md).
+3. simulated vs. observed concentration-time profiles for the clinical studies used for model building and for model verification: [Section 3.3](Concentration_time_profiles.md).
 
 The merged GOF diagnostic over the included concentration observations gives a GMFE of 1.28 for atomoxetine. This value shows good population-level agreement across the represented studies, but it should still be interpreted together with the concentration-time profiles because the dataset combines different CYP2D6 activity groups, formulations, and repeated-dose behavior.
 

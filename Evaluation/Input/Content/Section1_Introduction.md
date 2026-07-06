@@ -7,7 +7,7 @@ The whole-body PBPK model of atomoxetine was developed by [Rüdesheim 2022](Refe
 The presented model includes the following features:
 
 - atomoxetine as the evaluated parent compound,
-- CYP2D6-mediated metabolism with activity-score dependent k<sub>cat</sub> values,
+- CYP2D6-mediated metabolism with activity-score-dependent k<sub>cat</sub> values,
 - CYP2C19-mediated metabolism as a pragmatic non-CYP2D6 CYP pathway,
 - passive renal filtration,
 - oral solution, capsule, and tablet administration in the evaluated clinical studies.
