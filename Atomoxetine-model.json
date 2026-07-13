@@ -5,7 +5,7 @@
       "Type": "Enzyme",
       "Species": "Human",
       "Molecule": "CYP3A4",
-      "Category": "Sauer (2002), n=4 (EM)",
+      "Category": "Sauer (2003), n=4 (EM)",
       "Parameters": [
         {
           "Path": "CYP3A4|Reference concentration",
@@ -80,7 +80,7 @@
       "Type": "Enzyme",
       "Species": "Human",
       "Molecule": "AADAC",
-      "Category": "Sauer (2002), n=4 (EM)",
+      "Category": "Sauer (2003), n=4 (EM)",
       "Parameters": [
         {
           "Path": "AADAC|Reference concentration",
@@ -204,7 +204,7 @@
       "Type": "Enzyme",
       "Species": "Human",
       "Molecule": "CYP2D6",
-      "Category": "Sauer (2002), n=4 (EM)",
+      "Category": "Sauer (2003), n=4 (EM)",
       "Parameters": [
         {
           "Path": "CYP2D6|Reference concentration",
@@ -279,7 +279,7 @@
       "Type": "Enzyme",
       "Species": "Human",
       "Molecule": "MAOA",
-      "Category": "Sauer (2002), n=4 (EM)",
+      "Category": "Sauer (2003), n=4 (EM)",
       "Parameters": [
         {
           "Path": "MAOA|Reference concentration",
@@ -403,7 +403,7 @@
       "Type": "Transporter",
       "Species": "Human",
       "Molecule": "ABCB1",
-      "Category": "Sauer (2002), n=4 (EM)",
+      "Category": "Sauer (2003), n=4 (EM)",
       "Parameters": [
         {
           "Path": "ABCB1|Reference concentration",
@@ -739,7 +739,7 @@
       "Type": "Transporter",
       "Species": "Human",
       "Molecule": "OATP1B1",
-      "Category": "Sauer (2002), n=4 (EM)",
+      "Category": "Sauer (2003), n=4 (EM)",
       "Parameters": [
         {
           "Path": "OATP1B1|Reference concentration",
@@ -1011,7 +1011,7 @@
       "Type": "OtherProtein",
       "Species": "Human",
       "Molecule": "ATP1A2",
-      "Category": "Sauer (2002), n=4 (EM)",
+      "Category": "Sauer (2003), n=4 (EM)",
       "Parameters": [
         {
           "Path": "ATP1A2|Reference concentration",
@@ -1131,7 +1131,7 @@
       "Type": "Transporter",
       "Species": "Human",
       "Molecule": "OCT2",
-      "Category": "Sauer (2002), n=4 (EM)",
+      "Category": "Sauer (2003), n=4 (EM)",
       "Parameters": [
         {
           "Path": "OCT2|Reference concentration",
@@ -1419,7 +1419,7 @@
       "Type": "Transporter",
       "Species": "Human",
       "Molecule": "MATE2-K",
-      "Category": "Sauer (2002), n=4 (EM)",
+      "Category": "Sauer (2003), n=4 (EM)",
       "Parameters": [
         {
           "Path": "MATE2-K|Reference concentration",
@@ -1667,7 +1667,7 @@
       "Type": "Enzyme",
       "Species": "Human",
       "Molecule": "PON3",
-      "Category": "Sauer (2002), n=4 (EM)",
+      "Category": "Sauer (2003), n=4 (EM)",
       "Parameters": [
         {
           "Path": "Organism|Bone|Intracellular|PON3|Relative expression",
@@ -1787,7 +1787,7 @@
       "Type": "Enzyme",
       "Species": "Human",
       "Molecule": "CYP2C8",
-      "Category": "Sauer (2002), n=4 (EM)",
+      "Category": "Sauer (2003), n=4 (EM)",
       "Parameters": [
         {
           "Path": "CYP2C8|Reference concentration",
@@ -1862,7 +1862,7 @@
       "Type": "Enzyme",
       "Species": "Human",
       "Molecule": "UGT2B7",
-      "Category": "Sauer (2002), n=4 (EM)",
+      "Category": "Sauer (2003), n=4 (EM)",
       "Parameters": [
         {
           "Path": "Organism|Brain|Intracellular|UGT2B7|Relative expression",
@@ -1941,7 +1941,7 @@
       "Type": "Transporter",
       "Species": "Human",
       "Molecule": "ABCC3",
-      "Category": "Sauer (2002), n=4 (EM)",
+      "Category": "Sauer (2003), n=4 (EM)",
       "Parameters": [
         {
           "Path": "ABCC3|Reference concentration",
@@ -2277,7 +2277,7 @@
       "Type": "Enzyme",
       "Species": "Human",
       "Molecule": "DPYS",
-      "Category": "Sauer (2002), n=4 (EM)",
+      "Category": "Sauer (2003), n=4 (EM)",
       "Parameters": [
         {
           "Path": "DPYS|Reference concentration",
@@ -2397,7 +2397,7 @@
       "Type": "Enzyme",
       "Species": "Human",
       "Molecule": "UPB1",
-      "Category": "Sauer (2002), n=4 (EM)",
+      "Category": "Sauer (2003), n=4 (EM)",
       "Parameters": [
         {
           "Path": "Organism|Bone|Intracellular|UPB1|Relative expression",
@@ -2517,7 +2517,7 @@
       "Type": "Enzyme",
       "Species": "Human",
       "Molecule": "DPYD",
-      "Category": "Sauer (2002), n=4 (EM)",
+      "Category": "Sauer (2003), n=4 (EM)",
       "Parameters": [
         {
           "Path": "DPYD|Reference concentration",
@@ -2641,7 +2641,7 @@
       "Type": "Transporter",
       "Species": "Human",
       "Molecule": "ABCC4",
-      "Category": "Sauer (2002), n=4 (EM)",
+      "Category": "Sauer (2003), n=4 (EM)",
       "Parameters": [
         {
           "Path": "ABCC4|Reference concentration",
@@ -2977,7 +2977,7 @@
       "Type": "Transporter",
       "Species": "Human",
       "Molecule": "SLC22A7",
-      "Category": "Sauer (2002), n=4 (EM)",
+      "Category": "Sauer (2003), n=4 (EM)",
       "Parameters": [
         {
           "Path": "Organism|Bone|Intracellular|SLC22A7|Relative expression",
@@ -3313,7 +3313,7 @@
       "Type": "Transporter",
       "Species": "Human",
       "Molecule": "Liver_influx_gemfibrozil",
-      "Category": "Sauer (2002), n=4 (EM)",
+      "Category": "Sauer (2003), n=4 (EM)",
       "Parameters": [
         {
           "Path": "Liver_influx_gemfibrozil|Reference concentration",
@@ -3565,7 +3565,7 @@
       "Type": "Enzyme",
       "Species": "Human",
       "Molecule": "CYP2C19",
-      "Category": "Sauer (2002), n=4 (EM)",
+      "Category": "Sauer (2003), n=4 (EM)",
       "Parameters": [
         {
           "Path": "CYP2C19|Reference concentration",
@@ -3640,7 +3640,7 @@
       "Type": "Enzyme",
       "Species": "Human",
       "Molecule": "CYP3A4",
-      "Category": "Sauer (2002), n=3 (PM)",
+      "Category": "Sauer (2003), n=3 (PM)",
       "Parameters": [
         {
           "Path": "CYP3A4|Reference concentration",
@@ -3715,7 +3715,7 @@
       "Type": "Enzyme",
       "Species": "Human",
       "Molecule": "AADAC",
-      "Category": "Sauer (2002), n=3 (PM)",
+      "Category": "Sauer (2003), n=3 (PM)",
       "Parameters": [
         {
           "Path": "AADAC|Reference concentration",
@@ -3839,7 +3839,7 @@
       "Type": "Enzyme",
       "Species": "Human",
       "Molecule": "CYP2D6",
-      "Category": "Sauer (2002), n=3 (PM)",
+      "Category": "Sauer (2003), n=3 (PM)",
       "Parameters": [
         {
           "Path": "CYP2D6|Reference concentration",
@@ -3914,7 +3914,7 @@
       "Type": "Enzyme",
       "Species": "Human",
       "Molecule": "MAOA",
-      "Category": "Sauer (2002), n=3 (PM)",
+      "Category": "Sauer (2003), n=3 (PM)",
       "Parameters": [
         {
           "Path": "MAOA|Reference concentration",
@@ -4038,7 +4038,7 @@
       "Type": "Transporter",
       "Species": "Human",
       "Molecule": "ABCB1",
-      "Category": "Sauer (2002), n=3 (PM)",
+      "Category": "Sauer (2003), n=3 (PM)",
       "Parameters": [
         {
           "Path": "ABCB1|Reference concentration",
@@ -4374,7 +4374,7 @@
       "Type": "Transporter",
       "Species": "Human",
       "Molecule": "OATP1B1",
-      "Category": "Sauer (2002), n=3 (PM)",
+      "Category": "Sauer (2003), n=3 (PM)",
       "Parameters": [
         {
           "Path": "OATP1B1|Reference concentration",
@@ -4646,7 +4646,7 @@
       "Type": "OtherProtein",
       "Species": "Human",
       "Molecule": "ATP1A2",
-      "Category": "Sauer (2002), n=3 (PM)",
+      "Category": "Sauer (2003), n=3 (PM)",
       "Parameters": [
         {
           "Path": "ATP1A2|Reference concentration",
@@ -4766,7 +4766,7 @@
       "Type": "Transporter",
       "Species": "Human",
       "Molecule": "OCT2",
-      "Category": "Sauer (2002), n=3 (PM)",
+      "Category": "Sauer (2003), n=3 (PM)",
       "Parameters": [
         {
           "Path": "OCT2|Reference concentration",
@@ -5054,7 +5054,7 @@
       "Type": "Transporter",
       "Species": "Human",
       "Molecule": "MATE2-K",
-      "Category": "Sauer (2002), n=3 (PM)",
+      "Category": "Sauer (2003), n=3 (PM)",
       "Parameters": [
         {
           "Path": "MATE2-K|Reference concentration",
@@ -5302,7 +5302,7 @@
       "Type": "Enzyme",
       "Species": "Human",
       "Molecule": "PON3",
-      "Category": "Sauer (2002), n=3 (PM)",
+      "Category": "Sauer (2003), n=3 (PM)",
       "Parameters": [
         {
           "Path": "Organism|Bone|Intracellular|PON3|Relative expression",
@@ -5422,7 +5422,7 @@
       "Type": "Enzyme",
       "Species": "Human",
       "Molecule": "CYP2C8",
-      "Category": "Sauer (2002), n=3 (PM)",
+      "Category": "Sauer (2003), n=3 (PM)",
       "Parameters": [
         {
           "Path": "CYP2C8|Reference concentration",
@@ -5497,7 +5497,7 @@
       "Type": "Enzyme",
       "Species": "Human",
       "Molecule": "UGT2B7",
-      "Category": "Sauer (2002), n=3 (PM)",
+      "Category": "Sauer (2003), n=3 (PM)",
       "Parameters": [
         {
           "Path": "Organism|Brain|Intracellular|UGT2B7|Relative expression",
@@ -5576,7 +5576,7 @@
       "Type": "Transporter",
       "Species": "Human",
       "Molecule": "ABCC3",
-      "Category": "Sauer (2002), n=3 (PM)",
+      "Category": "Sauer (2003), n=3 (PM)",
       "Parameters": [
         {
           "Path": "ABCC3|Reference concentration",
@@ -5912,7 +5912,7 @@
       "Type": "Enzyme",
       "Species": "Human",
       "Molecule": "DPYS",
-      "Category": "Sauer (2002), n=3 (PM)",
+      "Category": "Sauer (2003), n=3 (PM)",
       "Parameters": [
         {
           "Path": "DPYS|Reference concentration",
@@ -6032,7 +6032,7 @@
       "Type": "Enzyme",
       "Species": "Human",
       "Molecule": "UPB1",
-      "Category": "Sauer (2002), n=3 (PM)",
+      "Category": "Sauer (2003), n=3 (PM)",
       "Parameters": [
         {
           "Path": "Organism|Bone|Intracellular|UPB1|Relative expression",
@@ -6152,7 +6152,7 @@
       "Type": "Enzyme",
       "Species": "Human",
       "Molecule": "DPYD",
-      "Category": "Sauer (2002), n=3 (PM)",
+      "Category": "Sauer (2003), n=3 (PM)",
       "Parameters": [
         {
           "Path": "DPYD|Reference concentration",
@@ -6276,7 +6276,7 @@
       "Type": "Transporter",
       "Species": "Human",
       "Molecule": "ABCC4",
-      "Category": "Sauer (2002), n=3 (PM)",
+      "Category": "Sauer (2003), n=3 (PM)",
       "Parameters": [
         {
           "Path": "ABCC4|Reference concentration",
@@ -6612,7 +6612,7 @@
       "Type": "Transporter",
       "Species": "Human",
       "Molecule": "SLC22A7",
-      "Category": "Sauer (2002), n=3 (PM)",
+      "Category": "Sauer (2003), n=3 (PM)",
       "Parameters": [
         {
           "Path": "Organism|Bone|Intracellular|SLC22A7|Relative expression",
@@ -6948,7 +6948,7 @@
       "Type": "Transporter",
       "Species": "Human",
       "Molecule": "Liver_influx_gemfibrozil",
-      "Category": "Sauer (2002), n=3 (PM)",
+      "Category": "Sauer (2003), n=3 (PM)",
       "Parameters": [
         {
           "Path": "Liver_influx_gemfibrozil|Reference concentration",
@@ -7200,7 +7200,7 @@
       "Type": "Enzyme",
       "Species": "Human",
       "Molecule": "CYP2C19",
-      "Category": "Sauer (2002), n=3 (PM)",
+      "Category": "Sauer (2003), n=3 (PM)",
       "Parameters": [
         {
           "Path": "CYP2C19|Reference concentration",
@@ -40036,7 +40036,7 @@
   ],
   "Individuals": [
     {
-      "Name": "Sauer (2002), n=4 (EM)",
+      "Name": "Sauer (2003), n=4 (EM)",
       "Seed": -258202203,
       "OriginData": {
         "CalculationMethods": [
@@ -40062,30 +40062,30 @@
         }
       ],
       "ExpressionProfiles": [
-        "CYP3A4|Human|Sauer (2002), n=4 (EM)",
-        "AADAC|Human|Sauer (2002), n=4 (EM)",
-        "CYP2D6|Human|Sauer (2002), n=4 (EM)",
-        "MAOA|Human|Sauer (2002), n=4 (EM)",
-        "ABCB1|Human|Sauer (2002), n=4 (EM)",
-        "OATP1B1|Human|Sauer (2002), n=4 (EM)",
-        "ATP1A2|Human|Sauer (2002), n=4 (EM)",
-        "OCT2|Human|Sauer (2002), n=4 (EM)",
-        "MATE2-K|Human|Sauer (2002), n=4 (EM)",
-        "PON3|Human|Sauer (2002), n=4 (EM)",
-        "CYP2C8|Human|Sauer (2002), n=4 (EM)",
-        "UGT2B7|Human|Sauer (2002), n=4 (EM)",
-        "ABCC3|Human|Sauer (2002), n=4 (EM)",
-        "DPYS|Human|Sauer (2002), n=4 (EM)",
-        "UPB1|Human|Sauer (2002), n=4 (EM)",
-        "DPYD|Human|Sauer (2002), n=4 (EM)",
-        "ABCC4|Human|Sauer (2002), n=4 (EM)",
-        "SLC22A7|Human|Sauer (2002), n=4 (EM)",
-        "Liver_influx_gemfibrozil|Human|Sauer (2002), n=4 (EM)",
-        "CYP2C19|Human|Sauer (2002), n=4 (EM)"
+        "CYP3A4|Human|Sauer (2003), n=4 (EM)",
+        "AADAC|Human|Sauer (2003), n=4 (EM)",
+        "CYP2D6|Human|Sauer (2003), n=4 (EM)",
+        "MAOA|Human|Sauer (2003), n=4 (EM)",
+        "ABCB1|Human|Sauer (2003), n=4 (EM)",
+        "OATP1B1|Human|Sauer (2003), n=4 (EM)",
+        "ATP1A2|Human|Sauer (2003), n=4 (EM)",
+        "OCT2|Human|Sauer (2003), n=4 (EM)",
+        "MATE2-K|Human|Sauer (2003), n=4 (EM)",
+        "PON3|Human|Sauer (2003), n=4 (EM)",
+        "CYP2C8|Human|Sauer (2003), n=4 (EM)",
+        "UGT2B7|Human|Sauer (2003), n=4 (EM)",
+        "ABCC3|Human|Sauer (2003), n=4 (EM)",
+        "DPYS|Human|Sauer (2003), n=4 (EM)",
+        "UPB1|Human|Sauer (2003), n=4 (EM)",
+        "DPYD|Human|Sauer (2003), n=4 (EM)",
+        "ABCC4|Human|Sauer (2003), n=4 (EM)",
+        "SLC22A7|Human|Sauer (2003), n=4 (EM)",
+        "Liver_influx_gemfibrozil|Human|Sauer (2003), n=4 (EM)",
+        "CYP2C19|Human|Sauer (2003), n=4 (EM)"
       ]
     },
     {
-      "Name": "Sauer (2002), n=3 (PM)",
+      "Name": "Sauer (2003), n=3 (PM)",
       "Seed": -257925375,
       "OriginData": {
         "CalculationMethods": [
@@ -40111,26 +40111,26 @@
         }
       ],
       "ExpressionProfiles": [
-        "CYP3A4|Human|Sauer (2002), n=3 (PM)",
-        "AADAC|Human|Sauer (2002), n=3 (PM)",
-        "CYP2D6|Human|Sauer (2002), n=3 (PM)",
-        "MAOA|Human|Sauer (2002), n=3 (PM)",
-        "ABCB1|Human|Sauer (2002), n=3 (PM)",
-        "OATP1B1|Human|Sauer (2002), n=3 (PM)",
-        "ATP1A2|Human|Sauer (2002), n=3 (PM)",
-        "OCT2|Human|Sauer (2002), n=3 (PM)",
-        "MATE2-K|Human|Sauer (2002), n=3 (PM)",
-        "PON3|Human|Sauer (2002), n=3 (PM)",
-        "CYP2C8|Human|Sauer (2002), n=3 (PM)",
-        "UGT2B7|Human|Sauer (2002), n=3 (PM)",
-        "ABCC3|Human|Sauer (2002), n=3 (PM)",
-        "DPYS|Human|Sauer (2002), n=3 (PM)",
-        "UPB1|Human|Sauer (2002), n=3 (PM)",
-        "DPYD|Human|Sauer (2002), n=3 (PM)",
-        "ABCC4|Human|Sauer (2002), n=3 (PM)",
-        "SLC22A7|Human|Sauer (2002), n=3 (PM)",
-        "Liver_influx_gemfibrozil|Human|Sauer (2002), n=3 (PM)",
-        "CYP2C19|Human|Sauer (2002), n=3 (PM)"
+        "CYP3A4|Human|Sauer (2003), n=3 (PM)",
+        "AADAC|Human|Sauer (2003), n=3 (PM)",
+        "CYP2D6|Human|Sauer (2003), n=3 (PM)",
+        "MAOA|Human|Sauer (2003), n=3 (PM)",
+        "ABCB1|Human|Sauer (2003), n=3 (PM)",
+        "OATP1B1|Human|Sauer (2003), n=3 (PM)",
+        "ATP1A2|Human|Sauer (2003), n=3 (PM)",
+        "OCT2|Human|Sauer (2003), n=3 (PM)",
+        "MATE2-K|Human|Sauer (2003), n=3 (PM)",
+        "PON3|Human|Sauer (2003), n=3 (PM)",
+        "CYP2C8|Human|Sauer (2003), n=3 (PM)",
+        "UGT2B7|Human|Sauer (2003), n=3 (PM)",
+        "ABCC3|Human|Sauer (2003), n=3 (PM)",
+        "DPYS|Human|Sauer (2003), n=3 (PM)",
+        "UPB1|Human|Sauer (2003), n=3 (PM)",
+        "DPYD|Human|Sauer (2003), n=3 (PM)",
+        "ABCC4|Human|Sauer (2003), n=3 (PM)",
+        "SLC22A7|Human|Sauer (2003), n=3 (PM)",
+        "Liver_influx_gemfibrozil|Human|Sauer (2003), n=3 (PM)",
+        "CYP2C19|Human|Sauer (2003), n=3 (PM)"
       ]
     },
     {
@@ -42813,7 +42813,7 @@
       "Name": "Todor (2016) - atomoxetine, 25 mg, po, n=2 (PM)",
       "Model": "4Comp",
       "ObservedData": [
-        "Sauer (2002) - atomoxetine, 20 mg, po, n=4 (EM), atomoxetine",
+        "Sauer (2003) - atomoxetine, 20 mg b.i.d., po, n=4 (EM), atomoxetine",
         "Todor (2016) - atomoxetine, 25 mg, po, n=2 (PM), atomoxetine"
       ],
       "Solver": {},
@@ -43576,10 +43576,10 @@
       ]
     },
     {
-      "Name": "Sauer (2002) - atomoxetine, 20 mg, po, n=3 (PM)",
+      "Name": "Sauer (2003) - atomoxetine, 20 mg b.i.d., po, n=3 (PM)",
       "Model": "4Comp",
       "ObservedData": [
-        "Sauer (2002) - atomoxetine, 20 mg, po, n=3 (PM), atomoxetine"
+        "Sauer (2003) - atomoxetine, 20 mg b.i.d., po, n=3 (PM), atomoxetine"
       ],
       "Solver": {},
       "OutputSchema": [
@@ -43666,7 +43666,7 @@
       "OutputSelections": [
         "Organism|PeripheralVenousBlood|Atomoxetine|Plasma (Peripheral Venous Blood)"
       ],
-      "Individual": "Sauer (2002), n=3 (PM)",
+      "Individual": "Sauer (2003), n=3 (PM)",
       "Compounds": [
         {
           "Name": "Atomoxetine",
@@ -43769,18 +43769,18 @@
           ],
           "Curves": [
             {
-              "Name": "Sauer (2002) - atomoxetine, 20 mg, po, n=3 (PM)-Organism-PeripheralVenousBlood-Atomoxetine-Plasma (Peripheral Venous Blood)",
+              "Name": "Sauer (2003) - atomoxetine, 20 mg b.i.d., po, n=3 (PM)-Organism-PeripheralVenousBlood-Atomoxetine-Plasma (Peripheral Venous Blood)",
               "X": "Time",
-              "Y": "Sauer (2002) - atomoxetine, 20 mg, po, n=3 (PM)|Organism|PeripheralVenousBlood|Atomoxetine|Plasma (Peripheral Venous Blood)",
+              "Y": "Sauer (2003) - atomoxetine, 20 mg b.i.d., po, n=3 (PM)|Organism|PeripheralVenousBlood|Atomoxetine|Plasma (Peripheral Venous Blood)",
               "CurveOptions": {
                 "Color": "#FF0000",
                 "LegendIndex": 1
               }
             },
             {
-              "Name": "Sauer (2002) - atomoxetine, 20 mg, po, n=3 (PM), atomoxetine-Atomoxetine-[ng/mL]",
-              "X": "Sauer (2002) - atomoxetine, 20 mg, po, n=3 (PM), atomoxetine|[h]",
-              "Y": "Sauer (2002) - atomoxetine, 20 mg, po, n=3 (PM), atomoxetine|ObservedData|Peripheral Venous Blood|Plasma|Atomoxetine|[ng/mL]",
+              "Name": "Sauer (2003) - atomoxetine, 20 mg b.i.d., po, n=3 (PM), atomoxetine-Atomoxetine-[ng/mL]",
+              "X": "Sauer (2003) - atomoxetine, 20 mg b.i.d., po, n=3 (PM), atomoxetine|[h]",
+              "Y": "Sauer (2003) - atomoxetine, 20 mg b.i.d., po, n=3 (PM), atomoxetine|ObservedData|Peripheral Venous Blood|Plasma|Atomoxetine|[ng/mL]",
               "CurveOptions": {
                 "Color": "#FF0000",
                 "LegendIndex": 2,
@@ -43812,10 +43812,10 @@
       ]
     },
     {
-      "Name": "Sauer (2002) - atomoxetine, 20 mg, po, n=4 (EM)",
+      "Name": "Sauer (2003) - atomoxetine, 20 mg b.i.d., po, n=4 (EM)",
       "Model": "4Comp",
       "ObservedData": [
-        "Sauer (2002) - atomoxetine, 20 mg, po, n=4 (EM), atomoxetine"
+        "Sauer (2003) - atomoxetine, 20 mg b.i.d., po, n=4 (EM), atomoxetine"
       ],
       "Solver": {},
       "OutputSchema": [
@@ -43902,7 +43902,7 @@
       "OutputSelections": [
         "Organism|PeripheralVenousBlood|Atomoxetine|Plasma (Peripheral Venous Blood)"
       ],
-      "Individual": "Sauer (2002), n=4 (EM)",
+      "Individual": "Sauer (2003), n=4 (EM)",
       "Compounds": [
         {
           "Name": "Atomoxetine",
@@ -44005,18 +44005,18 @@
           ],
           "Curves": [
             {
-              "Name": "Sauer (2002) - atomoxetine, 20 mg, po, n=4 (EM)-Organism-PeripheralVenousBlood-Atomoxetine-Plasma (Peripheral Venous Blood)",
+              "Name": "Sauer (2003) - atomoxetine, 20 mg b.i.d., po, n=4 (EM)-Organism-PeripheralVenousBlood-Atomoxetine-Plasma (Peripheral Venous Blood)",
               "X": "Time",
-              "Y": "Sauer (2002) - atomoxetine, 20 mg, po, n=4 (EM)|Organism|PeripheralVenousBlood|Atomoxetine|Plasma (Peripheral Venous Blood)",
+              "Y": "Sauer (2003) - atomoxetine, 20 mg b.i.d., po, n=4 (EM)|Organism|PeripheralVenousBlood|Atomoxetine|Plasma (Peripheral Venous Blood)",
               "CurveOptions": {
                 "Color": "#FF0000",
                 "LegendIndex": 1
               }
             },
             {
-              "Name": "Sauer (2002) - atomoxetine, 20 mg, po, n=4 (EM), atomoxetine-Atomoxetine-[ng/mL]",
-              "X": "Sauer (2002) - atomoxetine, 20 mg, po, n=4 (EM), atomoxetine|[h]",
-              "Y": "Sauer (2002) - atomoxetine, 20 mg, po, n=4 (EM), atomoxetine|ObservedData|Peripheral Venous Blood|Plasma|Atomoxetine|[ng/mL]",
+              "Name": "Sauer (2003) - atomoxetine, 20 mg b.i.d., po, n=4 (EM), atomoxetine-Atomoxetine-[ng/mL]",
+              "X": "Sauer (2003) - atomoxetine, 20 mg b.i.d., po, n=4 (EM), atomoxetine|[h]",
+              "Y": "Sauer (2003) - atomoxetine, 20 mg b.i.d., po, n=4 (EM), atomoxetine|ObservedData|Peripheral Venous Blood|Plasma|Atomoxetine|[ng/mL]",
               "CurveOptions": {
                 "Color": "#FF0000",
                 "LegendIndex": 2,
@@ -44043,7 +44043,7 @@
             "BackColor": "#00FFFFFF",
             "DiagramBackColor": "#FFFFFF"
           },
-          "OriginText": "Atomoxetine-model\nSauer (2002) - atomoxetine, 20 mg, po, n=4 (EM)\n2026-05-18 10:18"
+          "OriginText": "Atomoxetine-model\nSauer (2003) - atomoxetine, 20 mg b.i.d., po, n=4 (EM)\n2026-05-18 10:18"
         }
       ]
     },
@@ -44296,7 +44296,7 @@
   ],
   "ObservedData": [
     {
-      "Name": "Sauer (2002) - atomoxetine, 20 mg, po, n=4 (EM), atomoxetine",
+      "Name": "Sauer (2003) - atomoxetine, 20 mg b.i.d., po, n=4 (EM), atomoxetine",
       "ExtendedProperties": [
         {
           "Name": "Molecule",
@@ -44326,7 +44326,7 @@
             {
               "Name": "[ng/mL](1)",
               "QuantityInfo": {
-                "Path": "Sauer (2002) - atomoxetine, 20 mg, po, n=4 (EM), atomoxetine|ObservedData|Peripheral Venous Blood|Plasma|Atomoxetine|[ng/mL](1)"
+                "Path": "Sauer (2003) - atomoxetine, 20 mg b.i.d., po, n=4 (EM), atomoxetine|ObservedData|Peripheral Venous Blood|Plasma|Atomoxetine|[ng/mL](1)"
               },
               "DataInfo": {
                 "Origin": "ObservationAuxiliary",
@@ -44352,7 +44352,7 @@
             }
           ],
           "QuantityInfo": {
-            "Path": "Sauer (2002) - atomoxetine, 20 mg, po, n=4 (EM), atomoxetine|ObservedData|Peripheral Venous Blood|Plasma|Atomoxetine|[ng/mL]"
+            "Path": "Sauer (2003) - atomoxetine, 20 mg b.i.d., po, n=4 (EM), atomoxetine|ObservedData|Peripheral Venous Blood|Plasma|Atomoxetine|[ng/mL]"
           },
           "DataInfo": {
             "Origin": "Observation",
@@ -44380,7 +44380,7 @@
       "BaseGrid": {
         "Name": "[h]",
         "QuantityInfo": {
-          "Path": "Sauer (2002) - atomoxetine, 20 mg, po, n=4 (EM), atomoxetine|[h]",
+          "Path": "Sauer (2003) - atomoxetine, 20 mg b.i.d., po, n=4 (EM), atomoxetine|[h]",
           "Type": "Time"
         },
         "DataInfo": {
@@ -44406,7 +44406,7 @@
       }
     },
     {
-      "Name": "Sauer (2002) - atomoxetine, 20 mg, po, n=3 (PM), atomoxetine",
+      "Name": "Sauer (2003) - atomoxetine, 20 mg b.i.d., po, n=3 (PM), atomoxetine",
       "ExtendedProperties": [
         {
           "Name": "Molecule",
@@ -44436,7 +44436,7 @@
             {
               "Name": "[ng/mL](1)",
               "QuantityInfo": {
-                "Path": "Sauer (2002) - atomoxetine, 20 mg, po, n=3 (PM), atomoxetine|ObservedData|Peripheral Venous Blood|Plasma|Atomoxetine|[ng/mL](1)"
+                "Path": "Sauer (2003) - atomoxetine, 20 mg b.i.d., po, n=3 (PM), atomoxetine|ObservedData|Peripheral Venous Blood|Plasma|Atomoxetine|[ng/mL](1)"
               },
               "DataInfo": {
                 "Origin": "ObservationAuxiliary",
@@ -44466,7 +44466,7 @@
             }
           ],
           "QuantityInfo": {
-            "Path": "Sauer (2002) - atomoxetine, 20 mg, po, n=3 (PM), atomoxetine|ObservedData|Peripheral Venous Blood|Plasma|Atomoxetine|[ng/mL]"
+            "Path": "Sauer (2003) - atomoxetine, 20 mg b.i.d., po, n=3 (PM), atomoxetine|ObservedData|Peripheral Venous Blood|Plasma|Atomoxetine|[ng/mL]"
           },
           "DataInfo": {
             "Origin": "Observation",
@@ -44498,7 +44498,7 @@
       "BaseGrid": {
         "Name": "[h]",
         "QuantityInfo": {
-          "Path": "Sauer (2002) - atomoxetine, 20 mg, po, n=3 (PM), atomoxetine|[h]",
+          "Path": "Sauer (2003) - atomoxetine, 20 mg b.i.d., po, n=3 (PM), atomoxetine|[h]",
           "Type": "Time"
         },
         "DataInfo": {
@@ -45834,8 +45834,8 @@
     {
       "Name": "atomoxetine",
       "Classifiables": [
-        "Sauer (2002) - atomoxetine, 20 mg, po, n=4 (EM), atomoxetine",
-        "Sauer (2002) - atomoxetine, 20 mg, po, n=3 (PM), atomoxetine",
+        "Sauer (2003) - atomoxetine, 20 mg b.i.d., po, n=4 (EM), atomoxetine",
+        "Sauer (2003) - atomoxetine, 20 mg b.i.d., po, n=3 (PM), atomoxetine",
         "Kim (2018) - atomoxetine, 20 mg, po, n=8 (AS=0.5), atomoxetine",
         "Kim (2018) - atomoxetine, 20 mg, po, n=11 (AS=2), atomoxetine",
         "Byeon (2015) - atomoxetine, 40 mg (dose normalized), n=22 (AS=2), atomoxetine",
@@ -45871,8 +45871,8 @@
         "Kim (2018) - atomoxetine, 20 mg, po, n=11 (AS=2)",
         "Nakano (2016) - atomoxetine, 50 mg, po capsules, n=42 (EM)",
         "Nakano (2016) - atomoxetine, 50 mg, po solution, n=42 (EM)",
-        "Sauer (2002) - atomoxetine, 20 mg, po, n=3 (PM)",
-        "Sauer (2002) - atomoxetine, 20 mg, po, n=4 (EM)",
+        "Sauer (2003) - atomoxetine, 20 mg b.i.d., po, n=3 (PM)",
+        "Sauer (2003) - atomoxetine, 20 mg b.i.d., po, n=4 (EM)",
         "Cui (2007) - atomoxetine, 80 mg, po, n=16 (AS=1)"
       ]
     }
