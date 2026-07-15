@@ -113,12 +113,12 @@
       },
       {
         "Project": "Atomoxetine",
-        "Simulation": "Sauer (2002) - atomoxetine, 20 mg, po, n=4 (EM)",
+        "Simulation": "Sauer (2003) - atomoxetine, 20 mg b.i.d., po, n=4 (EM)",
         "SectionId": 331
       },
       {
         "Project": "Atomoxetine",
-        "Simulation": "Sauer (2002) - atomoxetine, 20 mg, po, n=3 (PM)",
+        "Simulation": "Sauer (2003) - atomoxetine, 20 mg b.i.d., po, n=3 (PM)",
         "SectionId": 331
       },
       {
@@ -218,16 +218,16 @@
               },
               {
                 "Project": "Atomoxetine",
-                "Simulation": "Sauer (2002) - atomoxetine, 20 mg, po, n=4 (EM)",
+                "Simulation": "Sauer (2003) - atomoxetine, 20 mg b.i.d., po, n=4 (EM)",
                 "Output": "Organism|PeripheralVenousBlood|Atomoxetine|Plasma (Peripheral Venous Blood)",
-                "ObservedData": "Sauer (2002) - atomoxetine, 20 mg, po, n=4 (EM), atomoxetine",
+                "ObservedData": "Sauer (2003) - atomoxetine, 20 mg b.i.d., po, n=4 (EM), atomoxetine",
                 "Color": "#000000"
               },
               {
                 "Project": "Atomoxetine",
-                "Simulation": "Sauer (2002) - atomoxetine, 20 mg, po, n=3 (PM)",
+                "Simulation": "Sauer (2003) - atomoxetine, 20 mg b.i.d., po, n=3 (PM)",
                 "Output": "Organism|PeripheralVenousBlood|Atomoxetine|Plasma (Peripheral Venous Blood)",
-                "ObservedData": "Sauer (2002) - atomoxetine, 20 mg, po, n=3 (PM), atomoxetine",
+                "ObservedData": "Sauer (2003) - atomoxetine, 20 mg b.i.d., po, n=3 (PM), atomoxetine",
                 "Color": "#000000"
               },
               {
