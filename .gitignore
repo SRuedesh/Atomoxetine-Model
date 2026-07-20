@@ -2,4 +2,5 @@
 Evaluation/workflow_patched.R
 Evaluation/run_workflow_local.R
 justfile
-/Evaluation/SourceData
+/dictionary.dic
+Evaluation/review/
