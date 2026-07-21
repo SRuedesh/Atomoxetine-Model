@@ -39,17 +39,3 @@ This pathway contributes to residual oxidative metabolism in poor metabolizers a
 Passive renal filtration is represented with a `GFR fraction` of 1.
 
 Renal elimination is a minor structural pathway relative to CYP-mediated metabolism. It was retained as passive filtration using the model fraction unbound and default adult renal physiology.
-
-### 2.3.4 Automated Parameter Identification
-
-The following parameters were optimized by fitting the model to the data:
-
-| Model Parameter |
-| --- |
-| `Lipophilicity` |
-| `Specific intestinal permeability` |
-| CYP2C19 k<sub>cat</sub> |
-| CYP2D6 k<sub>cat</sub> for extensive metabolizers |
-| CYP2D6 activity-score-dependent k<sub>cat</sub> values |
-
-The optimized parameters were selected to target absorption, distribution, and metabolic-capacity terms that were not fixed by direct source measurements. Parameters with direct physicochemical or binding evidence were not used as free study-specific calibration terms. This supports interpretation of the CYP2D6 activity-score simulations as clearance differences rather than repeated refitting of distribution or absorption.
