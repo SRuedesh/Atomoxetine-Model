@@ -144,16 +144,16 @@
     ],
     "GOFMergedPlots": [
       {
+        "Title": "Observed versus simulated concentration-time data for all modeled compounds",
         "SectionId": 32,
-        "Title": "Atomoxetine observed versus simulated plasma concentration-time data",
-        "PlotTypes": [
-          "predictedVsObserved",
-          "residualsOverTime"
-        ],
         "Artifacts": [
           "Plot",
           "GMFE",
           "Measure"
+        ],
+        "PlotTypes": [
+          "predictedVsObserved",
+          "residualsOverTime"
         ],
         "Groups": [
           {
@@ -165,98 +165,98 @@
                 "Simulation": "Belle (2002) - atomoxetine, 20 mg, po, n=22 (EM)",
                 "Output": "Organism|PeripheralVenousBlood|Atomoxetine|Plasma (Peripheral Venous Blood)",
                 "ObservedData": "Belle (2002) - atomoxetine, 20 mg, po, n=22 (EM), atomoxetine",
-                "Color": "#0000FF"
+                "Color": "#FF0000"
               },
               {
                 "Project": "Atomoxetine",
                 "Simulation": "Byeon (2015) - atomoxetine, 40 mg (dose normalized), po, n=18 (AS=0.5)",
                 "Output": "Organism|PeripheralVenousBlood|Atomoxetine|Plasma (Peripheral Venous Blood)",
                 "ObservedData": "Byeon (2015) - atomoxetine, 40 mg (dose normalized), po, n=18 (AS=0.5), atomoxetine",
-                "Color": "#0000FF"
+                "Color": "#FF0000"
               },
               {
                 "Project": "Atomoxetine",
                 "Simulation": "Byeon (2015) - atomoxetine, 40 mg (dose normalized), po, n=22 (AS=1.25)",
                 "Output": "Organism|PeripheralVenousBlood|Atomoxetine|Plasma (Peripheral Venous Blood)",
                 "ObservedData": "Byeon (2015) - atomoxetine, 40 mg (dose normalized), po, n=22 (AS=1.25), atomoxetine",
-                "Color": "#0000FF"
+                "Color": "#FF0000"
               },
               {
                 "Project": "Atomoxetine",
                 "Simulation": "Byeon (2015) - atomoxetine, 40 mg (dose normalized), n=22 (AS=2)",
                 "Output": "Organism|PeripheralVenousBlood|Atomoxetine|Plasma (Peripheral Venous Blood)",
                 "ObservedData": "Byeon (2015) - atomoxetine, 40 mg (dose normalized), n=22 (AS=2), atomoxetine",
-                "Color": "#0000FF"
+                "Color": "#FF0000"
               },
               {
                 "Project": "Atomoxetine",
                 "Simulation": "Kim (2018) - atomoxetine, 20 mg, po, n=8 (AS=0.5)",
                 "Output": "Organism|PeripheralVenousBlood|Atomoxetine|Plasma (Peripheral Venous Blood)",
                 "ObservedData": "Kim (2018) - atomoxetine, 20 mg, po, n=8 (AS=0.5), atomoxetine",
-                "Color": "#0000FF"
+                "Color": "#FF0000"
               },
               {
                 "Project": "Atomoxetine",
                 "Simulation": "Kim (2018) - atomoxetine, 20 mg, po, n=11 (AS=2)",
                 "Output": "Organism|PeripheralVenousBlood|Atomoxetine|Plasma (Peripheral Venous Blood)",
                 "ObservedData": "Kim (2018) - atomoxetine, 20 mg, po, n=11 (AS=2), atomoxetine",
-                "Color": "#0000FF"
+                "Color": "#FF0000"
               },
               {
                 "Project": "Atomoxetine",
                 "Simulation": "Nakano (2016) - atomoxetine, 50 mg, po capsules, n=42 (EM)",
                 "Output": "Organism|PeripheralVenousBlood|Atomoxetine|Plasma (Peripheral Venous Blood)",
                 "ObservedData": "Nakano (2016) - atomoxetine, 50 mg, po capsules, n=42 (EM), atomoxetine",
-                "Color": "#0000FF"
+                "Color": "#FF0000"
               },
               {
                 "Project": "Atomoxetine",
                 "Simulation": "Nakano (2016) - atomoxetine, 50 mg, po solution, n=42 (EM)",
                 "Output": "Organism|PeripheralVenousBlood|Atomoxetine|Plasma (Peripheral Venous Blood)",
                 "ObservedData": "Nakano (2016) - atomoxetine, 50 mg, po solution, n=42 (EM), atomoxetine",
-                "Color": "#0000FF"
+                "Color": "#FF0000"
               },
               {
                 "Project": "Atomoxetine",
                 "Simulation": "Sauer (2003) - atomoxetine, 20 mg b.i.d., po, n=4 (EM)",
                 "Output": "Organism|PeripheralVenousBlood|Atomoxetine|Plasma (Peripheral Venous Blood)",
                 "ObservedData": "Sauer (2003) - atomoxetine, 20 mg b.i.d., po, n=4 (EM), atomoxetine",
-                "Color": "#0000FF"
+                "Color": "#FF0000"
               },
               {
                 "Project": "Atomoxetine",
                 "Simulation": "Sauer (2003) - atomoxetine, 20 mg b.i.d., po, n=3 (PM)",
                 "Output": "Organism|PeripheralVenousBlood|Atomoxetine|Plasma (Peripheral Venous Blood)",
                 "ObservedData": "Sauer (2003) - atomoxetine, 20 mg b.i.d., po, n=3 (PM), atomoxetine",
-                "Color": "#0000FF"
+                "Color": "#FF0000"
               },
               {
                 "Project": "Atomoxetine",
                 "Simulation": "Todor (2016) - atomoxetine, 25 mg, po, n=18 (NM)",
                 "Output": "Organism|PeripheralVenousBlood|Atomoxetine|Plasma (Peripheral Venous Blood)",
                 "ObservedData": "Todor (2016) - atomoxetine, 25 mg, po, n=18 (NM), atomoxetine",
-                "Color": "#0000FF"
+                "Color": "#FF0000"
               },
               {
                 "Project": "Atomoxetine",
                 "Simulation": "Todor (2016) - atomoxetine, 25 mg, po, n=2 (PM)",
                 "Output": "Organism|PeripheralVenousBlood|Atomoxetine|Plasma (Peripheral Venous Blood)",
                 "ObservedData": "Todor (2016) - atomoxetine, 25 mg, po, n=2 (PM), atomoxetine",
-                "Color": "#0000FF"
+                "Color": "#FF0000"
               },
               {
                 "Project": "Atomoxetine",
                 "Simulation": "Cui (2007) - atomoxetine, 40 mg, po, n=16 (AS=1)",
                 "Output": "Organism|PeripheralVenousBlood|Atomoxetine|Plasma (Peripheral Venous Blood)",
                 "ObservedData": "Cui (2007) - atomoxetine, 40 mg, po, n=16 (AS=1), atomoxetine",
-                "Color": "#0000FF"
+                "Color": "#FF0000"
               },
               {
                 "Project": "Atomoxetine",
                 "Simulation": "Cui (2007) - atomoxetine, 80 mg, po, n=16 (AS=1)",
                 "Output": "Organism|PeripheralVenousBlood|Atomoxetine|Plasma (Peripheral Venous Blood)",
                 "ObservedData": "Cui (2007) - atomoxetine, 80 mg, po, n=16 (AS=1), atomoxetine",
-                "Color": "#0000FF"
+                "Color": "#FF0000"
               }
             ]
           }

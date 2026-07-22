@@ -2,7 +2,7 @@
 
 The model includes oral solution, capsule, and tablet applications. Oral absorption was described using PK-Sim permeability and formulation settings. The `Specific intestinal permeability` was optimized to 5.23E-05 cm/min based on oral concentration-time data.
 
-The oral solution study by [Nakano 2016](References.md) provided information-rich data for absorption, while capsule and tablet study arms were used to evaluate oral absorption under clinically used formulations.
+The oral solution study by [Nakano 2016](#5-references) provided information-rich data for absorption, while capsule and tablet study arms were used to evaluate oral absorption under clinically used formulations.
 
 No separate dissolution model was introduced for the immediate-release applications. Differences between solution and solid oral applications were represented through the application and formulation settings used for each simulation. This keeps the absorption model compact while preserving the clinically relevant distinction between solution, capsule, and tablet dosing.
 
@@ -30,7 +30,7 @@ The same CYP2D6 K<sub>m</sub> is used across CYP2D6 groups. Activity-score effec
 
 * CYP2C19
 
-CYP2C19 was implemented as a surrogate pathway for minor non-CYP2D6 CYP contributions reported *in vitro*. CYP2C19 K<sub>m</sub> was taken from [Ring 2002](References.md), and CYP2C19 k<sub>cat</sub> was optimized.
+CYP2C19 was implemented as a surrogate pathway for minor non-CYP2D6 CYP contributions reported *in vitro*. CYP2C19 K<sub>m</sub> was taken from [Ring 2002](#5-references), and CYP2C19 k<sub>cat</sub> was optimized.
 
 This pathway contributes to residual oxidative metabolism in poor metabolizers and prevents the CYP2D6-independent part of clearance from being represented only by renal elimination. The CYP2C19 pathway should therefore be interpreted as a pragmatic model pathway for minor CYP-mediated clearance, not as a claim that CYP2C19 is the only non-CYP2D6 metabolic route.
 
