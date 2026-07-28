@@ -40886,12 +40886,12 @@
             },
             {
               "Name": "kcat",
-              "Value": 102.25,
+              "Value": 103.82,
               "Unit": "1/min",
               "ValueOrigin": {
                 "Source": "ParameterIdentification",
                 "Method": "ParameterIdentification",
-                "Description": "Optimized AS=2 baseline, Rüdesheim et al. 2022, main article Table 2"
+                "Description": "Optimized AS=2 baseline"
               }
             }
           ]
@@ -40926,12 +40926,12 @@
             },
             {
               "Name": "kcat",
-              "Value": 16.87,
+              "Value": 16.79,
               "Unit": "1/min",
               "ValueOrigin": {
                 "Source": "Other",
                 "Method": "ManualFit",
-                "Description": "CYP2D6 activity-score scaling, Rüdesheim et al. 2022, main article Table 2"
+                "Description": "CYP2D6 activity-score scaling"
               }
             }
           ]
@@ -40966,12 +40966,12 @@
             },
             {
               "Name": "kcat",
-              "Value": 53.68,
+              "Value": 53.44,
               "Unit": "1/min",
               "ValueOrigin": {
                 "Source": "Other",
                 "Method": "ManualFit",
-                "Description": "CYP2D6 activity-score scaling, Rüdesheim et al. 2022, main article Table 2"
+                "Description": "CYP2D6 activity-score scaling"
               }
             }
           ]
@@ -41051,7 +41051,41 @@
               "ValueOrigin": {
                 "Source": "Other",
                 "Method": "ManualFit",
-                "Description": "CYP2D6 activity-score scaling, Rüdesheim et al. 2022, main article Table 2"
+                "Description": "CYP2D6 activity-score scaling"
+              }
+            }
+          ]
+        },
+        {
+          "InternalName": "CompetitiveInhibition",
+          "DataSource": "Sauer 2004",
+          "Molecule": "CYP2D6",
+          "Parameters": [
+            {
+              "Name": "Ki",
+              "Value": 3.6,
+              "Unit": "µmol/l",
+              "ValueOrigin": {
+                "Source": "Publication",
+                "Method": "Unknown",
+                "Description": "Sauer 2004"
+              }
+            }
+          ]
+        },
+        {
+          "InternalName": "CompetitiveInhibition",
+          "DataSource": "Sauer 2004",
+          "Molecule": "CYP3A4",
+          "Parameters": [
+            {
+              "Name": "Ki",
+              "Value": 34.0,
+              "Unit": "µmol/l",
+              "ValueOrigin": {
+                "Source": "Publication",
+                "Method": "Unknown",
+                "Description": "Sauer 2004"
               }
             }
           ]
@@ -41433,34 +41467,117 @@
       "TimeUnit": "h"
     },
     {
-      "Name": "atomoxetine 80 mg s.d.",
-      "ApplicationType": "Oral",
-      "DosingInterval": "DI_12_12",
-      "Parameters": [
+      "Name": "Cui 2007, atomoxetine 40 mg q.d. 3 days, 80 mg q.d. 7 days",
+      "DosingInterval": "Single",
+      "Schemas": [
         {
-          "Name": "Start time",
-          "Value": 0,
-          "Unit": "h"
+          "Name": "Schema 1",
+          "SchemaItems": [
+            {
+              "Name": "Schema Item 1",
+              "ApplicationType": "Oral",
+              "FormulationKey": "Formulation",
+              "Parameters": [
+                {
+                  "Name": "Start time",
+                  "Value": 0,
+                  "Unit": "h"
+                },
+                {
+                  "Name": "InputDose",
+                  "Value": 40,
+                  "Unit": "mg"
+                },
+                {
+                  "Name": "Volume of water/body weight",
+                  "Value": 3.5,
+                  "Unit": "ml/kg"
+                }
+              ]
+            }
+          ],
+          "Parameters": [
+            {
+              "Name": "Start time",
+              "Value": 0,
+              "Unit": "h"
+            },
+            {
+              "Name": "NumberOfRepetitions",
+              "Value": 3,
+              "ValueOrigin": {
+                "Source": "Publication",
+                "Description": "Cui 2007"
+              }
+            },
+            {
+              "Name": "TimeBetweenRepetitions",
+              "Value": 24,
+              "Unit": "h",
+              "ValueOrigin": {
+                "Source": "Publication",
+                "Description": "Cui 2007"
+              }
+            }
+          ]
         },
         {
-          "Name": "InputDose",
-          "Value": 80,
-          "Unit": "mg"
-        },
-        {
-          "Name": "Volume of water/body weight",
-          "Value": 3.5,
-          "Unit": "ml/kg"
-        },
-        {
-          "Name": "End time",
-          "Value": 145,
-          "Unit": "h",
-          "ValueOrigin": {
-            "Source": "Unknown"
-          }
+          "Name": "Schema 2",
+          "SchemaItems": [
+            {
+              "Name": "Schema Item 1",
+              "ApplicationType": "Oral",
+              "FormulationKey": "Formulation",
+              "Parameters": [
+                {
+                  "Name": "Start time",
+                  "Value": 0,
+                  "Unit": "h"
+                },
+                {
+                  "Name": "InputDose",
+                  "Value": 80,
+                  "Unit": "mg"
+                },
+                {
+                  "Name": "Volume of water/body weight",
+                  "Value": 3.5,
+                  "Unit": "ml/kg"
+                }
+              ]
+            }
+          ],
+          "Parameters": [
+            {
+              "Name": "Start time",
+              "Value": 72,
+              "Unit": "h",
+              "ValueOrigin": {
+                "Source": "Publication",
+                "Description": "Cui 2007"
+              }
+            },
+            {
+              "Name": "NumberOfRepetitions",
+              "Value": 7,
+              "ValueOrigin": {
+                "Source": "Publication",
+                "Description": "Cui 2007"
+              }
+            },
+            {
+              "Name": "TimeBetweenRepetitions",
+              "Value": 24,
+              "Unit": "h",
+              "ValueOrigin": {
+                "Source": "Publication",
+                "Description": "Cui 2007"
+              }
+            }
+          ]
         }
-      ]
+      ],
+      "TimeUnit": "h"
     }
   ],
   "Simulations": [
@@ -41628,7 +41745,7 @@
               }
             }
           ],
-          "Name": "Time Profile Analysis",
+          "Name": "Cui 2007: atomoxetine, 40 mg q.d., day 1, po, n=16 (AS=1)",
           "FontAndSize": {
             "Fonts": {
               "AxisSize": 10,
@@ -41814,7 +41931,7 @@
               }
             }
           ],
-          "Name": "Time Profile Analysis",
+          "Name": "Byeon 2015: atomoxetine, 40 mg (dose normalized), n=22 (AS=2)",
           "FontAndSize": {
             "Fonts": {
               "AxisSize": 10,
@@ -41837,10 +41954,10 @@
       ]
     },
     {
-      "Name": "Belle (2002) - atomoxetine, 20 mg, po, n=22 (EM)",
+      "Name": "Belle (2002) - atomoxetine, 20 mg b.i.d., 9 doses, po, n=22 (EM)",
       "Model": "4Comp",
       "ObservedData": [
-        "Belle (2002) - atomoxetine, 20 mg, po, n=22 (EM), atomoxetine"
+        "Belle (2002) - atomoxetine, 20 mg b.i.d., 9 doses, po, n=22 (EM), atomoxetine"
       ],
       "Solver": {},
       "OutputSchema": [
@@ -42023,18 +42140,18 @@
           ],
           "Curves": [
             {
-              "Name": "Belle (2002) - atomoxetine, 20 mg, po, n=22 (EM)-Organism-PeripheralVenousBlood-Atomoxetine-Plasma (Peripheral Venous Blood)",
+              "Name": "Belle (2002) - atomoxetine, 20 mg b.i.d., 9 doses, po, n=22 (EM)-Organism-PeripheralVenousBlood-Atomoxetine-Plasma (Peripheral Venous Blood)",
               "X": "Time",
-              "Y": "Belle (2002) - atomoxetine, 20 mg, po, n=22 (EM)|Organism|PeripheralVenousBlood|Atomoxetine|Plasma (Peripheral Venous Blood)",
+              "Y": "Belle (2002) - atomoxetine, 20 mg b.i.d., 9 doses, po, n=22 (EM)|Organism|PeripheralVenousBlood|Atomoxetine|Plasma (Peripheral Venous Blood)",
               "CurveOptions": {
                 "Color": "#FF0000",
                 "LegendIndex": 1
               }
             },
             {
-              "Name": "Belle (2002) - atomoxetine, 20 mg, po, n=22 (EM), atomoxetine-Atomoxetine-Measurement",
-              "X": "Belle (2002) - atomoxetine, 20 mg, po, n=22 (EM), atomoxetine|Time",
-              "Y": "Belle (2002) - atomoxetine, 20 mg, po, n=22 (EM), atomoxetine|ObservedData|||Atomoxetine|Measurement",
+              "Name": "Belle (2002) - atomoxetine, 20 mg b.i.d., 9 doses, po, n=22 (EM), atomoxetine-Atomoxetine-Measurement",
+              "X": "Belle (2002) - atomoxetine, 20 mg b.i.d., 9 doses, po, n=22 (EM), atomoxetine|Time",
+              "Y": "Belle (2002) - atomoxetine, 20 mg b.i.d., 9 doses, po, n=22 (EM), atomoxetine|ObservedData|||Atomoxetine|Measurement",
               "CurveOptions": {
                 "Color": "#FF0000",
                 "LegendIndex": 2,
@@ -42043,7 +42160,7 @@
               }
             }
           ],
-          "Name": "Time Profile Analysis",
+          "Name": "Belle 2002: atomoxetine, 20 mg, po, n=22 (EM)",
           "FontAndSize": {
             "Fonts": {
               "AxisSize": 10,
@@ -42061,7 +42178,7 @@
             "BackColor": "#00FFFFFF",
             "DiagramBackColor": "#FFFFFF"
           },
-          "OriginText": "Atomoxetine-model\nBelle (2002) - atomoxetine, 20 mg, po, n=22 (EM)\n2026-05-18 10:19"
+          "OriginText": "Atomoxetine-model\nBelle (2002) - atomoxetine, 20 mg b.i.d., 9 doses, po, n=22 (EM)\n2026-05-18 10:19"
         }
       ]
     },
@@ -42229,7 +42346,7 @@
               }
             }
           ],
-          "Name": "Time Profile Analysis",
+          "Name": "Byeon 2015: atomoxetine, 40 mg (dose normalized), po, n=18 (AS=0.5)",
           "FontAndSize": {
             "Fonts": {
               "AxisSize": 10,
@@ -42415,7 +42532,7 @@
               }
             }
           ],
-          "Name": "Time Profile Analysis",
+          "Name": "Byeon 2015: atomoxetine, 40 mg (dose normalized), po, n=22 (AS=1.25)",
           "FontAndSize": {
             "Fonts": {
               "AxisSize": 10,
@@ -42601,7 +42718,7 @@
               }
             }
           ],
-          "Name": "Time Profile Analysis",
+          "Name": "Kim 2018: atomoxetine, 20 mg, po, n=8 (AS=0.5)",
           "FontAndSize": {
             "Fonts": {
               "AxisSize": 10,
@@ -42787,7 +42904,7 @@
               }
             }
           ],
-          "Name": "Time Profile Analysis",
+          "Name": "Todor 2016: atomoxetine, 25 mg, po, n=18 (NM)",
           "FontAndSize": {
             "Fonts": {
               "AxisSize": 10,
@@ -42813,7 +42930,6 @@
       "Name": "Todor (2016) - atomoxetine, 25 mg, po, n=2 (PM)",
       "Model": "4Comp",
       "ObservedData": [
-        "Sauer (2003) - atomoxetine, 20 mg b.i.d., po, n=4 (EM), atomoxetine",
         "Todor (2016) - atomoxetine, 25 mg, po, n=2 (PM), atomoxetine"
       ],
       "Solver": {},
@@ -42974,7 +43090,7 @@
               }
             }
           ],
-          "Name": "Time Profile Analysis",
+          "Name": "Todor 2016: atomoxetine, 25 mg, po, n=2 (PM)",
           "FontAndSize": {
             "Fonts": {
               "AxisSize": 10,
@@ -43176,7 +43292,7 @@
               }
             }
           ],
-          "Name": "Time Profile Analysis",
+          "Name": "Kim 2018: atomoxetine, 20 mg, po, n=11 (AS=2)",
           "FontAndSize": {
             "Fonts": {
               "AxisSize": 10,
@@ -43367,7 +43483,7 @@
               }
             }
           ],
-          "Name": "Time Profile Analysis",
+          "Name": "Nakano 2016: atomoxetine, 50 mg, po capsules, n=42 (EM)",
           "FontAndSize": {
             "Fonts": {
               "AxisSize": 10,
@@ -43553,7 +43669,7 @@
               }
             }
           ],
-          "Name": "Time Profile Analysis",
+          "Name": "Nakano 2016: atomoxetine, 50 mg, po solution, n=42 (EM)",
           "FontAndSize": {
             "Fonts": {
               "AxisSize": 10,
@@ -43789,7 +43905,7 @@
               }
             }
           ],
-          "Name": "Time Profile Analysis",
+          "Name": "Sauer 2003: atomoxetine, 20 mg b.i.d., po, n=3 (PM)",
           "FontAndSize": {
             "Fonts": {
               "AxisSize": 10,
@@ -44025,7 +44141,7 @@
               }
             }
           ],
-          "Name": "Time Profile Analysis",
+          "Name": "Sauer 2003: atomoxetine, 20 mg b.i.d., po, n=4 (EM)",
           "FontAndSize": {
             "Fonts": {
               "AxisSize": 10,
@@ -44064,7 +44180,7 @@
             },
             {
               "Name": "End time",
-              "Value": 180,
+              "Value": 252,
               "Unit": "h",
               "ValueOrigin": {
                 "Source": "Unknown"
@@ -44080,67 +44196,52 @@
       ],
       "Parameters": [
         {
-          "Path": "Events|atomoxetine 80 mg s.d.|Strattera Lilly|Application_1|ProtocolSchemaItem|Volume of water/body weight",
+          "Path": "Events|Cui 2007, atomoxetine 40 mg q.d. 3 days, 80 mg q.d. 7 days|Strattera Lilly|Application_1|ProtocolSchemaItem|Volume of water/body weight",
           "Value": 3.5,
           "Unit": "ml/kg"
         },
         {
-          "Path": "Events|atomoxetine 80 mg s.d.|Strattera Lilly|Application_10|ProtocolSchemaItem|Volume of water/body weight",
+          "Path": "Events|Cui 2007, atomoxetine 40 mg q.d. 3 days, 80 mg q.d. 7 days|Strattera Lilly|Application_10|ProtocolSchemaItem|Volume of water/body weight",
           "Value": 3.5,
           "Unit": "ml/kg"
         },
         {
-          "Path": "Events|atomoxetine 80 mg s.d.|Strattera Lilly|Application_11|ProtocolSchemaItem|Volume of water/body weight",
+          "Path": "Events|Cui 2007, atomoxetine 40 mg q.d. 3 days, 80 mg q.d. 7 days|Strattera Lilly|Application_2|ProtocolSchemaItem|Volume of water/body weight",
           "Value": 3.5,
           "Unit": "ml/kg"
         },
         {
-          "Path": "Events|atomoxetine 80 mg s.d.|Strattera Lilly|Application_12|ProtocolSchemaItem|Volume of water/body weight",
+          "Path": "Events|Cui 2007, atomoxetine 40 mg q.d. 3 days, 80 mg q.d. 7 days|Strattera Lilly|Application_3|ProtocolSchemaItem|Volume of water/body weight",
           "Value": 3.5,
           "Unit": "ml/kg"
         },
         {
-          "Path": "Events|atomoxetine 80 mg s.d.|Strattera Lilly|Application_13|ProtocolSchemaItem|Volume of water/body weight",
+          "Path": "Events|Cui 2007, atomoxetine 40 mg q.d. 3 days, 80 mg q.d. 7 days|Strattera Lilly|Application_4|ProtocolSchemaItem|Volume of water/body weight",
           "Value": 3.5,
           "Unit": "ml/kg"
         },
         {
-          "Path": "Events|atomoxetine 80 mg s.d.|Strattera Lilly|Application_2|ProtocolSchemaItem|Volume of water/body weight",
+          "Path": "Events|Cui 2007, atomoxetine 40 mg q.d. 3 days, 80 mg q.d. 7 days|Strattera Lilly|Application_5|ProtocolSchemaItem|Volume of water/body weight",
           "Value": 3.5,
           "Unit": "ml/kg"
         },
         {
-          "Path": "Events|atomoxetine 80 mg s.d.|Strattera Lilly|Application_3|ProtocolSchemaItem|Volume of water/body weight",
+          "Path": "Events|Cui 2007, atomoxetine 40 mg q.d. 3 days, 80 mg q.d. 7 days|Strattera Lilly|Application_6|ProtocolSchemaItem|Volume of water/body weight",
           "Value": 3.5,
           "Unit": "ml/kg"
         },
         {
-          "Path": "Events|atomoxetine 80 mg s.d.|Strattera Lilly|Application_4|ProtocolSchemaItem|Volume of water/body weight",
+          "Path": "Events|Cui 2007, atomoxetine 40 mg q.d. 3 days, 80 mg q.d. 7 days|Strattera Lilly|Application_7|ProtocolSchemaItem|Volume of water/body weight",
           "Value": 3.5,
           "Unit": "ml/kg"
         },
         {
-          "Path": "Events|atomoxetine 80 mg s.d.|Strattera Lilly|Application_5|ProtocolSchemaItem|Volume of water/body weight",
+          "Path": "Events|Cui 2007, atomoxetine 40 mg q.d. 3 days, 80 mg q.d. 7 days|Strattera Lilly|Application_8|ProtocolSchemaItem|Volume of water/body weight",
           "Value": 3.5,
           "Unit": "ml/kg"
         },
         {
-          "Path": "Events|atomoxetine 80 mg s.d.|Strattera Lilly|Application_6|ProtocolSchemaItem|Volume of water/body weight",
-          "Value": 3.5,
-          "Unit": "ml/kg"
-        },
-        {
-          "Path": "Events|atomoxetine 80 mg s.d.|Strattera Lilly|Application_7|ProtocolSchemaItem|Volume of water/body weight",
-          "Value": 3.5,
-          "Unit": "ml/kg"
-        },
-        {
-          "Path": "Events|atomoxetine 80 mg s.d.|Strattera Lilly|Application_8|ProtocolSchemaItem|Volume of water/body weight",
-          "Value": 3.5,
-          "Unit": "ml/kg"
-        },
-        {
-          "Path": "Events|atomoxetine 80 mg s.d.|Strattera Lilly|Application_9|ProtocolSchemaItem|Volume of water/body weight",
+          "Path": "Events|Cui 2007, atomoxetine 40 mg q.d. 3 days, 80 mg q.d. 7 days|Strattera Lilly|Application_9|ProtocolSchemaItem|Volume of water/body weight",
           "Value": 3.5,
           "Unit": "ml/kg"
         }
@@ -44212,7 +44313,7 @@
             }
           ],
           "Protocol": {
-            "Name": "atomoxetine 80 mg s.d.",
+            "Name": "Cui 2007, atomoxetine 40 mg q.d. 3 days, 80 mg q.d. 7 days",
             "Formulations": [
               {
                 "Name": "Strattera Lilly",
@@ -44222,7 +44323,7 @@
           }
         }
       ],
-      "HasResults": true,
+      "HasResults": false,
       "IndividualAnalyses": [
         {
           "Axes": [
@@ -44271,7 +44372,7 @@
               }
             }
           ],
-          "Name": "Time Profile Analysis",
+              "Name": "Cui 2007: atomoxetine, 40 mg q.d. for 3 days, then 80 mg q.d. for 7 days, po, n=16 (AS=1)",
           "FontAndSize": {
             "Fonts": {
               "AxisSize": 10,
@@ -45515,7 +45616,7 @@
       }
     },
     {
-      "Name": "Belle (2002) - atomoxetine, 20 mg, po, n=22 (EM), atomoxetine",
+      "Name": "Belle (2002) - atomoxetine, 20 mg b.i.d., 9 doses, po, n=22 (EM), atomoxetine",
       "ExtendedProperties": [
         {
           "Name": "Molecule",
@@ -45530,7 +45631,7 @@
             {
               "Name": "Error",
               "QuantityInfo": {
-                "Path": "Belle (2002) - atomoxetine, 20 mg, po, n=22 (EM), atomoxetine|ObservedData|||Atomoxetine|Error"
+                "Path": "Belle (2002) - atomoxetine, 20 mg b.i.d., 9 doses, po, n=22 (EM), atomoxetine|ObservedData|||Atomoxetine|Error"
               },
               "DataInfo": {
                 "Origin": "ObservationAuxiliary",
@@ -45556,7 +45657,7 @@
             }
           ],
           "QuantityInfo": {
-            "Path": "Belle (2002) - atomoxetine, 20 mg, po, n=22 (EM), atomoxetine|ObservedData|||Atomoxetine|Measurement"
+            "Path": "Belle (2002) - atomoxetine, 20 mg b.i.d., 9 doses, po, n=22 (EM), atomoxetine|ObservedData|||Atomoxetine|Measurement"
           },
           "DataInfo": {
             "Origin": "Observation",
@@ -45584,7 +45685,7 @@
       "BaseGrid": {
         "Name": "Time",
         "QuantityInfo": {
-          "Path": "Belle (2002) - atomoxetine, 20 mg, po, n=22 (EM), atomoxetine|Time",
+          "Path": "Belle (2002) - atomoxetine, 20 mg b.i.d., 9 doses, po, n=22 (EM), atomoxetine|Time",
           "Type": "Time"
         },
         "DataInfo": {
@@ -45812,18 +45913,18 @@
           "AuxiliaryType": "Undefined"
         },
         "Values": [
-          144.25,
-          144.5,
-          144.75,
-          145,
-          145.5,
-          146,
-          148,
-          150,
-          152,
-          156,
-          160,
-          168
+          216.25,
+          216.5,
+          216.75,
+          217,
+          217.5,
+          218,
+          220,
+          222,
+          224,
+          228,
+          232,
+          240
         ],
         "Dimension": "Time",
         "Unit": "h"
@@ -45845,7 +45946,7 @@
         "Todor (2016) - atomoxetine, 25 mg, po, n=18 (NM), atomoxetine",
         "Nakano (2016) - atomoxetine, 50 mg, po solution, n=42 (EM), atomoxetine",
         "Nakano (2016) - atomoxetine, 50 mg, po capsules, n=42 (EM), atomoxetine",
-        "Belle (2002) - atomoxetine, 20 mg, po, n=22 (EM), atomoxetine",
+        "Belle (2002) - atomoxetine, 20 mg b.i.d., 9 doses, po, n=22 (EM), atomoxetine",
         "Cui (2007) - atomoxetine, 40 mg, po, n=16 (AS=1), atomoxetine",
         "Cui (2007) - atomoxetine, 80 mg, po, n=16 (AS=1), atomoxetine"
       ]
@@ -45855,7 +45956,7 @@
     {
       "Name": "external_dataset",
       "Classifiables": [
-        "Belle (2002) - atomoxetine, 20 mg, po, n=22 (EM)",
+        "Belle (2002) - atomoxetine, 20 mg b.i.d., 9 doses, po, n=22 (EM)",
         "Byeon (2015) - atomoxetine, 40 mg (dose normalized), po, n=18 (AS=0.5)",
         "Byeon (2015) - atomoxetine, 40 mg (dose normalized), po, n=22 (AS=1.25)",
         "Kim (2018) - atomoxetine, 20 mg, po, n=8 (AS=0.5)",

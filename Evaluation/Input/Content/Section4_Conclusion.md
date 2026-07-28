@@ -1,1 +1,7 @@
-The presented PBPK model adequately describes the oral pharmacokinetics of atomoxetine in the evaluated adult CYP2D6 phenotype and activity-score groups.
+The atomoxetine PBPK model describes the evaluated plasma concentration-time data after oral doses of 20-80 mg in healthy adults. The evaluation includes single-dose and repeated-dose administration, solution, capsule, and tablet formulations, and CYP2D6 poor, intermediate, and normal/extensive metabolizer groups represented by phenotype, genotype, or activity score.
+
+The model uses common absorption and distribution parameters across CYP2D6 groups. CYP2D6 provides the principal oxidative clearance pathway, while CYP2C19 represents residual minor oxidative metabolism and passive glomerular filtration represents renal elimination. Activity-score-dependent CYP2D6 catalytic rates describe the observed differences in atomoxetine exposure across the evaluated CYP2D6 groups.
+
+The concentration-time profiles and goodness-of-fit diagnostics characterize model performance for adult oral atomoxetine simulations within the evaluated dose, formulation, regimen, and CYP2D6 ranges. No formal acceptance criterion was applied. The snapshot also contains competitive CYP2D6 and CYP3A4 inhibition parameters for parent atomoxetine. Their presence does not qualify atomoxetine perpetrator simulations in this compound report. Such interaction applications require evidence from the applicable DDI or DDGI evaluation.
+
+Section 4.1 defines the limits of the evaluated evidence, including the parent-only analyte scope, the CYP2C19 surrogate pathway, and the absence of qualification for untested populations and interaction-based dose recommendations.

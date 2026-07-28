@@ -73,7 +73,7 @@
     "AllPlots": [
       {
         "Project": "Atomoxetine",
-        "Simulation": "Belle (2002) - atomoxetine, 20 mg, po, n=22 (EM)",
+        "Simulation": "Belle (2002) - atomoxetine, 20 mg b.i.d., 9 doses, po, n=22 (EM)",
         "SectionId": 332
       },
       {
@@ -144,7 +144,7 @@
     ],
     "GOFMergedPlots": [
       {
-        "Title": "Observed versus simulated concentration-time data for all modeled compounds",
+        "Title": "Atomoxetine goodness-of-fit diagnostics",
         "SectionId": 32,
         "Artifacts": [
           "Plot",
@@ -162,9 +162,9 @@
             "OutputMappings": [
               {
                 "Project": "Atomoxetine",
-                "Simulation": "Belle (2002) - atomoxetine, 20 mg, po, n=22 (EM)",
+                "Simulation": "Belle (2002) - atomoxetine, 20 mg b.i.d., 9 doses, po, n=22 (EM)",
                 "Output": "Organism|PeripheralVenousBlood|Atomoxetine|Plasma (Peripheral Venous Blood)",
-                "ObservedData": "Belle (2002) - atomoxetine, 20 mg, po, n=22 (EM), atomoxetine",
+                "ObservedData": "Belle (2002) - atomoxetine, 20 mg b.i.d., 9 doses, po, n=22 (EM), atomoxetine",
                 "Color": "#FF0000"
               },
               {
@@ -339,7 +339,14 @@
     {
       "Id": 4,
       "Content": "Content/Section4_Conclusion.md",
-      "Title": "Conclusion"
+      "Title": "Conclusion",
+      "Sections": [
+        {
+          "Id": 41,
+          "Title": "Limitations",
+          "Content": "Content/Section4.1_Limitations.md"
+        }
+      ]
     },
     {
       "Id": 5,

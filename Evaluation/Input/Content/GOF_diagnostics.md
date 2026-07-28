@@ -1,1 +1,1 @@
-The goodness-of-fit diagnostics combine all modeled compounds in one set of plots. Colors and symbols identify compounds consistently with the concentration-time profiles. Administration route, formulation, and model-building or verification status are not used to split the diagnostics.
+The first goodness-of-fit plot compares observed and simulated atomoxetine concentrations. The second plot shows log residuals over time. Administration route, formulation, and model-building or verification status are not used to stratify these diagnostics.

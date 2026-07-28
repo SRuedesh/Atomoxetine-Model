@@ -39,3 +39,15 @@ This pathway contributes to residual oxidative metabolism in poor metabolizers a
 Passive renal filtration is represented with a `GFR fraction` of 1.
 
 Renal elimination is a minor structural pathway relative to CYP-mediated metabolism. It was retained as passive filtration using the model fraction unbound and default adult renal physiology.
+
+### 2.3.4 DDI Parameters
+
+The snapshot contains competitive inhibition parameters for parent atomoxetine in a perpetrator role. This compound evaluation report does not verify these parameters with sensitive CYP2D6 or CYP3A4 substrates and does not independently qualify atomoxetine perpetrator simulations. The CYP2D6 interaction network evaluates applicable DDI and DDGI scenarios separately ([Rüdesheim 2025](#5-references)).
+
+#### CYP2D6 inhibition
+
+Competitive inhibition of CYP2D6 is represented with a K<sub>i</sub> of 3.60 µmol/L. The value was adopted from [Sauer 2004](#5-references) and is documented for the published atomoxetine perpetrator model in Table S11 of the CYP2D6 network supplement ([Rüdesheim 2025](#5-references)).
+
+#### CYP3A4 inhibition
+
+Competitive inhibition of CYP3A4 is represented with a K<sub>i</sub> of 34.00 µmol/L. The value was adopted from [Sauer 2004](#5-references) and is documented in Table S11 of the CYP2D6 network supplement ([Rüdesheim 2025](#5-references)). Only inhibition by parent atomoxetine is represented. Contributions from atomoxetine metabolites are outside the scope of this parent-only model.
