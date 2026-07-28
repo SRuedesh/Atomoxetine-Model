@@ -1,4 +1,4 @@
-### 2.2.1 In vitro and physicochemical data
+### In vitro and physicochemical data
 
 The table below summarizes the drug-dependent inputs documented for the atomoxetine model ([Table 1](#table-1)).
 
@@ -23,7 +23,7 @@ The table below summarizes the drug-dependent inputs documented for the atomoxet
 
 **Table 1:**<a name="table-1"></a> Drug-dependent physicochemical, distribution, metabolism, elimination, and inhibition parameters used in the final atomoxetine model.
 
-### 2.2.2 Clinical data
+### Clinical data
 
 The evaluation uses 14 atomoxetine plasma concentration-time profiles from healthy adults ([Table 2](#table-2)). Six profiles were used for model building and eight profiles were used for model verification.
 

@@ -339,14 +339,7 @@
     {
       "Id": 4,
       "Content": "Content/Section4_Conclusion.md",
-      "Title": "Conclusion",
-      "Sections": [
-        {
-          "Id": 41,
-          "Title": "Limitations",
-          "Content": "Content/Section4.1_Limitations.md"
-        }
-      ]
+      "Title": "Conclusion"
     },
     {
       "Id": 5,

@@ -4,4 +4,4 @@ The model uses common absorption and distribution parameters across CYP2D6 group
 
 The concentration-time profiles and goodness-of-fit diagnostics characterize model performance for adult oral atomoxetine simulations within the evaluated dose, formulation, regimen, and CYP2D6 ranges. No formal acceptance criterion was applied. The snapshot also contains competitive CYP2D6 and CYP3A4 inhibition parameters for parent atomoxetine. Their presence does not qualify atomoxetine perpetrator simulations in this compound report. Such interaction applications require evidence from the applicable DDI or DDGI evaluation.
 
-Section 4.1 defines the limits of the evaluated evidence, including the parent-only analyte scope, the CYP2C19 surrogate pathway, and the absence of qualification for untested populations and interaction-based dose recommendations.
+The main limitations are the absence of an explicit 4-hydroxyatomoxetine metabolite and the use of CYP2C19 as a surrogate for minor metabolic pathways. This report does not qualify DDI or DDGI applications, dose recommendations, or populations not represented by the evaluated adult studies.

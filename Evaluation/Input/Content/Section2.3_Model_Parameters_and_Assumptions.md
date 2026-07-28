@@ -1,4 +1,4 @@
-### 2.3.1 Absorption
+### Absorption
 
 The model includes oral solution, capsule, and tablet applications. Oral absorption was described using PK-Sim permeability and formulation settings. The `Specific intestinal permeability` was optimized to 5.23E-05 cm/min based on oral concentration-time data.
 
@@ -8,7 +8,7 @@ No separate dissolution model was introduced for the immediate-release applicati
 
 Absorption parameterization was evaluated against both model-building and verification study arms. This is relevant because the same intestinal permeability value is used across phenotype and activity-score groups, so absorption should not compensate for differences that are mechanistically attributed to CYP2D6 activity.
 
-### 2.3.2 Distribution
+### Distribution
 
 Atomoxetine is highly bound to plasma proteins. A fraction unbound of 1.30% was used as summarized in Section 2.2.1.
 
@@ -18,7 +18,7 @@ The optimized lipophilicity was used together with plasma protein binding to des
 
 Distribution was not stratified by CYP2D6 phenotype. Differences between poor, normal, and higher-activity groups are represented through metabolic capacity, while the same compound distribution assumptions are applied to all adult simulations.
 
-### 2.3.3 Metabolism and Elimination
+### Metabolism and elimination
 
 Two metabolic pathways and passive renal filtration are represented in the model.
 
@@ -40,7 +40,7 @@ Passive renal filtration is represented with a `GFR fraction` of 1.
 
 Renal elimination is a minor structural pathway relative to CYP-mediated metabolism. It was retained as passive filtration using the model fraction unbound and default adult renal physiology.
 
-### 2.3.4 DDI Parameters
+### DDI parameters
 
 The snapshot contains competitive inhibition parameters for parent atomoxetine in a perpetrator role. This compound evaluation report does not verify these parameters with sensitive CYP2D6 or CYP3A4 substrates and does not independently qualify atomoxetine perpetrator simulations. The CYP2D6 interaction network evaluates applicable DDI and DDGI scenarios separately ([Rüdesheim 2025](#5-references)).
 
