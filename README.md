@@ -51,6 +51,6 @@ The model code is distributed under the [GPLv2 License](https://github.com/Open-
 
 [6] M Nakano, J Witcher, Y Satoi, T Goto. Pharmacokinetic profile and palatability of atomoxetine oral solution in healthy Japanese male adults. Clin Drug Investig, 2016;36:903-911. doi: [10.1007/s40261-016-0430-y](https://doi.org/10.1007/s40261-016-0430-y).
 
-[7] J M Sauer, G D Ponsler, E L Mattiuz, A J Long, J W Witcher, H R Thomasson, K A Desante. Disposition and metabolic fate of atomoxetine hydrochloride: the role of CYP2D6 in human disposition and metabolism. Drug Metab Dispos, 2003;31:98-107. doi: [10.1124/dmd.31.1.98](https://doi.org/10.1124/dmd.31.1.98).
+[7] J M Sauer, G D Ponsler, E L Mattiuz, A J Long, J W Witcher, H R Thomasson, K A DeSante. Disposition and metabolic fate of atomoxetine hydrochloride: the role of CYP2D6 in human disposition and metabolism. Drug Metab Dispos, 2003;31:98-107. doi: [10.1124/dmd.31.1.98](https://doi.org/10.1124/dmd.31.1.98).
 
 [8] I Todor, et al. Evaluation of a potential metabolism-mediated drug-drug interaction between atomoxetine and bupropion in healthy volunteers. J Pharm Pharm Sci, 2016;19:198-207.
