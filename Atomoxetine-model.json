@@ -25450,7 +25450,7 @@
       "Type": "Enzyme",
       "Species": "Human",
       "Molecule": "CYP3A4",
-      "Category": "Todor (2016), n=18 (NM)",
+      "Category": "Todor (2016), n=18 (EM)",
       "Parameters": [
         {
           "Path": "CYP3A4|Reference concentration",
@@ -25525,7 +25525,7 @@
       "Type": "Enzyme",
       "Species": "Human",
       "Molecule": "AADAC",
-      "Category": "Todor (2016), n=18 (NM)",
+      "Category": "Todor (2016), n=18 (EM)",
       "Parameters": [
         {
           "Path": "AADAC|Reference concentration",
@@ -25649,7 +25649,7 @@
       "Type": "Enzyme",
       "Species": "Human",
       "Molecule": "CYP2D6",
-      "Category": "Todor (2016), n=18 (NM)",
+      "Category": "Todor (2016), n=18 (EM)",
       "Parameters": [
         {
           "Path": "CYP2D6|Reference concentration",
@@ -25724,7 +25724,7 @@
       "Type": "Enzyme",
       "Species": "Human",
       "Molecule": "MAOA",
-      "Category": "Todor (2016), n=18 (NM)",
+      "Category": "Todor (2016), n=18 (EM)",
       "Parameters": [
         {
           "Path": "MAOA|Reference concentration",
@@ -25848,7 +25848,7 @@
       "Type": "Transporter",
       "Species": "Human",
       "Molecule": "ABCB1",
-      "Category": "Todor (2016), n=18 (NM)",
+      "Category": "Todor (2016), n=18 (EM)",
       "Parameters": [
         {
           "Path": "ABCB1|Reference concentration",
@@ -26184,7 +26184,7 @@
       "Type": "Transporter",
       "Species": "Human",
       "Molecule": "OATP1B1",
-      "Category": "Todor (2016), n=18 (NM)",
+      "Category": "Todor (2016), n=18 (EM)",
       "Parameters": [
         {
           "Path": "OATP1B1|Reference concentration",
@@ -26456,7 +26456,7 @@
       "Type": "OtherProtein",
       "Species": "Human",
       "Molecule": "ATP1A2",
-      "Category": "Todor (2016), n=18 (NM)",
+      "Category": "Todor (2016), n=18 (EM)",
       "Parameters": [
         {
           "Path": "ATP1A2|Reference concentration",
@@ -26576,7 +26576,7 @@
       "Type": "Transporter",
       "Species": "Human",
       "Molecule": "OCT2",
-      "Category": "Todor (2016), n=18 (NM)",
+      "Category": "Todor (2016), n=18 (EM)",
       "Parameters": [
         {
           "Path": "OCT2|Reference concentration",
@@ -26864,7 +26864,7 @@
       "Type": "Transporter",
       "Species": "Human",
       "Molecule": "MATE2-K",
-      "Category": "Todor (2016), n=18 (NM)",
+      "Category": "Todor (2016), n=18 (EM)",
       "Parameters": [
         {
           "Path": "MATE2-K|Reference concentration",
@@ -27112,7 +27112,7 @@
       "Type": "Enzyme",
       "Species": "Human",
       "Molecule": "PON3",
-      "Category": "Todor (2016), n=18 (NM)",
+      "Category": "Todor (2016), n=18 (EM)",
       "Parameters": [
         {
           "Path": "Organism|Bone|Intracellular|PON3|Relative expression",
@@ -27232,7 +27232,7 @@
       "Type": "Enzyme",
       "Species": "Human",
       "Molecule": "CYP2C8",
-      "Category": "Todor (2016), n=18 (NM)",
+      "Category": "Todor (2016), n=18 (EM)",
       "Parameters": [
         {
           "Path": "CYP2C8|Reference concentration",
@@ -27307,7 +27307,7 @@
       "Type": "Enzyme",
       "Species": "Human",
       "Molecule": "UGT2B7",
-      "Category": "Todor (2016), n=18 (NM)",
+      "Category": "Todor (2016), n=18 (EM)",
       "Parameters": [
         {
           "Path": "Organism|Brain|Intracellular|UGT2B7|Relative expression",
@@ -27386,7 +27386,7 @@
       "Type": "Transporter",
       "Species": "Human",
       "Molecule": "ABCC3",
-      "Category": "Todor (2016), n=18 (NM)",
+      "Category": "Todor (2016), n=18 (EM)",
       "Parameters": [
         {
           "Path": "ABCC3|Reference concentration",
@@ -27722,7 +27722,7 @@
       "Type": "Enzyme",
       "Species": "Human",
       "Molecule": "DPYS",
-      "Category": "Todor (2016), n=18 (NM)",
+      "Category": "Todor (2016), n=18 (EM)",
       "Parameters": [
         {
           "Path": "DPYS|Reference concentration",
@@ -27842,7 +27842,7 @@
       "Type": "Enzyme",
       "Species": "Human",
       "Molecule": "UPB1",
-      "Category": "Todor (2016), n=18 (NM)",
+      "Category": "Todor (2016), n=18 (EM)",
       "Parameters": [
         {
           "Path": "Organism|Bone|Intracellular|UPB1|Relative expression",
@@ -27962,7 +27962,7 @@
       "Type": "Enzyme",
       "Species": "Human",
       "Molecule": "DPYD",
-      "Category": "Todor (2016), n=18 (NM)",
+      "Category": "Todor (2016), n=18 (EM)",
       "Parameters": [
         {
           "Path": "DPYD|Reference concentration",
@@ -28086,7 +28086,7 @@
       "Type": "Transporter",
       "Species": "Human",
       "Molecule": "ABCC4",
-      "Category": "Todor (2016), n=18 (NM)",
+      "Category": "Todor (2016), n=18 (EM)",
       "Parameters": [
         {
           "Path": "ABCC4|Reference concentration",
@@ -28422,7 +28422,7 @@
       "Type": "Transporter",
       "Species": "Human",
       "Molecule": "SLC22A7",
-      "Category": "Todor (2016), n=18 (NM)",
+      "Category": "Todor (2016), n=18 (EM)",
       "Parameters": [
         {
           "Path": "Organism|Bone|Intracellular|SLC22A7|Relative expression",
@@ -28758,7 +28758,7 @@
       "Type": "Transporter",
       "Species": "Human",
       "Molecule": "Liver_influx_gemfibrozil",
-      "Category": "Todor (2016), n=18 (NM)",
+      "Category": "Todor (2016), n=18 (EM)",
       "Parameters": [
         {
           "Path": "Liver_influx_gemfibrozil|Reference concentration",
@@ -29010,7 +29010,7 @@
       "Type": "Enzyme",
       "Species": "Human",
       "Molecule": "CYP2C19",
-      "Category": "Todor (2016), n=18 (NM)",
+      "Category": "Todor (2016), n=18 (EM)",
       "Parameters": [
         {
           "Path": "CYP2C19|Reference concentration",
@@ -40399,7 +40399,7 @@
       ]
     },
     {
-      "Name": "Todor (2016), n=18 (NM)",
+      "Name": "Todor (2016), n=18 (EM)",
       "Seed": 1730441296,
       "OriginData": {
         "CalculationMethods": [
@@ -40421,26 +40421,26 @@
         }
       ],
       "ExpressionProfiles": [
-        "CYP3A4|Human|Todor (2016), n=18 (NM)",
-        "AADAC|Human|Todor (2016), n=18 (NM)",
-        "CYP2D6|Human|Todor (2016), n=18 (NM)",
-        "MAOA|Human|Todor (2016), n=18 (NM)",
-        "ABCB1|Human|Todor (2016), n=18 (NM)",
-        "OATP1B1|Human|Todor (2016), n=18 (NM)",
-        "ATP1A2|Human|Todor (2016), n=18 (NM)",
-        "OCT2|Human|Todor (2016), n=18 (NM)",
-        "MATE2-K|Human|Todor (2016), n=18 (NM)",
-        "PON3|Human|Todor (2016), n=18 (NM)",
-        "CYP2C8|Human|Todor (2016), n=18 (NM)",
-        "UGT2B7|Human|Todor (2016), n=18 (NM)",
-        "ABCC3|Human|Todor (2016), n=18 (NM)",
-        "DPYS|Human|Todor (2016), n=18 (NM)",
-        "UPB1|Human|Todor (2016), n=18 (NM)",
-        "DPYD|Human|Todor (2016), n=18 (NM)",
-        "ABCC4|Human|Todor (2016), n=18 (NM)",
-        "SLC22A7|Human|Todor (2016), n=18 (NM)",
-        "Liver_influx_gemfibrozil|Human|Todor (2016), n=18 (NM)",
-        "CYP2C19|Human|Todor (2016), n=18 (NM)"
+        "CYP3A4|Human|Todor (2016), n=18 (EM)",
+        "AADAC|Human|Todor (2016), n=18 (EM)",
+        "CYP2D6|Human|Todor (2016), n=18 (EM)",
+        "MAOA|Human|Todor (2016), n=18 (EM)",
+        "ABCB1|Human|Todor (2016), n=18 (EM)",
+        "OATP1B1|Human|Todor (2016), n=18 (EM)",
+        "ATP1A2|Human|Todor (2016), n=18 (EM)",
+        "OCT2|Human|Todor (2016), n=18 (EM)",
+        "MATE2-K|Human|Todor (2016), n=18 (EM)",
+        "PON3|Human|Todor (2016), n=18 (EM)",
+        "CYP2C8|Human|Todor (2016), n=18 (EM)",
+        "UGT2B7|Human|Todor (2016), n=18 (EM)",
+        "ABCC3|Human|Todor (2016), n=18 (EM)",
+        "DPYS|Human|Todor (2016), n=18 (EM)",
+        "UPB1|Human|Todor (2016), n=18 (EM)",
+        "DPYD|Human|Todor (2016), n=18 (EM)",
+        "ABCC4|Human|Todor (2016), n=18 (EM)",
+        "SLC22A7|Human|Todor (2016), n=18 (EM)",
+        "Liver_influx_gemfibrozil|Human|Todor (2016), n=18 (EM)",
+        "CYP2C19|Human|Todor (2016), n=18 (EM)"
       ]
     },
     {
@@ -40679,7 +40679,7 @@
               "Unit": "Log Units",
               "ValueOrigin": {
                 "Source": "Publication",
-                "Description": "Literature value in, Swain 2012 [47]"
+                "Description": "Literature value in, Swain 2012"
               }
             }
           ]
@@ -40697,7 +40697,7 @@
               "ValueOrigin": {
                 "Source": "Publication",
                 "Method": "InVivo",
-                "Description": "Literature value in, Yu 2016 [56]"
+                "Description": "Literature value in, Yu 2016"
               }
             }
           ]
@@ -40729,7 +40729,7 @@
               "Unit": "mg/ml",
               "ValueOrigin": {
                 "Source": "Publication",
-                "Description": "Literature value in, Swain 2012 [47]"
+                "Description": "Literature value in, Swain 2012"
               }
             },
             {
@@ -40766,7 +40766,7 @@
           "Pka": 9.8,
           "ValueOrigin": {
             "Source": "Publication",
-            "Description": "Literature value in, Swain 2012 [47]"
+            "Description": "Literature value in, Swain 2012"
           }
         }
       ],
@@ -40796,7 +40796,7 @@
               "ValueOrigin": {
                 "Source": "Publication",
                 "Method": "InVitro",
-                "Description": "Literature value in, Ring et al. 2002 [39]"
+                "Description": "Literature value in, Ring et al. 2002"
               }
             },
             {
@@ -40836,7 +40836,7 @@
               "ValueOrigin": {
                 "Source": "Publication",
                 "Method": "InVitro",
-                "Description": "Same CYP2D6 Km as base model, Ring et al. 2002 [39]"
+                "Description": "Same CYP2D6 Km as base model, Ring et al. 2002"
               }
             }
           ]
@@ -40881,7 +40881,7 @@
               "ValueOrigin": {
                 "Source": "Publication",
                 "Method": "InVitro",
-                "Description": "Same CYP2D6 Km as base model, Ring et al. 2002 [39]"
+                "Description": "Same CYP2D6 Km as base model, Ring et al. 2002"
               }
             },
             {
@@ -40921,7 +40921,7 @@
               "ValueOrigin": {
                 "Source": "Publication",
                 "Method": "InVitro",
-                "Description": "Same CYP2D6 Km as base model, Ring et al. 2002 [39]"
+                "Description": "Same CYP2D6 Km as base model, Ring et al. 2002"
               }
             },
             {
@@ -40961,7 +40961,7 @@
               "ValueOrigin": {
                 "Source": "Publication",
                 "Method": "InVitro",
-                "Description": "Same CYP2D6 Km as base model, Ring et al. 2002 [39]"
+                "Description": "Same CYP2D6 Km as base model, Ring et al. 2002"
               }
             },
             {
@@ -41001,7 +41001,7 @@
               "ValueOrigin": {
                 "Source": "Publication",
                 "Method": "InVitro",
-                "Description": "Literature value in, Ring et al. 2002 [39]"
+                "Description": "Literature value in, Ring et al. 2002"
               }
             },
             {
@@ -41041,7 +41041,7 @@
               "ValueOrigin": {
                 "Source": "Publication",
                 "Method": "InVitro",
-                "Description": "Same CYP2D6 Km as base model, Ring et al. 2002 [39]"
+                "Description": "Same CYP2D6 Km as base model, Ring et al. 2002"
               }
             },
             {
@@ -41102,7 +41102,7 @@
           "Unit": "g/mol",
           "ValueOrigin": {
             "Source": "Publication",
-            "Description": "Literature value in, Zhong et al. 2013 [57]"
+            "Description": "Literature value in, Zhong et al. 2013"
           }
         }
       ]
@@ -42160,7 +42160,7 @@
               }
             }
           ],
-          "Name": "Belle 2002: atomoxetine, 20 mg, po, n=22 (EM)",
+          "Name": "Belle 2002: atomoxetine, 20 mg b.i.d., 9 doses, po, n=22 (EM)",
           "FontAndSize": {
             "Fonts": {
               "AxisSize": 10,
@@ -42741,10 +42741,10 @@
       ]
     },
     {
-      "Name": "Todor (2016) - atomoxetine, 25 mg, po, n=18 (NM)",
+      "Name": "Todor (2016) - atomoxetine, 25 mg, po, n=18 (EM)",
       "Model": "4Comp",
       "ObservedData": [
-        "Todor (2016) - atomoxetine, 25 mg, po, n=18 (NM), atomoxetine"
+        "Todor (2016) - atomoxetine, 25 mg, po, n=18 (EM), atomoxetine"
       ],
       "Solver": {},
       "OutputSchema": [
@@ -42781,7 +42781,7 @@
       "OutputSelections": [
         "Organism|PeripheralVenousBlood|Atomoxetine|Plasma (Peripheral Venous Blood)"
       ],
-      "Individual": "Todor (2016), n=18 (NM)",
+      "Individual": "Todor (2016), n=18 (EM)",
       "Compounds": [
         {
           "Name": "Atomoxetine",
@@ -42884,18 +42884,18 @@
           ],
           "Curves": [
             {
-              "Name": "Todor (2016) - atomoxetine, 25 mg, po, n=18 (NM)-Organism-PeripheralVenousBlood-Atomoxetine-Plasma (Peripheral Venous Blood)",
+              "Name": "Todor (2016) - atomoxetine, 25 mg, po, n=18 (EM)-Organism-PeripheralVenousBlood-Atomoxetine-Plasma (Peripheral Venous Blood)",
               "X": "Time",
-              "Y": "Todor (2016) - atomoxetine, 25 mg, po, n=18 (NM)|Organism|PeripheralVenousBlood|Atomoxetine|Plasma (Peripheral Venous Blood)",
+              "Y": "Todor (2016) - atomoxetine, 25 mg, po, n=18 (EM)|Organism|PeripheralVenousBlood|Atomoxetine|Plasma (Peripheral Venous Blood)",
               "CurveOptions": {
                 "Color": "#FF0000",
                 "LegendIndex": 1
               }
             },
             {
-              "Name": "Todor (2016) - atomoxetine, 25 mg, po, n=18 (NM), atomoxetine-Atomoxetine-[ng/mL]",
-              "X": "Todor (2016) - atomoxetine, 25 mg, po, n=18 (NM), atomoxetine|[h]",
-              "Y": "Todor (2016) - atomoxetine, 25 mg, po, n=18 (NM), atomoxetine|ObservedData|Peripheral Venous Blood|Plasma|Atomoxetine|[ng/mL]",
+              "Name": "Todor (2016) - atomoxetine, 25 mg, po, n=18 (EM), atomoxetine-Atomoxetine-[ng/mL]",
+              "X": "Todor (2016) - atomoxetine, 25 mg, po, n=18 (EM), atomoxetine|[h]",
+              "Y": "Todor (2016) - atomoxetine, 25 mg, po, n=18 (EM), atomoxetine|ObservedData|Peripheral Venous Blood|Plasma|Atomoxetine|[ng/mL]",
               "CurveOptions": {
                 "Color": "#FF0000",
                 "LegendIndex": 2,
@@ -42904,7 +42904,7 @@
               }
             }
           ],
-          "Name": "Todor 2016: atomoxetine, 25 mg, po, n=18 (NM)",
+          "Name": "Todor 2016: atomoxetine, 25 mg, po, n=18 (EM)",
           "FontAndSize": {
             "Fonts": {
               "AxisSize": 10,
@@ -42922,7 +42922,7 @@
             "BackColor": "#00FFFFFF",
             "DiagramBackColor": "#FFFFFF"
           },
-          "OriginText": "Atomoxetine-model\nTodor (2016) - atomoxetine, 25 mg, po, n=18 (NM)\n2026-05-18 10:13"
+          "OriginText": "Atomoxetine-model\nTodor (2016) - atomoxetine, 25 mg, po, n=18 (EM)\n2026-05-18 10:13"
         }
       ]
     },
@@ -43905,7 +43905,7 @@
               }
             }
           ],
-          "Name": "Sauer 2003: atomoxetine, 20 mg b.i.d., po, n=3 (PM)",
+          "Name": "Sauer 2003: atomoxetine, 20 mg b.i.d., 11 doses, po, n=3 (PM)",
           "FontAndSize": {
             "Fonts": {
               "AxisSize": 10,
@@ -44141,7 +44141,7 @@
               }
             }
           ],
-          "Name": "Sauer 2003: atomoxetine, 20 mg b.i.d., po, n=4 (EM)",
+          "Name": "Sauer 2003: atomoxetine, 20 mg b.i.d., 11 doses, po, n=4 (EM)",
           "FontAndSize": {
             "Fonts": {
               "AxisSize": 10,
@@ -45286,7 +45286,7 @@
       }
     },
     {
-      "Name": "Todor (2016) - atomoxetine, 25 mg, po, n=18 (NM), atomoxetine",
+      "Name": "Todor (2016) - atomoxetine, 25 mg, po, n=18 (EM), atomoxetine",
       "ExtendedProperties": [
         {
           "Name": "Molecule",
@@ -45316,7 +45316,7 @@
             {
               "Name": "[ng/mL](1)",
               "QuantityInfo": {
-                "Path": "Todor (2016) - atomoxetine, 25 mg, po, n=18 (NM), atomoxetine|ObservedData|Peripheral Venous Blood|Plasma|Atomoxetine|[ng/mL](1)"
+                "Path": "Todor (2016) - atomoxetine, 25 mg, po, n=18 (EM), atomoxetine|ObservedData|Peripheral Venous Blood|Plasma|Atomoxetine|[ng/mL](1)"
               },
               "DataInfo": {
                 "Origin": "ObservationAuxiliary",
@@ -45342,7 +45342,7 @@
             }
           ],
           "QuantityInfo": {
-            "Path": "Todor (2016) - atomoxetine, 25 mg, po, n=18 (NM), atomoxetine|ObservedData|Peripheral Venous Blood|Plasma|Atomoxetine|[ng/mL]"
+            "Path": "Todor (2016) - atomoxetine, 25 mg, po, n=18 (EM), atomoxetine|ObservedData|Peripheral Venous Blood|Plasma|Atomoxetine|[ng/mL]"
           },
           "DataInfo": {
             "Origin": "Observation",
@@ -45370,7 +45370,7 @@
       "BaseGrid": {
         "Name": "[h]",
         "QuantityInfo": {
-          "Path": "Todor (2016) - atomoxetine, 25 mg, po, n=18 (NM), atomoxetine|[h]",
+          "Path": "Todor (2016) - atomoxetine, 25 mg, po, n=18 (EM), atomoxetine|[h]",
           "Type": "Time"
         },
         "DataInfo": {
@@ -45943,7 +45943,7 @@
         "Byeon (2015) - atomoxetine, 40 mg (dose normalized), po, n=18 (AS=0.5), atomoxetine",
         "Byeon (2015) - atomoxetine, 40 mg (dose normalized), po, n=22 (AS=1.25), atomoxetine",
         "Todor (2016) - atomoxetine, 25 mg, po, n=2 (PM), atomoxetine",
-        "Todor (2016) - atomoxetine, 25 mg, po, n=18 (NM), atomoxetine",
+        "Todor (2016) - atomoxetine, 25 mg, po, n=18 (EM), atomoxetine",
         "Nakano (2016) - atomoxetine, 50 mg, po solution, n=42 (EM), atomoxetine",
         "Nakano (2016) - atomoxetine, 50 mg, po capsules, n=42 (EM), atomoxetine",
         "Belle (2002) - atomoxetine, 20 mg b.i.d., 9 doses, po, n=22 (EM), atomoxetine",
@@ -45960,7 +45960,7 @@
         "Byeon (2015) - atomoxetine, 40 mg (dose normalized), po, n=18 (AS=0.5)",
         "Byeon (2015) - atomoxetine, 40 mg (dose normalized), po, n=22 (AS=1.25)",
         "Kim (2018) - atomoxetine, 20 mg, po, n=8 (AS=0.5)",
-        "Todor (2016) - atomoxetine, 25 mg, po, n=18 (NM)",
+        "Todor (2016) - atomoxetine, 25 mg, po, n=18 (EM)",
         "Todor (2016) - atomoxetine, 25 mg, po, n=2 (PM)"
       ]
     },

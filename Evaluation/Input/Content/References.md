@@ -29,3 +29,5 @@
 [15] Sauer JM, Long AJ, Ring B, Gillespie JS, Sanburn NP, DeSante KA, et al. Atomoxetine hydrochloride: Clinical drug-drug interaction prediction and outcome. Journal of Pharmacology and Experimental Therapeutics. 2004;308:410-418. doi: [10.1124/jpet.103.058727](https://doi.org/10.1124/jpet.103.058727).
 
 [16] Rüdesheim S, Loer HLH, Feick D, Marok FZ, Fuhr LM, Selzer D, et al. A Comprehensive CYP2D6 Drug-Drug-Gene Interaction Network for Application in Precision Dosing and Drug Development. Clinical Pharmacology & Therapeutics. 2025;117:1718-1731. doi: [10.1002/cpt.3604](https://doi.org/10.1002/cpt.3604).
+
+[17] Moore C, Bourque MS, Halman A, Agúndez JAG, Prows CA, Hikino K, et al. Clinical Pharmacogenetics Implementation Consortium (CPIC) Guideline for CYP2D6 Genotype and Use of 5-HT<sub>3</sub> Receptor Antagonists: 2026 Update. Clinical Pharmacology & Therapeutics. 2026;120:387-393. doi: [10.1002/cpt.70291](https://doi.org/10.1002/cpt.70291).
