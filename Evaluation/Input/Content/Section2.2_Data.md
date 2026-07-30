@@ -5,7 +5,7 @@ The table below summarizes the drug-dependent inputs documented for the atomoxet
 | Parameter | Unit | Value | Source | Description |
 | --- | ---: | ---: | --- | --- |
 | MW | g/mol | 255.35 | [Zhong 2013](#5) | Molecular weight of atomoxetine free base. |
-| pK<sub>a</sub> | - | 9.80<sup>a</sup> | [Swain 2012](#5) | Acid dissociation constant. |
+| pK<sub>a</sub>,base | - | 9.80 | [Swain 2012](#5) | pKa of a basic ionization site. |
 | Solubility | mg/mL | 10.29 | [Swain 2012](#5) | Aqueous solubility at pH 7.4. |
 | f<sub>u</sub> | % | 1.30 | [Yu 2016](#5) | Fraction unbound in plasma. |
 | K<sub>m,CYP2D6</sub> | µmol/L | 2.30 | [Ring 2002](#5) | Michaelis constant for CYP2D6-mediated metabolism. |
@@ -15,15 +15,13 @@ The table below summarizes the drug-dependent inputs documented for the atomoxet
 | k<sub>cat,CYP2C19</sub> | 1/min | 165.23 | Optimized; [Ring 2002](#5) | Catalytic rate constant for CYP2C19-mediated metabolism. |
 | logP | - | 3.49 | Optimized | Octanol-water partition coefficient of the neutral species. |
 | GFR fraction | - | 1.00 | Assumed | Fraction used to scale passive glomerular filtration. |
-| Partition coefficients | - | Diverse | Calculated | Tissue-to-plasma partition coefficients calculated with the Berezhkovskiy method. |
+| Partition coefficients | - | Berezhkovskiy | Calculated | Tissue-to-plasma partition coefficients calculated with the Berezhkovskiy method. |
 | Cellular permeabilities | cm/min | 0.32 | Calculated | Cellular permeabilities calculated with the PK-Sim Standard method. |
 | P<sub>int</sub> | cm/min | 5.23E-05 | Optimized | Specific transcellular intestinal permeability. |
 | K<sub>i,CYP2D6</sub> | µmol/L | 3.60 | [Sauer 2004](#5) | Competitive inhibition constant for CYP2D6. |
 | K<sub>i,CYP3A4</sub> | µmol/L | 34.00 | [Sauer 2004](#5) | Competitive inhibition constant for CYP3A4. |
 
 **Table 1:**<a name="table-1"></a> Drug-dependent physicochemical, distribution, metabolism, elimination, and inhibition parameters used in the final atomoxetine model.
-
-<sup>a</sup> Basic.
 
 The CYP2D6 activity-score-specific catalytic rate constants used in the model are listed below.
 
