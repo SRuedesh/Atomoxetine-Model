@@ -4,7 +4,7 @@ The applied activity and variability of plasma proteins and active processes int
 
 The atomoxetine model was developed as a single-parent compound model for oral atomoxetine pharmacokinetics. The model by [Rüdesheim 2022](#5) described CYP2D6 activity score-dependent metabolism by representing CYP2D6 metabolic capacity with activity-score-dependent k<sub>cat</sub> values. CYP2D6-independent clearance was represented through a CYP2C19 pathway and passive renal filtration.
 
-Model-building studies included oral solution, capsule, and tablet administration. Model-verification studies included CYP2D6 poor-, normal-, intermediate-, and higher-activity groups.
+Model-building studies included oral solution and capsule administration. Model-verification studies included CYP2D6 poor-metabolizer, intermediate-metabolizer (AS = 0.5 and AS = 1), normal-metabolizer (AS = 1.25), and extensive-metabolizer groups.
 
 The represented processes are CYP2D6-mediated metabolism, CYP2C19-mediated metabolism, plasma protein binding, and passive renal filtration. Atomoxetine metabolites were not explicitly implemented because only limited plasma concentration-time profiles for 4-hydroxyatomoxetine were available. CYP2C19-mediated metabolism was included based on *in vitro* data.
 

@@ -2,15 +2,15 @@
 
 The model includes oral solution, capsule, and tablet applications. Oral absorption was described using PK-Sim permeability and formulation settings. The `Specific intestinal permeability` was optimized to 5.23E-05 cm/min based on oral concentration-time data.
 
-No separate dissolution model was used. Solution and solid formulations were represented by their application and formulation settings.
+Capsule and tablet doses were represented by one solid formulation with a Lint80 dissolution function (80% dissolved at 5 min, no lag time). Solution doses were represented as dissolved drug.
 
 ### Distribution
 
-Atomoxetine is highly bound to plasma proteins. A fraction unbound of 1.30% was used as summarized in Section 2.2.1.
+Atomoxetine is highly bound to plasma proteins. A fraction unbound of 1.30% was used as listed in [Table 1](#table-1).
 
 Lipophilicity was optimized to logP 3.49. Partition coefficients were calculated with the Berezhkovskiy method. Cellular permeabilities were calculated with the PK-Sim Standard method.
 
-Distribution was not stratified by CYP2D6 phenotype. Differences between poor, normal, and higher-activity groups are represented through metabolic capacity, while the same compound distribution assumptions are applied to all adult simulations.
+Distribution was not stratified by CYP2D6 phenotype. Differences between the evaluated CYP2D6 phenotype and activity-score groups are represented through metabolic capacity, while the same compound distribution assumptions are applied to all adult simulations.
 
 ### Metabolism and elimination
 
@@ -33,12 +33,12 @@ Passive renal filtration is represented with a `GFR fraction` of 1.
 
 ### DDI parameters
 
-The snapshot contains competitive inhibition parameters for parent atomoxetine in a perpetrator role. This compound evaluation report does not verify these parameters with sensitive CYP2D6 or CYP3A4 substrates and does not independently qualify atomoxetine perpetrator simulations. The CYP2D6 interaction network evaluates applicable DDI and DDGI scenarios separately ([Rüdesheim 2025](#5)).
+The model contains competitive inhibition parameters for parent atomoxetine in a perpetrator role. This compound evaluation report does not verify these parameters with sensitive CYP2D6 or CYP3A4 substrates and does not independently qualify atomoxetine perpetrator simulations. The CYP2D6 interaction network evaluates applicable DDI and DDGI scenarios separately ([Rüdesheim 2025](#5)).
 
 #### CYP2D6 inhibition
 
-Competitive inhibition of CYP2D6 is represented with a K<sub>i</sub> of 3.60 µmol/L. The value was adopted from [Sauer 2004](#5) and is documented for the published atomoxetine perpetrator model in Table S11 of the CYP2D6 network supplement ([Rüdesheim 2025](#5)).
+Competitive inhibition of CYP2D6 is represented with a K<sub>i</sub> of 3.60 µmol/L. The value was adopted from [Sauer 2004](#5) and is documented for the published atomoxetine perpetrator model ([Rüdesheim 2025](#5)).
 
 #### CYP3A4 inhibition
 
-Competitive inhibition of CYP3A4 is represented with a K<sub>i</sub> of 34.00 µmol/L. The value was adopted from [Sauer 2004](#5) and is documented in Table S11 of the CYP2D6 network supplement ([Rüdesheim 2025](#5)). Only inhibition by parent atomoxetine is represented. Contributions from atomoxetine metabolites are outside the scope of this parent-only model.
+Competitive inhibition of CYP3A4 is represented with a K<sub>i</sub> of 34.00 µmol/L. The value was adopted from [Sauer 2004](#5) and is documented in [Rüdesheim 2025](#5). Only inhibition by parent atomoxetine is represented. Contributions from atomoxetine metabolites are outside the scope of this parent-only model.

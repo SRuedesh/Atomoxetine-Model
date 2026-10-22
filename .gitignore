@@ -4,3 +4,4 @@ Evaluation/run_workflow_local.R
 justfile
 /dictionary.dic
 Evaluation/review/
+/Quinidine-Model.pksim5

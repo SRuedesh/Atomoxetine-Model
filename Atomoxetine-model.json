@@ -40659,17 +40659,6 @@
           ]
         },
         {
-          "Name": "Mohan 2015",
-          "IsDefault": false,
-          "Parameters": [
-            {
-              "Name": "Lipophilicity",
-              "Value": 3.65,
-              "Unit": "Log Units"
-            }
-          ]
-        },
-        {
           "Name": "ChemAxon",
           "IsDefault": false,
           "Parameters": [
@@ -40698,22 +40687,6 @@
                 "Source": "Publication",
                 "Method": "InVivo",
                 "Description": "Literature value in, Yu 2016"
-              }
-            }
-          ]
-        },
-        {
-          "Name": "Calculated",
-          "IsDefault": false,
-          "Species": "Human",
-          "Parameters": [
-            {
-              "Name": "Fraction unbound (plasma, reference value)",
-              "Value": 3.9,
-              "Unit": "%",
-              "ValueOrigin": {
-                "Source": "Unknown",
-                "Description": "Watanabe 2018"
               }
             }
           ]
@@ -40929,9 +40902,9 @@
               "Value": 16.79,
               "Unit": "1/min",
               "ValueOrigin": {
-                "Source": "Other",
-                "Method": "ManualFit",
-                "Description": "CYP2D6 activity-score scaling"
+                "Source": "Publication",
+                "Method": "Other",
+                "Description": "Calculated, Rüdesheim 2022"
               }
             }
           ]
@@ -40969,9 +40942,9 @@
               "Value": 53.44,
               "Unit": "1/min",
               "ValueOrigin": {
-                "Source": "Other",
-                "Method": "ManualFit",
-                "Description": "CYP2D6 activity-score scaling"
+                "Source": "Publication",
+                "Method": "Other",
+                "Description": "Calculated, Rüdesheim 2022"
               }
             }
           ]
@@ -41049,9 +41022,9 @@
               "Value": 39.7,
               "Unit": "1/min",
               "ValueOrigin": {
-                "Source": "Other",
-                "Method": "ManualFit",
-                "Description": "CYP2D6 activity-score scaling"
+                "Source": "Publication",
+                "Method": "Other",
+                "Description": "Calculated, Rüdesheim 2022"
               }
             }
           ]
@@ -41725,7 +41698,7 @@
           ],
           "Curves": [
             {
-              "Name": "Cui (2007) - atomoxetine, 40 mg, po, n=16 (AS=1)-Organism-PeripheralVenousBlood-Atomoxetine-Plasma (Peripheral Venous Blood)",
+              "Name": "Simulated atomoxetine",
               "X": "Time",
               "Y": "Cui (2007) - atomoxetine, 40 mg, po, n=16 (AS=1)|Organism|PeripheralVenousBlood|Atomoxetine|Plasma (Peripheral Venous Blood)",
               "CurveOptions": {
@@ -41734,7 +41707,7 @@
               }
             },
             {
-              "Name": "Cui (2007) - atomoxetine, 40 mg, po, n=16 (AS=1), atomoxetine-Atomoxetine-Measurement",
+              "Name": "Observed atomoxetine",
               "X": "Cui (2007) - atomoxetine, 40 mg, po, n=16 (AS=1), atomoxetine|Time",
               "Y": "Cui (2007) - atomoxetine, 40 mg, po, n=16 (AS=1), atomoxetine|ObservedData|||Atomoxetine|Measurement",
               "CurveOptions": {
@@ -41911,7 +41884,7 @@
           ],
           "Curves": [
             {
-              "Name": "Byeon (2015) - atomoxetine, 40 mg (dose normalized), n=22 (AS=2)-Organism-PeripheralVenousBlood-Atomoxetine-Plasma (Peripheral Venous Blood)",
+              "Name": "Simulated atomoxetine",
               "X": "Time",
               "Y": "Byeon (2015) - atomoxetine, 40 mg (dose normalized), n=22 (AS=2)|Organism|PeripheralVenousBlood|Atomoxetine|Plasma (Peripheral Venous Blood)",
               "CurveOptions": {
@@ -41920,7 +41893,7 @@
               }
             },
             {
-              "Name": "Byeon (2015) - atomoxetine, 40 mg (dose normalized), n=22 (AS=2), atomoxetine-Atomoxetine-[ng/mL]",
+              "Name": "Observed atomoxetine",
               "X": "Byeon (2015) - atomoxetine, 40 mg (dose normalized), n=22 (AS=2), atomoxetine|[h]",
               "Y": "Byeon (2015) - atomoxetine, 40 mg (dose normalized), n=22 (AS=2), atomoxetine|ObservedData|Peripheral Venous Blood|Plasma|Atomoxetine|[ng/mL]",
               "CurveOptions": {
@@ -42140,7 +42113,7 @@
           ],
           "Curves": [
             {
-              "Name": "Belle (2002) - atomoxetine, 20 mg b.i.d., 9 doses, po, n=22 (EM)-Organism-PeripheralVenousBlood-Atomoxetine-Plasma (Peripheral Venous Blood)",
+              "Name": "Simulated atomoxetine",
               "X": "Time",
               "Y": "Belle (2002) - atomoxetine, 20 mg b.i.d., 9 doses, po, n=22 (EM)|Organism|PeripheralVenousBlood|Atomoxetine|Plasma (Peripheral Venous Blood)",
               "CurveOptions": {
@@ -42149,7 +42122,7 @@
               }
             },
             {
-              "Name": "Belle (2002) - atomoxetine, 20 mg b.i.d., 9 doses, po, n=22 (EM), atomoxetine-Atomoxetine-Measurement",
+              "Name": "Observed atomoxetine",
               "X": "Belle (2002) - atomoxetine, 20 mg b.i.d., 9 doses, po, n=22 (EM), atomoxetine|Time",
               "Y": "Belle (2002) - atomoxetine, 20 mg b.i.d., 9 doses, po, n=22 (EM), atomoxetine|ObservedData|||Atomoxetine|Measurement",
               "CurveOptions": {
@@ -42326,7 +42299,7 @@
           ],
           "Curves": [
             {
-              "Name": "Byeon (2015) - atomoxetine, 40 mg (dose normalized), po, n=18 (AS=0.5)-Organism-PeripheralVenousBlood-Atomoxetine-Plasma (Peripheral Venous Blood)",
+              "Name": "Simulated atomoxetine",
               "X": "Time",
               "Y": "Byeon (2015) - atomoxetine, 40 mg (dose normalized), po, n=18 (AS=0.5)|Organism|PeripheralVenousBlood|Atomoxetine|Plasma (Peripheral Venous Blood)",
               "CurveOptions": {
@@ -42335,7 +42308,7 @@
               }
             },
             {
-              "Name": "Byeon (2015) - atomoxetine, 40 mg (dose normalized), po, n=18 (AS=0.5), atomoxetine-Atomoxetine-[ng/mL]",
+              "Name": "Observed atomoxetine",
               "X": "Byeon (2015) - atomoxetine, 40 mg (dose normalized), po, n=18 (AS=0.5), atomoxetine|[h]",
               "Y": "Byeon (2015) - atomoxetine, 40 mg (dose normalized), po, n=18 (AS=0.5), atomoxetine|ObservedData|Peripheral Venous Blood|Plasma|Atomoxetine|[ng/mL]",
               "CurveOptions": {
@@ -42512,7 +42485,7 @@
           ],
           "Curves": [
             {
-              "Name": "Byeon (2015) - atomoxetine, 40 mg (dose normalized), po, n=22 (AS=1.25)-Organism-PeripheralVenousBlood-Atomoxetine-Plasma (Peripheral Venous Blood)",
+              "Name": "Simulated atomoxetine",
               "X": "Time",
               "Y": "Byeon (2015) - atomoxetine, 40 mg (dose normalized), po, n=22 (AS=1.25)|Organism|PeripheralVenousBlood|Atomoxetine|Plasma (Peripheral Venous Blood)",
               "CurveOptions": {
@@ -42521,7 +42494,7 @@
               }
             },
             {
-              "Name": "Byeon (2015) - atomoxetine, 40 mg (dose normalized), po, n=22 (AS=1.25), atomoxetine-Atomoxetine-[ng/mL]",
+              "Name": "Observed atomoxetine",
               "X": "Byeon (2015) - atomoxetine, 40 mg (dose normalized), po, n=22 (AS=1.25), atomoxetine|[h]",
               "Y": "Byeon (2015) - atomoxetine, 40 mg (dose normalized), po, n=22 (AS=1.25), atomoxetine|ObservedData|Peripheral Venous Blood|Plasma|Atomoxetine|[ng/mL]",
               "CurveOptions": {
@@ -42698,7 +42671,7 @@
           ],
           "Curves": [
             {
-              "Name": "Kim (2018) - atomoxetine, 20 mg, po, n=8 (AS=0.5)-Organism-PeripheralVenousBlood-Atomoxetine-Plasma (Peripheral Venous Blood)",
+              "Name": "Simulated atomoxetine",
               "X": "Time",
               "Y": "Kim (2018) - atomoxetine, 20 mg, po, n=8 (AS=0.5)|Organism|PeripheralVenousBlood|Atomoxetine|Plasma (Peripheral Venous Blood)",
               "CurveOptions": {
@@ -42707,7 +42680,7 @@
               }
             },
             {
-              "Name": "Kim (2018) - atomoxetine, 20 mg, po, n=8 (AS=0.5), atomoxetine-Atomoxetine-[ng/mL]",
+              "Name": "Observed atomoxetine",
               "X": "Kim (2018) - atomoxetine, 20 mg, po, n=8 (AS=0.5), atomoxetine|[h]",
               "Y": "Kim (2018) - atomoxetine, 20 mg, po, n=8 (AS=0.5), atomoxetine|ObservedData|Peripheral Venous Blood|Plasma|Atomoxetine|[ng/mL]",
               "CurveOptions": {
@@ -42884,7 +42857,7 @@
           ],
           "Curves": [
             {
-              "Name": "Todor (2016) - atomoxetine, 25 mg, po, n=18 (EM)-Organism-PeripheralVenousBlood-Atomoxetine-Plasma (Peripheral Venous Blood)",
+              "Name": "Simulated atomoxetine",
               "X": "Time",
               "Y": "Todor (2016) - atomoxetine, 25 mg, po, n=18 (EM)|Organism|PeripheralVenousBlood|Atomoxetine|Plasma (Peripheral Venous Blood)",
               "CurveOptions": {
@@ -42893,7 +42866,7 @@
               }
             },
             {
-              "Name": "Todor (2016) - atomoxetine, 25 mg, po, n=18 (EM), atomoxetine-Atomoxetine-[ng/mL]",
+              "Name": "Observed atomoxetine",
               "X": "Todor (2016) - atomoxetine, 25 mg, po, n=18 (EM), atomoxetine|[h]",
               "Y": "Todor (2016) - atomoxetine, 25 mg, po, n=18 (EM), atomoxetine|ObservedData|Peripheral Venous Blood|Plasma|Atomoxetine|[ng/mL]",
               "CurveOptions": {
@@ -43070,7 +43043,7 @@
           ],
           "Curves": [
             {
-              "Name": "Todor (2016) - atomoxetine, 25 mg, po, n=2 (PM)-Organism-PeripheralVenousBlood-Atomoxetine-Plasma (Peripheral Venous Blood)",
+              "Name": "Simulated atomoxetine",
               "X": "Time",
               "Y": "Todor (2016) - atomoxetine, 25 mg, po, n=2 (PM)|Organism|PeripheralVenousBlood|Atomoxetine|Plasma (Peripheral Venous Blood)",
               "CurveOptions": {
@@ -43079,7 +43052,7 @@
               }
             },
             {
-              "Name": "Todor (2016) - atomoxetine, 25 mg, po, n=2 (PM), atomoxetine-Atomoxetine-[ng/mL]",
+              "Name": "Observed atomoxetine",
               "X": "Todor (2016) - atomoxetine, 25 mg, po, n=2 (PM), atomoxetine|[h]",
               "Y": "Todor (2016) - atomoxetine, 25 mg, po, n=2 (PM), atomoxetine|ObservedData|Peripheral Venous Blood|Plasma|Atomoxetine|[ng/mL]",
               "CurveOptions": {
@@ -43272,7 +43245,7 @@
           ],
           "Curves": [
             {
-              "Name": "Kim (2018) - atomoxetine, 20 mg, po, n=11 (AS=2)-Organism-PeripheralVenousBlood-Atomoxetine-Plasma (Peripheral Venous Blood)",
+              "Name": "Simulated atomoxetine",
               "X": "Time",
               "Y": "Kim (2018) - atomoxetine, 20 mg, po, n=11 (AS=2)|Organism|PeripheralVenousBlood|Atomoxetine|Plasma (Peripheral Venous Blood)",
               "CurveOptions": {
@@ -43281,7 +43254,7 @@
               }
             },
             {
-              "Name": "Kim (2018) - atomoxetine, 20 mg, po, n=11 (AS=2), atomoxetine-Atomoxetine-[ng/mL]",
+              "Name": "Observed atomoxetine",
               "X": "Kim (2018) - atomoxetine, 20 mg, po, n=11 (AS=2), atomoxetine|[h]",
               "Y": "Kim (2018) - atomoxetine, 20 mg, po, n=11 (AS=2), atomoxetine|ObservedData|Peripheral Venous Blood|Plasma|Atomoxetine|[ng/mL]",
               "CurveOptions": {
@@ -43463,7 +43436,7 @@
           ],
           "Curves": [
             {
-              "Name": "Nakano (2016) - atomoxetine, 50 mg, po capsules, n=42 (EM)-Organism-PeripheralVenousBlood-Atomoxetine-Plasma (Peripheral Venous Blood)",
+              "Name": "Simulated atomoxetine",
               "X": "Time",
               "Y": "Nakano (2016) - atomoxetine, 50 mg, po capsules, n=42 (EM)|Organism|PeripheralVenousBlood|Atomoxetine|Plasma (Peripheral Venous Blood)",
               "CurveOptions": {
@@ -43472,7 +43445,7 @@
               }
             },
             {
-              "Name": "Nakano (2016) - atomoxetine, 50 mg, po capsules, n=42 (EM), atomoxetine-Atomoxetine-[ng/mL]",
+              "Name": "Observed atomoxetine",
               "X": "Nakano (2016) - atomoxetine, 50 mg, po capsules, n=42 (EM), atomoxetine|[h]",
               "Y": "Nakano (2016) - atomoxetine, 50 mg, po capsules, n=42 (EM), atomoxetine|ObservedData|Peripheral Venous Blood|Plasma|Atomoxetine|[ng/mL]",
               "CurveOptions": {
@@ -43649,7 +43622,7 @@
           ],
           "Curves": [
             {
-              "Name": "Nakano (2016) - atomoxetine, 50 mg, po solution, n=42 (EM)-Organism-PeripheralVenousBlood-Atomoxetine-Plasma (Peripheral Venous Blood)",
+              "Name": "Simulated atomoxetine",
               "X": "Time",
               "Y": "Nakano (2016) - atomoxetine, 50 mg, po solution, n=42 (EM)|Organism|PeripheralVenousBlood|Atomoxetine|Plasma (Peripheral Venous Blood)",
               "CurveOptions": {
@@ -43658,7 +43631,7 @@
               }
             },
             {
-              "Name": "Nakano (2016) - atomoxetine, 50 mg, po solution, n=42 (EM), atomoxetine-Atomoxetine-[ng/mL]",
+              "Name": "Observed atomoxetine",
               "X": "Nakano (2016) - atomoxetine, 50 mg, po solution, n=42 (EM), atomoxetine|[h]",
               "Y": "Nakano (2016) - atomoxetine, 50 mg, po solution, n=42 (EM), atomoxetine|ObservedData|Peripheral Venous Blood|Plasma|Atomoxetine|[ng/mL]",
               "CurveOptions": {
@@ -43885,7 +43858,7 @@
           ],
           "Curves": [
             {
-              "Name": "Sauer (2003) - atomoxetine, 20 mg b.i.d., po, n=3 (PM)-Organism-PeripheralVenousBlood-Atomoxetine-Plasma (Peripheral Venous Blood)",
+              "Name": "Simulated atomoxetine",
               "X": "Time",
               "Y": "Sauer (2003) - atomoxetine, 20 mg b.i.d., po, n=3 (PM)|Organism|PeripheralVenousBlood|Atomoxetine|Plasma (Peripheral Venous Blood)",
               "CurveOptions": {
@@ -43894,7 +43867,7 @@
               }
             },
             {
-              "Name": "Sauer (2003) - atomoxetine, 20 mg b.i.d., po, n=3 (PM), atomoxetine-Atomoxetine-[ng/mL]",
+              "Name": "Observed atomoxetine",
               "X": "Sauer (2003) - atomoxetine, 20 mg b.i.d., po, n=3 (PM), atomoxetine|[h]",
               "Y": "Sauer (2003) - atomoxetine, 20 mg b.i.d., po, n=3 (PM), atomoxetine|ObservedData|Peripheral Venous Blood|Plasma|Atomoxetine|[ng/mL]",
               "CurveOptions": {
@@ -44121,7 +44094,7 @@
           ],
           "Curves": [
             {
-              "Name": "Sauer (2003) - atomoxetine, 20 mg b.i.d., po, n=4 (EM)-Organism-PeripheralVenousBlood-Atomoxetine-Plasma (Peripheral Venous Blood)",
+              "Name": "Simulated atomoxetine",
               "X": "Time",
               "Y": "Sauer (2003) - atomoxetine, 20 mg b.i.d., po, n=4 (EM)|Organism|PeripheralVenousBlood|Atomoxetine|Plasma (Peripheral Venous Blood)",
               "CurveOptions": {
@@ -44130,7 +44103,7 @@
               }
             },
             {
-              "Name": "Sauer (2003) - atomoxetine, 20 mg b.i.d., po, n=4 (EM), atomoxetine-Atomoxetine-[ng/mL]",
+              "Name": "Observed atomoxetine",
               "X": "Sauer (2003) - atomoxetine, 20 mg b.i.d., po, n=4 (EM), atomoxetine|[h]",
               "Y": "Sauer (2003) - atomoxetine, 20 mg b.i.d., po, n=4 (EM), atomoxetine|ObservedData|Peripheral Venous Blood|Plasma|Atomoxetine|[ng/mL]",
               "CurveOptions": {
@@ -44352,7 +44325,7 @@
           ],
           "Curves": [
             {
-              "Name": "Cui (2007) - atomoxetine, 80 mg, po, n=16 (AS=1)-Organism-PeripheralVenousBlood-Atomoxetine-Plasma (Peripheral Venous Blood)",
+              "Name": "Simulated atomoxetine",
               "X": "Time",
               "Y": "Cui (2007) - atomoxetine, 80 mg, po, n=16 (AS=1)|Organism|PeripheralVenousBlood|Atomoxetine|Plasma (Peripheral Venous Blood)",
               "CurveOptions": {
@@ -44361,7 +44334,7 @@
               }
             },
             {
-              "Name": "Cui (2007) - atomoxetine, 80 mg, po, n=16 (AS=1), atomoxetine-Atomoxetine-Measurement",
+              "Name": "Observed atomoxetine",
               "X": "Cui (2007) - atomoxetine, 80 mg, po, n=16 (AS=1), atomoxetine|Time",
               "Y": "Cui (2007) - atomoxetine, 80 mg, po, n=16 (AS=1), atomoxetine|ObservedData|||Atomoxetine|Measurement",
               "CurveOptions": {
@@ -44418,6 +44391,11 @@
           "Name": "Compartment",
           "Value": "Plasma",
           "Type": "String"
+        },
+        {
+          "Name": "N",
+          "Value": 4,
+          "Type": "Double"
         }
       ],
       "Columns": [
@@ -44528,6 +44506,11 @@
           "Name": "Compartment",
           "Value": "Plasma",
           "Type": "String"
+        },
+        {
+          "Name": "N",
+          "Value": 3,
+          "Type": "Double"
         }
       ],
       "Columns": [
@@ -44650,6 +44633,11 @@
           "Name": "Compartment",
           "Value": "Plasma",
           "Type": "String"
+        },
+        {
+          "Name": "N",
+          "Value": 8,
+          "Type": "Double"
         }
       ],
       "Columns": [
@@ -44760,6 +44748,11 @@
           "Name": "Compartment",
           "Value": "Plasma",
           "Type": "String"
+        },
+        {
+          "Name": "N",
+          "Value": 11,
+          "Type": "Double"
         }
       ],
       "Columns": [
@@ -44867,6 +44860,11 @@
           "Name": "Compartment",
           "Value": "Plasma",
           "Type": "String"
+        },
+        {
+          "Name": "N",
+          "Value": 22,
+          "Type": "Double"
         }
       ],
       "Columns": [
@@ -44974,6 +44972,11 @@
           "Name": "Compartment",
           "Value": "Plasma",
           "Type": "String"
+        },
+        {
+          "Name": "N",
+          "Value": 18,
+          "Type": "Double"
         }
       ],
       "Columns": [
@@ -45084,6 +45087,11 @@
           "Name": "Compartment",
           "Value": "Plasma",
           "Type": "String"
+        },
+        {
+          "Name": "N",
+          "Value": 22,
+          "Type": "Double"
         }
       ],
       "Columns": [
@@ -45191,6 +45199,11 @@
           "Name": "Compartment",
           "Value": "Plasma",
           "Type": "String"
+        },
+        {
+          "Name": "N",
+          "Value": 2,
+          "Type": "Double"
         }
       ],
       "Columns": [
@@ -45307,6 +45320,11 @@
           "Name": "Compartment",
           "Value": "Plasma",
           "Type": "String"
+        },
+        {
+          "Name": "N",
+          "Value": 18,
+          "Type": "Double"
         }
       ],
       "Columns": [
@@ -45417,6 +45435,11 @@
           "Name": "Compartment",
           "Value": "Plasma",
           "Type": "String"
+        },
+        {
+          "Name": "N",
+          "Value": 42,
+          "Type": "Double"
         }
       ],
       "Columns": [
@@ -45527,6 +45550,11 @@
           "Name": "Compartment",
           "Value": "Plasma",
           "Type": "String"
+        },
+        {
+          "Name": "N",
+          "Value": 42,
+          "Type": "Double"
         }
       ],
       "Columns": [
@@ -45622,6 +45650,26 @@
           "Name": "Molecule",
           "Value": "Atomoxetine",
           "Type": "String"
+        },
+        {
+          "Name": "Species",
+          "Value": "Human",
+          "Type": "String"
+        },
+        {
+          "Name": "Organ",
+          "Value": "Peripheral Venous Blood",
+          "Type": "String"
+        },
+        {
+          "Name": "Compartment",
+          "Value": "Plasma",
+          "Type": "String"
+        },
+        {
+          "Name": "N",
+          "Value": 22,
+          "Type": "Double"
         }
       ],
       "Columns": [
@@ -45732,6 +45780,11 @@
           "Name": "Compartment",
           "Value": "Plasma",
           "Type": "String"
+        },
+        {
+          "Name": "N",
+          "Value": 16,
+          "Type": "Double"
         }
       ],
       "Columns": [
@@ -45842,6 +45895,11 @@
           "Name": "Compartment",
           "Value": "Plasma",
           "Type": "String"
+        },
+        {
+          "Name": "N",
+          "Value": 16,
+          "Type": "Double"
         }
       ],
       "Columns": [
@@ -45961,20 +46019,20 @@
         "Byeon (2015) - atomoxetine, 40 mg (dose normalized), po, n=22 (AS=1.25)",
         "Kim (2018) - atomoxetine, 20 mg, po, n=8 (AS=0.5)",
         "Todor (2016) - atomoxetine, 25 mg, po, n=18 (EM)",
-        "Todor (2016) - atomoxetine, 25 mg, po, n=2 (PM)"
+        "Todor (2016) - atomoxetine, 25 mg, po, n=2 (PM)",
+        "Cui (2007) - atomoxetine, 40 mg, po, n=16 (AS=1)",
+        "Cui (2007) - atomoxetine, 80 mg, po, n=16 (AS=1)"
       ]
     },
     {
       "Name": "internal_dataset",
       "Classifiables": [
-        "Cui (2007) - atomoxetine, 40 mg, po, n=16 (AS=1)",
         "Byeon (2015) - atomoxetine, 40 mg (dose normalized), n=22 (AS=2)",
         "Kim (2018) - atomoxetine, 20 mg, po, n=11 (AS=2)",
         "Nakano (2016) - atomoxetine, 50 mg, po capsules, n=42 (EM)",
         "Nakano (2016) - atomoxetine, 50 mg, po solution, n=42 (EM)",
         "Sauer (2003) - atomoxetine, 20 mg b.i.d., po, n=3 (PM)",
-        "Sauer (2003) - atomoxetine, 20 mg b.i.d., po, n=4 (EM)",
-        "Cui (2007) - atomoxetine, 80 mg, po, n=16 (AS=1)"
+        "Sauer (2003) - atomoxetine, 20 mg b.i.d., po, n=4 (EM)"
       ]
     }
   ]

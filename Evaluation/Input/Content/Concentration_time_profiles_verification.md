@@ -1,1 +1,1 @@
-The following verification profiles compare the final model with independent atomoxetine studies across dose, formulation, and CYP2D6 activity groups. They should be interpreted together with the study-specific observed-data records and the merged goodness-of-fit diagnostic.
+The following verification profiles compare the final model with atomoxetine study arms that were not used for model building, across dose, formulation, and CYP2D6 activity groups. They should be interpreted together with the study-specific observed-data records and the merged goodness-of-fit diagnostic.

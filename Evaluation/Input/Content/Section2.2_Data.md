@@ -5,7 +5,7 @@ The table below summarizes the drug-dependent inputs documented for the atomoxet
 | Parameter | Unit | Value | Source | Description |
 | --- | ---: | ---: | --- | --- |
 | MW | g/mol | 255.35 | [Zhong 2013](#5) | Molecular weight of atomoxetine free base. |
-| pK<sub>a</sub>,base | - | 9.80 | [Swain 2012](#5) | pKa of a basic ionization site. |
+| pK<sub>a</sub>,base | - | 9.80 | [Swain 2012](#5) | pK<sub>a</sub> of a basic ionization site. |
 | Solubility | mg/mL | 10.29 | [Swain 2012](#5) | Aqueous solubility at pH 7.4. |
 | f<sub>u</sub> | % | 1.30 | [Yu 2016](#5) | Fraction unbound in plasma. |
 | K<sub>m,CYP2D6</sub> | µmol/L | 2.30 | [Ring 2002](#5) | Michaelis constant for CYP2D6-mediated metabolism. |
@@ -18,6 +18,8 @@ The table below summarizes the drug-dependent inputs documented for the atomoxet
 | Partition coefficients | - | Berezhkovskiy | Calculated | Tissue-to-plasma partition coefficients calculated with the Berezhkovskiy method. |
 | Cellular permeabilities | cm/min | 0.32 | Calculated | Cellular permeabilities calculated with the PK-Sim Standard method. |
 | P<sub>int</sub> | cm/min | 5.23E-05 | Optimized | Specific transcellular intestinal permeability. |
+| Dissolution time (80% dissolved) | min | 5 | Assumed; [Strattera label](#5) | Time to 80% dissolution of the solid formulation (Lint80 function). Used for capsule and tablet doses. |
+| Lag time | min | 0 | Assumed; [Strattera label](#5) | Delay before dissolution of the solid formulation starts. |
 | K<sub>i,CYP2D6</sub> | µmol/L | 3.60 | [Sauer 2004](#5) | Competitive inhibition constant for CYP2D6. |
 | K<sub>i,CYP3A4</sub> | µmol/L | 34.00 | [Sauer 2004](#5) | Competitive inhibition constant for CYP3A4. |
 

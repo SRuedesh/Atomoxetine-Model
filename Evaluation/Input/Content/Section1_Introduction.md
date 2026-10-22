@@ -1,6 +1,6 @@
 Atomoxetine is a selective norepinephrine reuptake inhibitor used for the treatment of attention-deficit/hyperactivity disorder. It is administered orally and is predominantly cleared by CYP2D6-mediated metabolism, which leads to clinically relevant exposure differences between CYP2D6 phenotype and activity-score groups.
 
-This atomoxetine model is intended to describe plasma concentration-time profiles of atomoxetine across CYP2D6 phenotype and activity-score groups. It supports evaluation of CYP2D6 drug-gene interactions and interacting-drug scenarios where atomoxetine exposure is clinically relevant.
+This atomoxetine model is intended to describe plasma concentration-time profiles of atomoxetine across CYP2D6 phenotype and activity-score groups. It supports evaluation of CYP2D6 drug-gene interactions.
 
 The whole-body PBPK model of atomoxetine was developed by [Rüdesheim 2022](#5) together with paroxetine and risperidone models to describe CYP2D6 activity score-dependent metabolism. The clinical data include oral single-dose and repeated-dose administration of atomoxetine as solution, capsule, or tablet and CYP2D6 phenotype or activity-score stratified groups.
 
