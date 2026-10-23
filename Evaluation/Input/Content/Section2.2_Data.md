@@ -39,7 +39,7 @@ The CYP2D6 activity-score-specific catalytic rate constants used in the model ar
 
 ### Clinical data
 
-The evaluation uses 14 atomoxetine plasma concentration-time profiles from healthy adults ([Table 2](#table-2)). Six profiles were used for model building and eight profiles were used for model verification.
+The evaluation uses 18 atomoxetine plasma concentration-time profiles from healthy adults ([Table 2](#table-2)). Six profiles were used for model building and 12 profiles were used for model verification. Four verification profiles are the atomoxetine-only control arms of the CYP2D6 interaction network ([Rüdesheim 2025](#5)): [Jung 2020](#5) (three CYP2D6 activity-score groups) and [Todor 2015](#5).
 
 | Source | Dose [mg] / schedule\* | Age [years] | Weight [kg] | Sex | N | Form. | CYP2D6 characterization |
 | --- | --- | --- | --- | --- | ---: | --- | --- |
@@ -49,12 +49,16 @@ The evaluation uses 14 atomoxetine plasma concentration-time profiles from healt
 | [Byeon 2015](#5)<sup>+</sup> | 40 | 23 | 67 | Male | 22 | Capsule | AS = 2 (NM) |
 | [Cui 2007](#5) | 40 q.d. on days 1-3 | 20-29 | 53-72 | 33% female | 16 | Capsule | AS = 1 (IM) |
 | [Cui 2007](#5) | 80 q.d. on days 4-10 | 20-29 | 53-72 | 33% female | 16 | Capsule | AS = 1 (IM) |
+| [Jung 2020](#5) | 20 | 23 | 61 | Male | 7 | Capsule | AS = 0.5 (IM) |
+| [Jung 2020](#5) | 20 | 32 | 65 | Male | 9 | Capsule | AS = 1.25 (NM) |
+| [Jung 2020](#5) | 20 | 22 | 64 | Male | 10 | Capsule | AS = 2 (NM) |
 | [Kim 2018](#5) | 20 | 19-25 | 52-72 | Male | 8 | Capsule | AS = 0.5 (IM) |
 | [Kim 2018](#5)<sup>+</sup> | 20 | 19-25 | 49-73 | Male | 11 | Capsule | AS = 2 (NM) |
 | [Nakano 2016](#5)<sup>+</sup> | 50 | 23 (20-37) | 62 (52-76) | Male | 42 | Capsule | EM |
 | [Nakano 2016](#5)<sup>+</sup> | 50 | 23 (20-37) | 62 (52-76) | Male | 42 | Solution | EM |
 | [Sauer 2003](#5)<sup>+</sup> | 20 b.i.d., 11 doses | 45 (38-54) | NR | Male | 4 | Capsule | EM |
 | [Sauer 2003](#5)<sup>+</sup> | 20 b.i.d., 11 doses | 35 (19-49) | NR | Male | 3 | Capsule | PM |
+| [Todor 2015](#5) | 25 | 25 | 72 | Male | 22 | Capsule | EM |
 | [Todor 2016](#5) | 25 | 18-55 | NR | NR | 18 | Capsule | EM |
 | [Todor 2016](#5) | 25 | 18-55 | NR | NR | 2 | Capsule | PM |
 

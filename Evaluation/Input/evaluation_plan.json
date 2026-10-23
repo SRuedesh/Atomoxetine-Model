@@ -140,6 +140,26 @@
         "Project": "Atomoxetine",
         "Simulation": "Todor (2016) - atomoxetine, 25 mg, po, n=2 (PM)",
         "SectionId": 332
+      },
+      {
+        "Project": "Atomoxetine",
+        "Simulation": "Jung (2020) - atomoxetine, 20 mg, po, n=7 (AS=0.5)",
+        "SectionId": 332
+      },
+      {
+        "Project": "Atomoxetine",
+        "Simulation": "Jung (2020) - atomoxetine, 20 mg, po, n=9 (AS=1.25)",
+        "SectionId": 332
+      },
+      {
+        "Project": "Atomoxetine",
+        "Simulation": "Jung (2020) - atomoxetine, 20 mg, po, n=10 (AS=2)",
+        "SectionId": 332
+      },
+      {
+        "Project": "Atomoxetine",
+        "Simulation": "Todor (2015) - atomoxetine, 25 mg, po, n=22 (EM)",
+        "SectionId": 332
       }
     ],
     "GOFMergedPlots": [
@@ -256,6 +276,34 @@
                 "Simulation": "Todor (2016) - atomoxetine, 25 mg, po, n=2 (PM)",
                 "Output": "Organism|PeripheralVenousBlood|Atomoxetine|Plasma (Peripheral Venous Blood)",
                 "ObservedData": "Todor (2016) - atomoxetine, 25 mg, po, n=2 (PM), atomoxetine",
+                "Color": "#FF0000"
+              },
+              {
+                "Project": "Atomoxetine",
+                "Simulation": "Jung (2020) - atomoxetine, 20 mg, po, n=7 (AS=0.5)",
+                "Output": "Organism|PeripheralVenousBlood|Atomoxetine|Plasma (Peripheral Venous Blood)",
+                "ObservedData": "Jung (2020) - atomoxetine, 20 mg, po, n=7 (AS=0.5), atomoxetine",
+                "Color": "#FF0000"
+              },
+              {
+                "Project": "Atomoxetine",
+                "Simulation": "Jung (2020) - atomoxetine, 20 mg, po, n=9 (AS=1.25)",
+                "Output": "Organism|PeripheralVenousBlood|Atomoxetine|Plasma (Peripheral Venous Blood)",
+                "ObservedData": "Jung (2020) - atomoxetine, 20 mg, po, n=9 (AS=1.25), atomoxetine",
+                "Color": "#FF0000"
+              },
+              {
+                "Project": "Atomoxetine",
+                "Simulation": "Jung (2020) - atomoxetine, 20 mg, po, n=10 (AS=2)",
+                "Output": "Organism|PeripheralVenousBlood|Atomoxetine|Plasma (Peripheral Venous Blood)",
+                "ObservedData": "Jung (2020) - atomoxetine, 20 mg, po, n=10 (AS=2), atomoxetine",
+                "Color": "#FF0000"
+              },
+              {
+                "Project": "Atomoxetine",
+                "Simulation": "Todor (2015) - atomoxetine, 25 mg, po, n=22 (EM)",
+                "Output": "Organism|PeripheralVenousBlood|Atomoxetine|Plasma (Peripheral Venous Blood)",
+                "ObservedData": "Todor (2015) - atomoxetine, 25 mg, po, n=22 (EM), atomoxetine",
                 "Color": "#FF0000"
               }
             ]

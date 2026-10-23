@@ -33,3 +33,7 @@
 [17] Moore C, Bourque MS, Halman A, Agúndez JAG, Prows CA, Hikino K, et al. Clinical Pharmacogenetics Implementation Consortium (CPIC) Guideline for CYP2D6 Genotype and Use of 5-HT<sub>3</sub> Receptor Antagonists: 2026 Update. Clinical Pharmacology & Therapeutics. 2026;120:387-393. doi: [10.1002/cpt.70291](https://doi.org/10.1002/cpt.70291).
 
 [18] Eli Lilly and Company. STRATTERA (atomoxetine) capsules, for oral use. Prescribing information. Revised 6/2026. DailyMed set ID 309de576-c318-404a-bc15-660c2b1876fb. [https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=309de576-c318-404a-bc15-660c2b1876fb](https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=309de576-c318-404a-bc15-660c2b1876fb) (accessed 2026-10-22).
+
+[19] Jung EH, Lee YJ, Kim DH, Kang P, Lim CW, Cho CK, Jang CG, Lee SY, Bae JW. Effects of paroxetine on the pharmacokinetics of atomoxetine and its metabolites in different CYP2D6 genotypes. Archives of Pharmacal Research. 2020;43:1356-1363. doi: [10.1007/s12272-020-01300-8](https://doi.org/10.1007/s12272-020-01300-8).
+
+[20] Todor I, Popa A, Neag M, Muntean D, Bocsan C, Buzoianu A, Vlase L, Gheldiu AM, Chira R, Briciu C. The influence of paroxetine on the pharmacokinetics of atomoxetine and its main metabolite. Clujul Medical. 2015;88:513-520. doi: [10.15386/cjmed-488](https://doi.org/10.15386/cjmed-488).
